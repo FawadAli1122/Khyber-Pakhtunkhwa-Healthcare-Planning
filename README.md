@@ -15,7 +15,7 @@ It's included here as a portfolio piece for **AI automation, AI-assisted plannin
 - [What it does](#what-it-does)
 - [How it works (architecture)](#how-it-works-architecture)
 - [Repository structure](#repository-structure)
-- [Getting started](#getting-started)
+- [Getting started](#getting-started) — or see [`SETUP.md`](SETUP.md) for a full numbered step-by-step checklist
 - [Database integration](#database-integration)
 - [Telegram bot integration](#telegram-bot-integration)
 - [AI provider integration](#ai-provider-integration)
@@ -193,6 +193,8 @@ Run the whole thing with `python scripts/run_all.py`, or a specific stage direct
 ---
 
 ## Getting started
+
+> **Want a single, numbered, step-by-step checklist instead** — including exactly where to download the DEM/land-cover data and how to get the database installed and populated? See [`SETUP.md`](SETUP.md).
 
 **Prerequisites:**
 - Python 3.12+
