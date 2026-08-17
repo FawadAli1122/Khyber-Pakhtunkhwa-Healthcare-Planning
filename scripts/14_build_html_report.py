@@ -733,6 +733,13 @@ def build(source_boundary, source_population_note):
     font-size: clamp(1.7rem, 4vw, 2.5rem);
     margin: 0.5rem 0 0.6rem;
   }}
+  header.masthead .credit {{
+    margin: 1rem 0 0;
+    font-size: clamp(1.1rem, 2.4vw, 1.5rem);
+    font-weight: 800;
+    color: var(--accent);
+  }}
+  header.masthead .credit a {{ color: inherit; text-decoration: underline; }}
   header.masthead p.dek {{
     max-width: 62ch;
     color: #cfd8d4;
@@ -886,6 +893,7 @@ def build(source_boundary, source_population_note):
   <div class="eyebrow">AI-Assisted Planning Aid &middot; Open &amp; Official Data</div>
   <h1>Khyber Pakhtunkhwa Healthcare System Planning Report</h1>
   <p class="dek">A district-by-district assessment of healthcare access and 3/5/20-year planning horizons, built from the 2023 Digital Census, the KP Health Care Commission's licensed-facility registry, OpenStreetMap, KP Bureau of Statistics' Development Statistics 2025, and the Copernicus GLO-30 DEM — generated {date.today().strftime('%d %B %Y')}.</p>
+  <p class="credit">Built by Engr. Fawad Ali &middot; <a href="mailto:fawadali1234567@gmail.com">fawadali1234567@gmail.com</a></p>
 </header>
 
 <main>
