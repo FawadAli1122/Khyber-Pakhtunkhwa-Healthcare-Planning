@@ -29,3 +29,7 @@ data/raw/*.rar
 # (scripts/lib/local_db.py) - pure runtime state, created automatically
 # on first app startup. Never a system-wide PostgreSQL install.
 data/pgdata/
+
+# The Medium/LinkedIn articles are uploaded to those platforms directly,
+# not hosted in this repo - kept locally, untracked.
+articles/
