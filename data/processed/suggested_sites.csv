@@ -1,0 +1,11 @@
+district,priority,lat,lon,rationale
+Upper Kohistan,1,35.30009,73.2433,Population-weighted settlement cluster centroid; no existing facility currently mapped in this district
+Kolai Palas Kohistan,2,35.0536,72.97639,Population-weighted settlement cluster centroid; no existing facility currently mapped in this district
+Torghar,3,34.53748,72.81282,Population-weighted settlement cluster centroid; no existing facility currently mapped in this district
+Lower Kohistan,4,35.08164,72.94768,"Population-weighted settlement cluster centroid, ~9.7 km from nearest existing facility"
+Upper Dir,5,35.06832,71.96344,"Population-weighted settlement cluster centroid, ~16.8 km from nearest existing facility"
+Bajaur,6,34.75566,71.43729,"Population-weighted settlement cluster centroid, ~6.2 km from nearest existing facility"
+Orakzai,7,33.76531,71.02235,Population-weighted settlement cluster centroid; no existing facility currently mapped in this district
+Shangla,8,34.88053,72.75727,"Population-weighted settlement cluster centroid, ~4.2 km from nearest existing facility"
+Upper Chitral,9,36.4294,72.51156,"Population-weighted settlement cluster centroid, ~6.1 km from nearest existing facility"
+Charsadda,10,34.23665,71.69785,"Population-weighted settlement cluster centroid, ~2.2 km from nearest existing facility"

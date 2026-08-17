@@ -1,0 +1,7546 @@
+[
+  {
+    "name": "Ali Medical Centre",
+    "category": "Hospital",
+    "lat": 33.7104738,
+    "lon": 73.0417644,
+    "osm_id": 240218764,
+    "osm_type": "node"
+  },
+  {
+    "name": "Poly Clinic Hospital",
+    "category": "Hospital",
+    "lat": 33.7211006,
+    "lon": 73.0828053,
+    "osm_id": 253018400,
+    "osm_type": "node"
+  },
+  {
+    "name": "CMH",
+    "category": "Hospital",
+    "lat": 33.5816409,
+    "lon": 73.0492626,
+    "osm_id": 255764767,
+    "osm_type": "node"
+  },
+  {
+    "name": "Healthways",
+    "category": "Hospital",
+    "lat": 33.5952769,
+    "lon": 73.057514,
+    "osm_id": 255954369,
+    "osm_type": "node"
+  },
+  {
+    "name": "D.H.Q. Hospital",
+    "category": "Hospital",
+    "lat": 33.9994153,
+    "lon": 72.915155,
+    "osm_id": 296345225,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alrasheed Hospital Haripur",
+    "category": "Hospital",
+    "lat": 33.996244,
+    "lon": 72.9296294,
+    "osm_id": 297159227,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alghazi Hospital",
+    "category": "Hospital",
+    "lat": 33.9968489,
+    "lon": 72.9321443,
+    "osm_id": 297213052,
+    "osm_type": "node"
+  },
+  {
+    "name": "TIP Hospital",
+    "category": "Hospital",
+    "lat": 33.9689679,
+    "lon": 72.9266669,
+    "osm_id": 297470231,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad International \u064eDental Hospital and College",
+    "category": "Hospital",
+    "lat": 33.7054375,
+    "lon": 73.0794388,
+    "osm_id": 297648462,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mother Care Maternity",
+    "category": "Hospital",
+    "lat": 33.9959664,
+    "lon": 72.9419183,
+    "osm_id": 309505786,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alfaisal Hospital",
+    "category": "Hospital",
+    "lat": 33.994919,
+    "lon": 72.927017,
+    "osm_id": 309598272,
+    "osm_type": "node"
+  },
+  {
+    "name": "PAF Hospital",
+    "category": "Hospital",
+    "lat": 33.7156183,
+    "lon": 73.0170436,
+    "osm_id": 312719028,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hafiz Aslam Dental Clinic",
+    "category": "Hospital",
+    "lat": 31.3363811,
+    "lon": 73.4201276,
+    "osm_id": 617962741,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.7297173,
+    "lon": 73.0755121,
+    "osm_id": 660956958,
+    "osm_type": "node"
+  },
+  {
+    "name": "Watsons",
+    "category": "Pharmacy",
+    "lat": 33.7296318,
+    "lon": 73.0753504,
+    "osm_id": 663128024,
+    "osm_type": "node"
+  },
+  {
+    "name": "Combined Military Hospital Family Section",
+    "category": "Hospital",
+    "lat": 31.8271248,
+    "lon": 70.919967,
+    "osm_id": 846545733,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mehmood Eye Hospital",
+    "category": "Hospital",
+    "lat": 31.81402,
+    "lon": 70.91926,
+    "osm_id": 846545734,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mission Hospital",
+    "category": "Hospital",
+    "lat": 31.8228187,
+    "lon": 70.897881,
+    "osm_id": 846545735,
+    "osm_type": "node"
+  },
+  {
+    "name": "Combined Military Hospital",
+    "category": "Hospital",
+    "lat": 31.82654,
+    "lon": 70.92119,
+    "osm_id": 846545736,
+    "osm_type": "node"
+  },
+  {
+    "name": "CMH Peshawar - Combined Military Hospital",
+    "category": "Hospital",
+    "lat": 34.0034083,
+    "lon": 71.5427023,
+    "osm_id": 854341089,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Diagnostic Centre (Pvt) Ltd.",
+    "category": "Laboratory",
+    "lat": 33.7115226,
+    "lon": 73.0414392,
+    "osm_id": 920248541,
+    "osm_type": "node"
+  },
+  {
+    "name": "Goodwill Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.7225704,
+    "lon": 73.0822723,
+    "osm_id": 1140767607,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen Chemist",
+    "category": "Pharmacy",
+    "lat": 33.997294,
+    "lon": 71.491976,
+    "osm_id": 1223944102,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kidney Disease Centre",
+    "category": "Hospital",
+    "lat": 33.9918034,
+    "lon": 71.4465687,
+    "osm_id": 1224286127,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pharma",
+    "category": "Pharmacy",
+    "lat": 33.9941695,
+    "lon": 71.4509139,
+    "osm_id": 1224404630,
+    "osm_type": "node"
+  },
+  {
+    "name": "Northwest General Hospital & Research Center",
+    "category": "Hospital",
+    "lat": 33.9939681,
+    "lon": 71.435904,
+    "osm_id": 1224404657,
+    "osm_type": "node"
+  },
+  {
+    "name": "ICRC Wound Trauma Hospital",
+    "category": "Hospital",
+    "lat": 33.9960712,
+    "lon": 71.4896082,
+    "osm_id": 1226378412,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kulsoom Maternity Home",
+    "category": "Hospital",
+    "lat": 33.9911788,
+    "lon": 71.4917862,
+    "osm_id": 1226378422,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shakat Khanum Clinic",
+    "category": "Hospital",
+    "lat": 33.9908497,
+    "lon": 71.4913356,
+    "osm_id": 1226378424,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khyber Teaching Hospital - Accident and Emergency",
+    "category": "Hospital",
+    "lat": 33.995949,
+    "lon": 71.4870541,
+    "osm_id": 1226398110,
+    "osm_type": "node"
+  },
+  {
+    "name": "Safari Hospital",
+    "category": "Hospital",
+    "lat": 33.5732,
+    "lon": 73.1063687,
+    "osm_id": 1362714223,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sultani Jami Hospital",
+    "category": "Hospital",
+    "lat": 34.4162796,
+    "lon": 70.3229101,
+    "osm_id": 1378433259,
+    "osm_type": "node"
+  },
+  {
+    "name": "University Clinic",
+    "category": "Clinic",
+    "lat": 34.4773246,
+    "lon": 70.364942,
+    "osm_id": 1405324878,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khatak chemist",
+    "category": "Pharmacy",
+    "lat": 33.5859644,
+    "lon": 73.0890375,
+    "osm_id": 1412407850,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medicine Point",
+    "category": "Pharmacy",
+    "lat": 33.5865789,
+    "lon": 73.0880612,
+    "osm_id": 1412407861,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pharmecy",
+    "category": "Pharmacy",
+    "lat": 33.5968821,
+    "lon": 73.0468407,
+    "osm_id": 1414264857,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.5861966,
+    "lon": 73.0886793,
+    "osm_id": 1414865420,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hearts Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.561787,
+    "lon": 73.1065099,
+    "osm_id": 1423658185,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rdat Hospital",
+    "category": "Hospital",
+    "lat": 34.2570657,
+    "lon": 70.5678939,
+    "osm_id": 1447844112,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dara I Nur hospital",
+    "category": "Hospital",
+    "lat": 34.6809618,
+    "lon": 70.6060578,
+    "osm_id": 1512483958,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shadal Health Clinic",
+    "category": "Hospital",
+    "lat": 34.0905971,
+    "lon": 70.6646664,
+    "osm_id": 1513950686,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u063a\u0646\u064a \u062e\u06d0\u0644 \u0631\u0648\u063a\u062a\u0648\u0646",
+    "category": "Hospital",
+    "lat": 34.2147872,
+    "lon": 70.8067767,
+    "osm_id": 1524295334,
+    "osm_type": "node"
+  },
+  {
+    "name": "Agam hospital",
+    "category": "Hospital",
+    "lat": 34.2073485,
+    "lon": 70.2774307,
+    "osm_id": 1524299009,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shakeela Shabir Hospital",
+    "category": "Hospital",
+    "lat": 33.6454153,
+    "lon": 73.1753981,
+    "osm_id": 1668718996,
+    "osm_type": "node"
+  },
+  {
+    "name": "Begam Jan Hospital",
+    "category": "Hospital",
+    "lat": 33.6453694,
+    "lon": 73.1744526,
+    "osm_id": 1668719004,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ateeqa Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.6454292,
+    "lon": 73.1762726,
+    "osm_id": 1669871304,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mehria Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.6455319,
+    "lon": 73.1815083,
+    "osm_id": 1669871371,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hamza Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.6450541,
+    "lon": 73.1831712,
+    "osm_id": 1669871458,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alipur Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.6451345,
+    "lon": 73.1807841,
+    "osm_id": 1669871527,
+    "osm_type": "node"
+  },
+  {
+    "name": "New Gujarkhan Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.6454783,
+    "lon": 73.1769163,
+    "osm_id": 1669871546,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mental Hospital",
+    "category": "Hospital",
+    "lat": 34.4215028,
+    "lon": 70.4367583,
+    "osm_id": 1670191607,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0688\u06cc \u0648\u0627\u0679\u0633\u0646 \u06a9\u06cc\u0645\u0633\u0679",
+    "category": "Pharmacy",
+    "lat": 33.6321494,
+    "lon": 73.0716944,
+    "osm_id": 1672924410,
+    "osm_type": "node"
+  },
+  {
+    "name": "GujarKhan Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.6450498,
+    "lon": 73.183488,
+    "osm_id": 1673425802,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen Chemist",
+    "category": "Pharmacy",
+    "lat": 33.5523812,
+    "lon": 73.1394165,
+    "osm_id": 1698038182,
+    "osm_type": "node"
+  },
+  {
+    "name": "FGD- G7/1 Dispensary",
+    "category": "Pharmacy",
+    "lat": 33.7001979,
+    "lon": 73.0702433,
+    "osm_id": 1707143902,
+    "osm_type": "node"
+  },
+  {
+    "name": "Federal Government Dispensary - G-7/1",
+    "category": "Pharmacy",
+    "lat": 33.7004344,
+    "lon": 73.0714557,
+    "osm_id": 1707143912,
+    "osm_type": "node"
+  },
+  {
+    "name": "International Islamic Medical Centre",
+    "category": "Hospital",
+    "lat": 33.7070214,
+    "lon": 73.0780754,
+    "osm_id": 1707177004,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Nazir Darmalton",
+    "category": "Pharmacy",
+    "lat": 34.2984754,
+    "lon": 69.8058287,
+    "osm_id": 1732052421,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hesarak Darmaltoon(Hesarak Hospital",
+    "category": "Hospital",
+    "lat": 34.2929644,
+    "lon": 69.7971735,
+    "osm_id": 1732053101,
+    "osm_type": "node"
+  },
+  {
+    "name": "Jandola Hosp",
+    "category": "Hospital",
+    "lat": 32.3356394,
+    "lon": 70.1252215,
+    "osm_id": 1741002364,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ahsan Clinic",
+    "category": "Hospital",
+    "lat": 31.132379,
+    "lon": 70.5053261,
+    "osm_id": 1922123728,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alrehman Family Clinic -- Lady Doctor Samina Azhar Awan",
+    "category": "Clinic",
+    "lat": 33.6500798,
+    "lon": 73.0922567,
+    "osm_id": 2013315334,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctor Zarina Clinic (Dr. Zarina M.B.B.S & Dr. Saleha Masood Child Sp., Altrasound Sp.)",
+    "category": "Clinic",
+    "lat": 33.644787,
+    "lon": 73.0856435,
+    "osm_id": 2016144810,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Sarfraz Khan",
+    "category": "Clinic",
+    "lat": 33.6450203,
+    "lon": 73.0853096,
+    "osm_id": 2016144811,
+    "osm_type": "node"
+  },
+  {
+    "name": "Anabat Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.6439571,
+    "lon": 73.0854096,
+    "osm_id": 2016149251,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bilquis Memorial Hospital",
+    "category": "Hospital",
+    "lat": 33.6924791,
+    "lon": 73.030179,
+    "osm_id": 2147104935,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khansar Hospial",
+    "category": "Hospital",
+    "lat": 31.6388733,
+    "lon": 71.1481468,
+    "osm_id": 2272450638,
+    "osm_type": "node"
+  },
+  {
+    "name": "Wapda Hospital",
+    "category": "Hospital",
+    "lat": 34.0234601,
+    "lon": 71.5577474,
+    "osm_id": 2345384102,
+    "osm_type": "node"
+  },
+  {
+    "name": "Nawaz Memorial",
+    "category": "Hospital",
+    "lat": 33.5635945,
+    "lon": 73.0811759,
+    "osm_id": 2382402089,
+    "osm_type": "node"
+  },
+  {
+    "name": "Piyal Clinic",
+    "category": "Hospital",
+    "lat": 33.4065093,
+    "lon": 73.0941632,
+    "osm_id": 2382456547,
+    "osm_type": "node"
+  },
+  {
+    "name": "Piyal Govt Hospital",
+    "category": "Hospital",
+    "lat": 33.403997,
+    "lon": 73.0887052,
+    "osm_id": 2389361975,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sheheryar Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.5414841,
+    "lon": 73.1539679,
+    "osm_id": 2413577888,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aziz bhati Hospital",
+    "category": "Hospital",
+    "lat": 32.5988327,
+    "lon": 74.0800958,
+    "osm_id": 2418857836,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medical Center",
+    "category": "Hospital",
+    "lat": 34.0714476,
+    "lon": 72.6466471,
+    "osm_id": 2432510053,
+    "osm_type": "node"
+  },
+  {
+    "name": "CMH",
+    "category": "Hospital",
+    "lat": 34.372766,
+    "lon": 73.4661219,
+    "osm_id": 2433649244,
+    "osm_type": "node"
+  },
+  {
+    "name": "Chinese",
+    "category": "Hospital",
+    "lat": 33.6098102,
+    "lon": 73.0090668,
+    "osm_id": 2441070147,
+    "osm_type": "node"
+  },
+  {
+    "name": "Iqbal Clinic",
+    "category": "Hospital",
+    "lat": 33.6066048,
+    "lon": 73.0166268,
+    "osm_id": 2445280289,
+    "osm_type": "node"
+  },
+  {
+    "name": "HIT Hospital",
+    "category": "Hospital",
+    "lat": 33.7352271,
+    "lon": 72.82622,
+    "osm_id": 2446525132,
+    "osm_type": "node"
+  },
+  {
+    "name": "nisar hospital",
+    "category": "Hospital",
+    "lat": 33.6059169,
+    "lon": 73.0188593,
+    "osm_id": 2452453305,
+    "osm_type": "node"
+  },
+  {
+    "name": "Nghat Altrsound",
+    "category": "Hospital",
+    "lat": 33.6065199,
+    "lon": 73.0168038,
+    "osm_id": 2461171369,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sangir Hospital",
+    "category": "Hospital",
+    "lat": 33.58454,
+    "lon": 71.4370985,
+    "osm_id": 2523073933,
+    "osm_type": "node"
+  },
+  {
+    "name": "CMH (Combined Milatary Hospital)",
+    "category": "Hospital",
+    "lat": 33.5868235,
+    "lon": 71.44639,
+    "osm_id": 2523132924,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Nafees Hospital & ISRA University",
+    "category": "Hospital",
+    "lat": 33.6550843,
+    "lon": 73.2051385,
+    "osm_id": 2604141784,
+    "osm_type": "node"
+  },
+  {
+    "name": "Brain Surgery Hospital",
+    "category": "Hospital",
+    "lat": 33.6365733,
+    "lon": 73.077516,
+    "osm_id": 2606410068,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khyber Clinic",
+    "category": "Hospital",
+    "lat": 34.0019304,
+    "lon": 71.3797062,
+    "osm_id": 2612042140,
+    "osm_type": "node"
+  },
+  {
+    "name": "clinic, Dr. Samina",
+    "category": "Hospital",
+    "lat": 34.0015791,
+    "lon": 71.3780807,
+    "osm_id": 2612042141,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rafaqat Clinic",
+    "category": "Clinic",
+    "lat": 33.3662641,
+    "lon": 73.2391354,
+    "osm_id": 2623428760,
+    "osm_type": "node"
+  },
+  {
+    "name": "Basic Health Unit",
+    "category": "Hospital",
+    "lat": 33.3951959,
+    "lon": 73.2897461,
+    "osm_id": 2627507841,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Shafiq",
+    "category": "Clinic",
+    "lat": 33.6055828,
+    "lon": 73.0583723,
+    "osm_id": 2640851716,
+    "osm_type": "node"
+  },
+  {
+    "name": "KAMRAN CLINIC",
+    "category": "Clinic",
+    "lat": 33.3653063,
+    "lon": 73.2398325,
+    "osm_id": 2642297833,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tariq Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.3668462,
+    "lon": 73.2384354,
+    "osm_id": 2642308771,
+    "osm_type": "node"
+  },
+  {
+    "name": "NESCOM Hospital",
+    "category": "Hospital",
+    "lat": 33.6490366,
+    "lon": 73.0174122,
+    "osm_id": 2656259979,
+    "osm_type": "node"
+  },
+  {
+    "name": "Unanimous Hospital and Laboratory",
+    "category": "Hospital",
+    "lat": 33.5998733,
+    "lon": 73.1283915,
+    "osm_id": 2668896365,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fatima Family Clinic",
+    "category": "Clinic",
+    "lat": 33.5962565,
+    "lon": 73.1299175,
+    "osm_id": 2668920461,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al-Shifa Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.5957011,
+    "lon": 73.1294865,
+    "osm_id": 2668920470,
+    "osm_type": "node"
+  },
+  {
+    "name": "Baba Yasin orthopedic",
+    "category": "Hospital",
+    "lat": 33.6410642,
+    "lon": 72.88801,
+    "osm_id": 2685020450,
+    "osm_type": "node"
+  },
+  {
+    "name": "LHV Hospital Dharyaal",
+    "category": "Hospital",
+    "lat": 34.5081176,
+    "lon": 73.2662464,
+    "osm_id": 2694944942,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fazl-E-Illahi Hospital",
+    "category": "Hospital",
+    "lat": 32.9497193,
+    "lon": 73.746133,
+    "osm_id": 2776788099,
+    "osm_type": "node"
+  },
+  {
+    "name": "Yaqoob Hospital",
+    "category": "Hospital",
+    "lat": 32.9463309,
+    "lon": 73.744902,
+    "osm_id": 2776917401,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alqasim Hospital",
+    "category": "Hospital",
+    "lat": 32.9400913,
+    "lon": 73.7404174,
+    "osm_id": 2776942914,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pak Uk Hospital",
+    "category": "Hospital",
+    "lat": 32.938498,
+    "lon": 73.7382067,
+    "osm_id": 2776947214,
+    "osm_type": "node"
+  },
+  {
+    "name": "Akram Shaheed Memorial Clinic",
+    "category": "Clinic",
+    "lat": 32.7823887,
+    "lon": 73.1001325,
+    "osm_id": 2780713684,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ashrif Hospital Sohawa Distt Jhelum",
+    "category": "Hospital",
+    "lat": 33.1320665,
+    "lon": 73.4170898,
+    "osm_id": 2820859102,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zubair Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.1312939,
+    "lon": 73.4185999,
+    "osm_id": 2820892018,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zubair",
+    "category": "Hospital",
+    "lat": 33.1312939,
+    "lon": 73.4185221,
+    "osm_id": 2820893410,
+    "osm_type": "node"
+  },
+  {
+    "name": "BASIC HEALTH UNIT- Parshai",
+    "category": "Clinic",
+    "lat": 33.5159763,
+    "lon": 71.8491069,
+    "osm_id": 2859932648,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medical Store",
+    "category": "Clinic",
+    "lat": 33.1878389,
+    "lon": 73.1393516,
+    "osm_id": 2896892197,
+    "osm_type": "node"
+  },
+  {
+    "name": "The City Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.7019403,
+    "lon": 73.9518319,
+    "osm_id": 2905322305,
+    "osm_type": "node"
+  },
+  {
+    "name": "Care Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.4075419,
+    "lon": 73.0996963,
+    "osm_id": 2912530959,
+    "osm_type": "node"
+  },
+  {
+    "name": "Faisalabad Institute of Cardiology",
+    "category": "Hospital",
+    "lat": 31.4226762,
+    "lon": 73.0865772,
+    "osm_id": 2913762181,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0627\u0644\u0646\u0648\u0631 \u06c1\u0633\u067e\u062a\u0627\u0644",
+    "category": "Hospital",
+    "lat": 31.416341,
+    "lon": 73.0719575,
+    "osm_id": 2913763715,
+    "osm_type": "node"
+  },
+  {
+    "name": "Niaz Medicare",
+    "category": "Clinic",
+    "lat": 31.3966681,
+    "lon": 73.0989319,
+    "osm_id": 2913833613,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rashid Hospital",
+    "category": "Clinic",
+    "lat": 31.5775138,
+    "lon": 73.4811957,
+    "osm_id": 2920066439,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Khalid Saleemi",
+    "category": "Clinic",
+    "lat": 31.5693872,
+    "lon": 73.4833582,
+    "osm_id": 2920069525,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Mustafa",
+    "category": "Clinic",
+    "lat": 31.5731883,
+    "lon": 73.4829022,
+    "osm_id": 2920070882,
+    "osm_type": "node"
+  },
+  {
+    "name": "Indus Medicose",
+    "category": "Pharmacy",
+    "lat": 34.1711986,
+    "lon": 73.2255335,
+    "osm_id": 3093003679,
+    "osm_type": "node"
+  },
+  {
+    "name": "Qureshi Medicose",
+    "category": "Pharmacy",
+    "lat": 34.1476947,
+    "lon": 73.2127805,
+    "osm_id": 3093706571,
+    "osm_type": "node"
+  },
+  {
+    "name": "Habib Chemist",
+    "category": "Pharmacy",
+    "lat": 34.1801665,
+    "lon": 73.229964,
+    "osm_id": 3093921141,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ayesha Hospital",
+    "category": "Hospital",
+    "lat": 32.5770301,
+    "lon": 74.0749309,
+    "osm_id": 3144548123,
+    "osm_type": "node"
+  },
+  {
+    "name": "ayesha ilyas",
+    "category": "Hospital",
+    "lat": 32.5708064,
+    "lon": 74.074943,
+    "osm_id": 3151303925,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0628\u0634\u06cc\u0631 \u06c1\u0633\u067e\u062a\u0627\u0644",
+    "category": "Hospital",
+    "lat": 32.5683584,
+    "lon": 74.0726202,
+    "osm_id": 3151308187,
+    "osm_type": "node"
+  },
+  {
+    "name": "Innayat Children Hospital",
+    "category": "Hospital",
+    "lat": 32.5670684,
+    "lon": 74.0662278,
+    "osm_id": 3151317382,
+    "osm_type": "node"
+  },
+  {
+    "name": "ayesha ilyas hospital",
+    "category": "Hospital",
+    "lat": 32.570881,
+    "lon": 74.0753963,
+    "osm_id": 3151320736,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0627\u0644\u0627\u062d\u0645\u062f \u06a9\u0644\u06cc\u0646\u06a9",
+    "category": "Hospital",
+    "lat": 32.5721005,
+    "lon": 74.0817022,
+    "osm_id": 3151324285,
+    "osm_type": "node"
+  },
+  {
+    "name": "Atiya Clinic",
+    "category": "Hospital",
+    "lat": 32.575631,
+    "lon": 74.0731097,
+    "osm_id": 3151326945,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rehmat Hospital",
+    "category": "Hospital",
+    "lat": 32.5724802,
+    "lon": 74.0749443,
+    "osm_id": 3151327373,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ali Children",
+    "category": "Hospital",
+    "lat": 32.5775816,
+    "lon": 74.0750007,
+    "osm_id": 3151330068,
+    "osm_type": "node"
+  },
+  {
+    "name": "Malik Haider Hospital",
+    "category": "Hospital",
+    "lat": 32.5836365,
+    "lon": 74.0731821,
+    "osm_id": 3151332349,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zoha Clinic",
+    "category": "Hospital",
+    "lat": 32.5695347,
+    "lon": 74.0842997,
+    "osm_id": 3151336316,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mirza Akram Hospital",
+    "category": "Hospital",
+    "lat": 32.5792087,
+    "lon": 74.0803515,
+    "osm_id": 3151337416,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gujrat Hospital",
+    "category": "Hospital",
+    "lat": 32.5959097,
+    "lon": 74.0795468,
+    "osm_id": 3151339106,
+    "osm_type": "node"
+  },
+  {
+    "name": "Punjab Medical Center",
+    "category": "Hospital",
+    "lat": 32.5960408,
+    "lon": 74.0795522,
+    "osm_id": 3151342385,
+    "osm_type": "node"
+  },
+  {
+    "name": "Umeed Clinic and Maternity Hospital",
+    "category": "Hospital",
+    "lat": 32.6080934,
+    "lon": 74.0790801,
+    "osm_id": 3151352472,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zain Clinic",
+    "category": "Clinic",
+    "lat": 32.572519,
+    "lon": 74.0819952,
+    "osm_id": 3151361192,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Waseem Butt",
+    "category": "Clinic",
+    "lat": 32.5766779,
+    "lon": 74.084216,
+    "osm_id": 3151414107,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Shabbir Mirza, Chest Specialist",
+    "category": "Clinic",
+    "lat": 32.5817949,
+    "lon": 74.0804663,
+    "osm_id": 3151672692,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctor Hospital",
+    "category": "Hospital",
+    "lat": 32.5845215,
+    "lon": 74.0766433,
+    "osm_id": 3166500036,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hashmat Medical Complex",
+    "category": "Hospital",
+    "lat": 32.5837579,
+    "lon": 74.0765087,
+    "osm_id": 3178797941,
+    "osm_type": "node"
+  },
+  {
+    "name": "RHC",
+    "category": "Clinic",
+    "lat": 33.2124227,
+    "lon": 73.1025075,
+    "osm_id": 3178814094,
+    "osm_type": "node"
+  },
+  {
+    "name": "Government Civil Hosptial - Shini Kili.",
+    "category": "Hospital",
+    "lat": 33.6728824,
+    "lon": 71.5435832,
+    "osm_id": 3284153390,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pharmacy /  \u062f\u0648\u0627\u06cc \u06a9\u06cc \u062f\u06a9\u0627\u0646",
+    "category": "Pharmacy",
+    "lat": 33.6729216,
+    "lon": 71.5438701,
+    "osm_id": 3284156368,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctor Saleem Clinic",
+    "category": "Clinic",
+    "lat": 33.660624,
+    "lon": 71.5428127,
+    "osm_id": 3287095939,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU Dagai",
+    "category": "Hospital",
+    "lat": 34.1654443,
+    "lon": 72.3018671,
+    "osm_id": 3327035997,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dar Medical Complex",
+    "category": "Clinic",
+    "lat": 33.5905814,
+    "lon": 73.1335045,
+    "osm_id": 3335659593,
+    "osm_type": "node"
+  },
+  {
+    "name": "Msz Khan Clinic",
+    "category": "Clinic",
+    "lat": 33.6144491,
+    "lon": 73.0089714,
+    "osm_id": 3439434300,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tehsil Headquarters Hospital",
+    "category": "Hospital",
+    "lat": 36.27165,
+    "lon": 72.2579761,
+    "osm_id": 3559437851,
+    "osm_type": "node"
+  },
+  {
+    "name": "Qamar Hospital Bagh",
+    "category": "Hospital",
+    "lat": 33.9795966,
+    "lon": 73.7711485,
+    "osm_id": 3564677594,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ Hospital",
+    "category": "Hospital",
+    "lat": 33.9734293,
+    "lon": 73.7922028,
+    "osm_id": 3564683673,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctorz Hospital",
+    "category": "Hospital",
+    "lat": 33.743185,
+    "lon": 72.7826362,
+    "osm_id": 3652815784,
+    "osm_type": "node"
+  },
+  {
+    "name": "PAEC Hospital",
+    "category": "Hospital",
+    "lat": 32.422149,
+    "lon": 71.4472086,
+    "osm_id": 3901874381,
+    "osm_type": "node"
+  },
+  {
+    "name": "Clinic",
+    "category": "Clinic",
+    "lat": 36.5556632,
+    "lon": 70.9199934,
+    "osm_id": 3975513702,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hospital",
+    "category": "Hospital",
+    "lat": 35.4802603,
+    "lon": 71.7411101,
+    "osm_id": 3993237038,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aga Khan Family Health Center Khot",
+    "category": "Clinic",
+    "lat": 36.5018528,
+    "lon": 72.5274733,
+    "osm_id": 3993298626,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dispensary",
+    "category": "Clinic",
+    "lat": 36.1619028,
+    "lon": 73.2744627,
+    "osm_id": 3994783457,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dispensary",
+    "category": "Clinic",
+    "lat": 36.1619239,
+    "lon": 73.2745675,
+    "osm_id": 3994783458,
+    "osm_type": "node"
+  },
+  {
+    "name": "Govt. Dispensary",
+    "category": "Clinic",
+    "lat": 36.0829511,
+    "lon": 73.3492919,
+    "osm_id": 3995199741,
+    "osm_type": "node"
+  },
+  {
+    "name": "Health Centre Jandrote",
+    "category": "Clinic",
+    "lat": 36.2447346,
+    "lon": 73.3776969,
+    "osm_id": 3996661859,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Planning Hospital",
+    "category": "Hospital",
+    "lat": 36.2303276,
+    "lon": 73.4451753,
+    "osm_id": 3997211761,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Planning Hospital",
+    "category": "Hospital",
+    "lat": 36.2303842,
+    "lon": 73.4454796,
+    "osm_id": 3997211762,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Planning Hospital",
+    "category": "Hospital",
+    "lat": 36.2305141,
+    "lon": 73.4456613,
+    "osm_id": 3997211763,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Planning Hospital",
+    "category": "Hospital",
+    "lat": 36.2305706,
+    "lon": 73.445885,
+    "osm_id": 3997211764,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Planning Hospital",
+    "category": "Hospital",
+    "lat": 36.2306644,
+    "lon": 73.4454676,
+    "osm_id": 3997211765,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Planning Hospital",
+    "category": "Hospital",
+    "lat": 36.2306692,
+    "lon": 73.4450081,
+    "osm_id": 3997211766,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Planning Hospital",
+    "category": "Hospital",
+    "lat": 36.2306801,
+    "lon": 73.4457298,
+    "osm_id": 3997211767,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Planning Hospital",
+    "category": "Hospital",
+    "lat": 36.2307594,
+    "lon": 73.4453461,
+    "osm_id": 3997211768,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hospital",
+    "category": "Hospital",
+    "lat": 35.9969354,
+    "lon": 71.5775661,
+    "osm_id": 4007456166,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Health Centre",
+    "category": "Clinic",
+    "lat": 36.3058404,
+    "lon": 73.3831427,
+    "osm_id": 4012410028,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Health Centre",
+    "category": "Clinic",
+    "lat": 36.305873,
+    "lon": 73.3833398,
+    "osm_id": 4012410029,
+    "osm_type": "node"
+  },
+  {
+    "name": "Health Centre",
+    "category": "Clinic",
+    "lat": 36.3708346,
+    "lon": 73.3326001,
+    "osm_id": 4013954230,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hospital",
+    "category": "Hospital",
+    "lat": 36.3067753,
+    "lon": 72.2356849,
+    "osm_id": 4014652766,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hospital",
+    "category": "Hospital",
+    "lat": 36.4879493,
+    "lon": 73.269283,
+    "osm_id": 4019656062,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hospital",
+    "category": "Hospital",
+    "lat": 36.0850157,
+    "lon": 72.4579339,
+    "osm_id": 4025996388,
+    "osm_type": "node"
+  },
+  {
+    "name": "Anwar Hospital",
+    "category": "Hospital",
+    "lat": 33.6001519,
+    "lon": 73.0375314,
+    "osm_id": 4082300074,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Sadiq-Saad Shaheed Hospital",
+    "category": "Hospital",
+    "lat": 33.6000488,
+    "lon": 73.0379027,
+    "osm_id": 4082300079,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr.Gohar Zaman",
+    "category": "Clinic",
+    "lat": 33.6985009,
+    "lon": 70.3294684,
+    "osm_id": 4100182690,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0633\u062f\u06c1",
+    "category": "Clinic",
+    "lat": 33.7119636,
+    "lon": 70.3546732,
+    "osm_id": 4100357989,
+    "osm_type": "node"
+  },
+  {
+    "name": "Nelson Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.5955533,
+    "lon": 73.0487632,
+    "osm_id": 4101534190,
+    "osm_type": "node"
+  },
+  {
+    "name": "THQ Hospital",
+    "category": "Clinic",
+    "lat": 33.7056875,
+    "lon": 70.3487047,
+    "osm_id": 4102379790,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sarfraz clinic",
+    "category": "Hospital",
+    "lat": 31.0234063,
+    "lon": 73.8540493,
+    "osm_id": 4121100589,
+    "osm_type": "node"
+  },
+  {
+    "name": "Government General Hospital Samanabad",
+    "category": "Hospital",
+    "lat": 31.3851864,
+    "lon": 73.0664689,
+    "osm_id": 4130580999,
+    "osm_type": "node"
+  },
+  {
+    "name": "Trauma Centre Kallar Kahar",
+    "category": "Hospital",
+    "lat": 32.7789527,
+    "lon": 72.7144992,
+    "osm_id": 4142193190,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fauji Foundation Hospital",
+    "category": "Hospital",
+    "lat": 32.782463,
+    "lon": 72.7105846,
+    "osm_id": 4142193689,
+    "osm_type": "node"
+  },
+  {
+    "name": "shaheen Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.9325344,
+    "lon": 72.8543569,
+    "osm_id": 4144378289,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sohail Medical Clinic & Diagnostic Lab",
+    "category": "Hospital",
+    "lat": 33.650695,
+    "lon": 73.0894975,
+    "osm_id": 4146428757,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0639\u0644\u06cc \u0645\u06cc\u0688\u06cc\u06a9\u0644 \u0633\u0679\u0648\u0631",
+    "category": "Pharmacy",
+    "lat": 33.700341,
+    "lon": 70.3294827,
+    "osm_id": 4149296190,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rahman Hospital",
+    "category": "Hospital",
+    "lat": 34.1461825,
+    "lon": 73.2155607,
+    "osm_id": 4149869342,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zarbat Medical Complex",
+    "category": "Hospital",
+    "lat": 34.1461411,
+    "lon": 73.2155521,
+    "osm_id": 4149877204,
+    "osm_type": "node"
+  },
+  {
+    "name": "Smile Again Hospital Badaber Peshawar",
+    "category": "Hospital",
+    "lat": 33.9119107,
+    "lon": 71.5573328,
+    "osm_id": 4167865889,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bacha Khan Medical Complex, Shahmansor, Swabi",
+    "category": "Hospital",
+    "lat": 34.08072,
+    "lon": 72.4533671,
+    "osm_id": 4177065291,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zahedi Hospital  (Pvt).",
+    "category": "Hospital",
+    "lat": 33.1426179,
+    "lon": 73.9946405,
+    "osm_id": 4202201391,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ravi Hospital",
+    "category": "Hospital",
+    "lat": 31.3256146,
+    "lon": 73.4260014,
+    "osm_id": 4210922091,
+    "osm_type": "node"
+  },
+  {
+    "name": "Noor Memorial Hospital",
+    "category": "Hospital",
+    "lat": 32.2878241,
+    "lon": 72.2874027,
+    "osm_id": 4218548391,
+    "osm_type": "node"
+  },
+  {
+    "name": "Independent University Hospital",
+    "category": "Hospital",
+    "lat": 31.4421405,
+    "lon": 73.0314347,
+    "osm_id": 4218549289,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dantist",
+    "category": "Clinic",
+    "lat": 32.9352502,
+    "lon": 73.7153998,
+    "osm_id": 4223950192,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ambore Hospital",
+    "category": "Hospital",
+    "lat": 34.3316048,
+    "lon": 73.4695367,
+    "osm_id": 4230981392,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Rasheed House",
+    "category": "Clinic",
+    "lat": 31.2585121,
+    "lon": 72.7660229,
+    "osm_id": 4232754762,
+    "osm_type": "node"
+  },
+  {
+    "name": "Civil Hospital",
+    "category": "Hospital",
+    "lat": 34.3467055,
+    "lon": 72.2821122,
+    "osm_id": 4239988392,
+    "osm_type": "node"
+  },
+  {
+    "name": "Qazi Medical Centre",
+    "category": "Hospital",
+    "lat": 34.2001513,
+    "lon": 72.0689419,
+    "osm_id": 4251879990,
+    "osm_type": "node"
+  },
+  {
+    "name": "Patient Care Centre",
+    "category": "Hospital",
+    "lat": 33.6101818,
+    "lon": 73.0855021,
+    "osm_id": 4252478793,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ali Children Hospital",
+    "category": "Hospital",
+    "lat": 32.5793184,
+    "lon": 74.0753916,
+    "osm_id": 4255226702,
+    "osm_type": "node"
+  },
+  {
+    "name": "Malik Jawad",
+    "category": "Clinic",
+    "lat": 32.9280672,
+    "lon": 72.2831527,
+    "osm_id": 4259606089,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Salma Kafeel Clinic",
+    "category": "Clinic",
+    "lat": 33.7174231,
+    "lon": 73.0649213,
+    "osm_id": 4261349011,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ Hospital Nowshera",
+    "category": "Hospital",
+    "lat": 34.0109207,
+    "lon": 71.9753741,
+    "osm_id": 4273483395,
+    "osm_type": "node"
+  },
+  {
+    "name": "Humdard Dawakhana",
+    "category": "Clinic",
+    "lat": 33.5985245,
+    "lon": 73.0606375,
+    "osm_id": 4273581690,
+    "osm_type": "node"
+  },
+  {
+    "name": "Masjid Hakeem Cardiologist",
+    "category": "Clinic",
+    "lat": 34.0348637,
+    "lon": 73.7674884,
+    "osm_id": 4292500999,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hakeem Cardiologist Nick Name Sain ",
+    "category": "Hospital",
+    "lat": 34.0348106,
+    "lon": 73.7678626,
+    "osm_id": 4292611756,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bori Khel Hospital",
+    "category": "Hospital",
+    "lat": 32.7072799,
+    "lon": 71.7453145,
+    "osm_id": 4300805191,
+    "osm_type": "node"
+  },
+  {
+    "name": "PAF hospital",
+    "category": "Hospital",
+    "lat": 32.5894863,
+    "lon": 71.5800099,
+    "osm_id": 4302467189,
+    "osm_type": "node"
+  },
+  {
+    "name": "Miamwali City Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.5730753,
+    "lon": 71.5438132,
+    "osm_id": 4302503310,
+    "osm_type": "node"
+  },
+  {
+    "name": "Obaid Noor Hospital",
+    "category": "Hospital",
+    "lat": 32.5753134,
+    "lon": 71.5443627,
+    "osm_id": 4302503311,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Tahir Bashir Children Hospital",
+    "category": "Hospital",
+    "lat": 32.5760089,
+    "lon": 71.5434824,
+    "osm_id": 4302503313,
+    "osm_type": "node"
+  },
+  {
+    "name": "POL Hospital",
+    "category": "Hospital",
+    "lat": 33.2675547,
+    "lon": 72.4627307,
+    "osm_id": 4307053196,
+    "osm_type": "node"
+  },
+  {
+    "name": "PAF Hospital",
+    "category": "Hospital",
+    "lat": 32.0563502,
+    "lon": 72.6805041,
+    "osm_id": 4320650680,
+    "osm_type": "node"
+  },
+  {
+    "name": "District Headquarter Hospital",
+    "category": "Hospital",
+    "lat": 32.5804881,
+    "lon": 71.5433731,
+    "osm_id": 4327680634,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0639\u0645\u0631 \u0641\u0627\u0631\u0645\u06cc\u0633\u06cc",
+    "category": "Hospital",
+    "lat": 32.5817048,
+    "lon": 71.5427747,
+    "osm_id": 4327680649,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ Emergency Care",
+    "category": "Hospital",
+    "lat": 32.5797831,
+    "lon": 71.5437962,
+    "osm_id": 4327680663,
+    "osm_type": "node"
+  },
+  {
+    "name": "Nishtar Hospital",
+    "category": "Hospital",
+    "lat": 32.5828136,
+    "lon": 71.5416408,
+    "osm_id": 4327680665,
+    "osm_type": "node"
+  },
+  {
+    "name": "Basic Health Unit (BHU)",
+    "category": "Clinic",
+    "lat": 31.629119,
+    "lon": 73.765392,
+    "osm_id": 4329177991,
+    "osm_type": "node"
+  },
+  {
+    "name": "Basic Health unit (BHU)",
+    "category": "Clinic",
+    "lat": 31.653452,
+    "lon": 73.79235,
+    "osm_id": 4329177992,
+    "osm_type": "node"
+  },
+  {
+    "name": "CMH MANGLA",
+    "category": "Hospital",
+    "lat": 33.1294189,
+    "lon": 73.6165932,
+    "osm_id": 4352481797,
+    "osm_type": "node"
+  },
+  {
+    "name": "Govt Hospital",
+    "category": "Hospital",
+    "lat": 32.4291858,
+    "lon": 73.57312,
+    "osm_id": 4364239600,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mukhtar Dental",
+    "category": "Dentist",
+    "lat": 32.4282481,
+    "lon": 73.5743135,
+    "osm_id": 4368077592,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Rasheed Medical Store",
+    "category": "Pharmacy",
+    "lat": 32.4295045,
+    "lon": 73.5760264,
+    "osm_id": 4368077593,
+    "osm_type": "node"
+  },
+  {
+    "name": "Despenser",
+    "category": "Clinic",
+    "lat": 32.3990368,
+    "lon": 71.3511989,
+    "osm_id": 4370962523,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zaib Clinic",
+    "category": "Clinic",
+    "lat": 31.4233018,
+    "lon": 73.1187664,
+    "osm_id": 4386797394,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medical Stores",
+    "category": "Pharmacy",
+    "lat": 33.9777559,
+    "lon": 71.4352168,
+    "osm_id": 4403995942,
+    "osm_type": "node"
+  },
+  {
+    "name": "awan medical store",
+    "category": "Pharmacy",
+    "lat": 33.9713984,
+    "lon": 71.4318661,
+    "osm_id": 4404114190,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aziz Medical Center",
+    "category": "Clinic",
+    "lat": 33.7308751,
+    "lon": 73.0800905,
+    "osm_id": 4406908789,
+    "osm_type": "node"
+  },
+  {
+    "name": "Heart Care Centre",
+    "category": "Clinic",
+    "lat": 33.636453,
+    "lon": 73.0771008,
+    "osm_id": 4409229790,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06c1\u0648\u062f",
+    "category": "Hospital",
+    "lat": 33.7539983,
+    "lon": 73.9064188,
+    "osm_id": 4419225091,
+    "osm_type": "node"
+  },
+  {
+    "name": "raza medicose",
+    "category": "Pharmacy",
+    "lat": 33.6187218,
+    "lon": 72.9881036,
+    "osm_id": 4423755494,
+    "osm_type": "node"
+  },
+  {
+    "name": "shahid medicose",
+    "category": "Pharmacy",
+    "lat": 33.6184461,
+    "lon": 72.9877922,
+    "osm_id": 4423794492,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mardan Medical Centre Hospital",
+    "category": "Hospital",
+    "lat": 34.1541066,
+    "lon": 72.0298371,
+    "osm_id": 4432772717,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Malik Khalid Iqbal",
+    "category": "Clinic",
+    "lat": 32.717639,
+    "lon": 72.954831,
+    "osm_id": 4436240789,
+    "osm_type": "node"
+  },
+  {
+    "name": "Showkat & Hussain Clinic",
+    "category": "Clinic",
+    "lat": 34.7690669,
+    "lon": 72.3713843,
+    "osm_id": 4447665138,
+    "osm_type": "node"
+  },
+  {
+    "name": "Munir First AID Clinic Parn",
+    "category": "Clinic",
+    "lat": 34.76519,
+    "lon": 72.3768289,
+    "osm_id": 4452956634,
+    "osm_type": "node"
+  },
+  {
+    "name": "THQ Hospital Shabqadar",
+    "category": "Clinic",
+    "lat": 34.2142895,
+    "lon": 71.5490902,
+    "osm_id": 4456305689,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shadi khan",
+    "category": "Clinic",
+    "lat": 33.9270834,
+    "lon": 72.3707321,
+    "osm_id": 4457324389,
+    "osm_type": "node"
+  },
+  {
+    "name": "Roshni General Hospital",
+    "category": "Clinic",
+    "lat": 31.55101,
+    "lon": 73.827621,
+    "osm_id": 4463770097,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Fazle Amin Children Specialist",
+    "category": "Clinic",
+    "lat": 34.0087289,
+    "lon": 71.5791429,
+    "osm_id": 4464815191,
+    "osm_type": "node"
+  },
+  {
+    "name": "CMH Risalpur",
+    "category": "Clinic",
+    "lat": 34.0529394,
+    "lon": 71.9953933,
+    "osm_id": 4464941689,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ Hospital Bannu",
+    "category": "Clinic",
+    "lat": 32.97851,
+    "lon": 70.6205,
+    "osm_id": 4464943200,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aakif Eye Hospital",
+    "category": "Hospital",
+    "lat": 31.7491798,
+    "lon": 73.8330178,
+    "osm_id": 4469612790,
+    "osm_type": "node"
+  },
+  {
+    "name": "THQ Sarae Alam Gir",
+    "category": "Hospital",
+    "lat": 32.8959483,
+    "lon": 73.760097,
+    "osm_id": 4469614889,
+    "osm_type": "node"
+  },
+  {
+    "name": "Abdulsamad Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.9940854,
+    "lon": 71.4504902,
+    "osm_id": 4474552390,
+    "osm_type": "node"
+  },
+  {
+    "name": "Laprosy Hospital",
+    "category": "Clinic",
+    "lat": 33.6174945,
+    "lon": 73.0733784,
+    "osm_id": 4475167191,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hameed hospital",
+    "category": "Clinic",
+    "lat": 33.8805241,
+    "lon": 72.4017084,
+    "osm_id": 4475431589,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hameed Hospital",
+    "category": "Hospital",
+    "lat": 33.8793993,
+    "lon": 72.4023636,
+    "osm_id": 4475431689,
+    "osm_type": "node"
+  },
+  {
+    "name": "Agha Khan laboratory Collection Point",
+    "category": "Clinic",
+    "lat": 34.003656,
+    "lon": 71.560438,
+    "osm_id": 4476250689,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pak Medical Centre",
+    "category": "Clinic",
+    "lat": 34.0103174,
+    "lon": 71.5644589,
+    "osm_id": 4484291394,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0639\u0644\u06cc \u0645\u06cc\u0688\u06cc\u06a9\u0644 \u06a9\u0645\u067e\u0644\u06cc\u06a9\u0633",
+    "category": "Clinic",
+    "lat": 32.5806932,
+    "lon": 71.5395924,
+    "osm_id": 4487178389,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rural Health Centre Jandiala Sher khan",
+    "category": "Clinic",
+    "lat": 31.8262046,
+    "lon": 73.908356,
+    "osm_id": 4499774989,
+    "osm_type": "node"
+  },
+  {
+    "name": "Banu Bagh(Mashumanu jabai)",
+    "category": "Clinic",
+    "lat": 34.0075403,
+    "lon": 71.5852653,
+    "osm_id": 4506410697,
+    "osm_type": "node"
+  },
+  {
+    "name": "New  Roshni General Hospital",
+    "category": "Clinic",
+    "lat": 31.5435535,
+    "lon": 73.8365098,
+    "osm_id": 4515428989,
+    "osm_type": "node"
+  },
+  {
+    "name": "THQ hospital nowshera virkan",
+    "category": "Clinic",
+    "lat": 31.9639188,
+    "lon": 73.9746341,
+    "osm_id": 4516838193,
+    "osm_type": "node"
+  },
+  {
+    "name": "RHC Jandiala Sher Khan",
+    "category": "Clinic",
+    "lat": 31.8262441,
+    "lon": 73.9084481,
+    "osm_id": 4524262489,
+    "osm_type": "node"
+  },
+  {
+    "name": "Munir Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.5718119,
+    "lon": 73.4836698,
+    "osm_id": 4529989292,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Farhat Hospital",
+    "category": "Hospital",
+    "lat": 31.5718966,
+    "lon": 73.4869212,
+    "osm_id": 4530006095,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dua Family Hospital",
+    "category": "Hospital",
+    "lat": 33.566509,
+    "lon": 73.1375352,
+    "osm_id": 4533827300,
+    "osm_type": "node"
+  },
+  {
+    "name": "Wah General hospital",
+    "category": "Hospital",
+    "lat": 33.7770166,
+    "lon": 72.7128376,
+    "osm_id": 4534545605,
+    "osm_type": "node"
+  },
+  {
+    "name": "Abid Medical Store",
+    "category": "Clinic",
+    "lat": 31.5676771,
+    "lon": 73.1832986,
+    "osm_id": 4535291289,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u062f\u06cc\u06c1\u06cc \u0645\u0631\u06a9\u0632 \u0635\u062d\u062a \u06a9\u0627\u0644\u06cc\u06a9\u06cc \u0645\u0646\u0688\u06cc",
+    "category": "Hospital",
+    "lat": 31.9769094,
+    "lon": 73.5900629,
+    "osm_id": 4537102691,
+    "osm_type": "node"
+  },
+  {
+    "name": "RHC, Sukheke",
+    "category": "Hospital",
+    "lat": 31.8698098,
+    "lon": 73.4849574,
+    "osm_id": 4537142489,
+    "osm_type": "node"
+  },
+  {
+    "name": "per damunu wala",
+    "category": "Clinic",
+    "lat": 33.9650398,
+    "lon": 71.4154089,
+    "osm_id": 4541532491,
+    "osm_type": "node"
+  },
+  {
+    "name": "choohar chak gujranwala",
+    "category": "Clinic",
+    "lat": 32.0328961,
+    "lon": 73.9447124,
+    "osm_id": 4543006229,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Nabila",
+    "category": "Clinic",
+    "lat": 34.2161181,
+    "lon": 71.5502073,
+    "osm_id": 4546012289,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU CHAK CHAUDHRY",
+    "category": "Hospital",
+    "lat": 32.0283524,
+    "lon": 73.9352971,
+    "osm_id": 4546108689,
+    "osm_type": "node"
+  },
+  {
+    "name": "Chaudhary medical store",
+    "category": "Pharmacy",
+    "lat": 33.7683067,
+    "lon": 72.3548449,
+    "osm_id": 4557483089,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen Chemist",
+    "category": "Pharmacy",
+    "lat": 33.6673746,
+    "lon": 73.0753908,
+    "osm_id": 4562014739,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al-Jannat Hospital",
+    "category": "Hospital",
+    "lat": 33.7861384,
+    "lon": 72.3595693,
+    "osm_id": 4567433591,
+    "osm_type": "node"
+  },
+  {
+    "name": "mission hospital peshawar",
+    "category": "Hospital",
+    "lat": 34.0037555,
+    "lon": 71.5571769,
+    "osm_id": 4570305408,
+    "osm_type": "node"
+  },
+  {
+    "name": "shaukat khanum hospital collection point",
+    "category": "Pharmacy",
+    "lat": 34.0035523,
+    "lon": 71.5594165,
+    "osm_id": 4570305409,
+    "osm_type": "node"
+  },
+  {
+    "name": "sadiq medicose",
+    "category": "Pharmacy",
+    "lat": 34.0034627,
+    "lon": 71.5596978,
+    "osm_id": 4570347090,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kardar Hospital Faisalabad",
+    "category": "Hospital",
+    "lat": 31.4141979,
+    "lon": 73.1129579,
+    "osm_id": 4570439189,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bakhtawar hospital",
+    "category": "Clinic",
+    "lat": 31.5191436,
+    "lon": 70.9197792,
+    "osm_id": 4575599794,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ali hospital",
+    "category": "Hospital",
+    "lat": 33.6575297,
+    "lon": 73.0580065,
+    "osm_id": 4581586890,
+    "osm_type": "node"
+  },
+  {
+    "name": "alhafeez medical store",
+    "category": "Pharmacy",
+    "lat": 33.6616107,
+    "lon": 73.0669738,
+    "osm_id": 4581606590,
+    "osm_type": "node"
+  },
+  {
+    "name": "syed anwar medical centre",
+    "category": "Hospital",
+    "lat": 34.0038113,
+    "lon": 71.5553226,
+    "osm_id": 4581606691,
+    "osm_type": "node"
+  },
+  {
+    "name": "AERO Hospital",
+    "category": "Hospital",
+    "lat": 33.8402207,
+    "lon": 72.7301323,
+    "osm_id": 4582408114,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Tahira nasreen gynaecologist",
+    "category": "Clinic",
+    "lat": 34.0233043,
+    "lon": 71.5553035,
+    "osm_id": 4586526189,
+    "osm_type": "node"
+  },
+  {
+    "name": "Farid Family Hospital",
+    "category": "Hospital",
+    "lat": 33.5980529,
+    "lon": 73.0237556,
+    "osm_id": 4590878152,
+    "osm_type": "node"
+  },
+  {
+    "name": "Nelson Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.5978165,
+    "lon": 73.0237086,
+    "osm_id": 4590914895,
+    "osm_type": "node"
+  },
+  {
+    "name": "D watson",
+    "category": "Pharmacy",
+    "lat": 33.5969412,
+    "lon": 73.0468227,
+    "osm_id": 4594376395,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen chemist",
+    "category": "Pharmacy",
+    "lat": 33.5968593,
+    "lon": 73.0469347,
+    "osm_id": 4594402794,
+    "osm_type": "node"
+  },
+  {
+    "name": "Premium Diagnostic Centre",
+    "category": "Clinic",
+    "lat": 33.5935408,
+    "lon": 73.051399,
+    "osm_id": 4594571080,
+    "osm_type": "node"
+  },
+  {
+    "name": "Drug Bank",
+    "category": "Pharmacy",
+    "lat": 33.9973302,
+    "lon": 71.5399826,
+    "osm_id": 4599364389,
+    "osm_type": "node"
+  },
+  {
+    "name": "sarwar hospital",
+    "category": "Hospital",
+    "lat": 31.9656273,
+    "lon": 73.9759734,
+    "osm_id": 4602214197,
+    "osm_type": "node"
+  },
+  {
+    "name": "family hospital",
+    "category": "Hospital",
+    "lat": 33.6146108,
+    "lon": 72.9955142,
+    "osm_id": 4603298715,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bismillah diagonostic centre",
+    "category": "Clinic",
+    "lat": 33.6144206,
+    "lon": 72.9962316,
+    "osm_id": 4603323292,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zainab Meternity Home",
+    "category": "Clinic",
+    "lat": 31.5715932,
+    "lon": 73.4881016,
+    "osm_id": 4614067491,
+    "osm_type": "node"
+  },
+  {
+    "name": "District Hospital Charsadda",
+    "category": "Hospital",
+    "lat": 34.1532674,
+    "lon": 71.7449071,
+    "osm_id": 4641731290,
+    "osm_type": "node"
+  },
+  {
+    "name": "Civil Dispensary Gari Atta Muhammad",
+    "category": "Hospital",
+    "lat": 33.9776073,
+    "lon": 71.584092,
+    "osm_id": 4651145292,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hazar hait",
+    "category": "Clinic",
+    "lat": 34.1907369,
+    "lon": 72.4643661,
+    "osm_id": 4662982011,
+    "osm_type": "node"
+  },
+  {
+    "name": "Emergency Holy Family Hospital",
+    "category": "Hospital",
+    "lat": 33.6415427,
+    "lon": 73.0579331,
+    "osm_id": 4666195507,
+    "osm_type": "node"
+  },
+  {
+    "name": "Smart Care",
+    "category": "Pharmacy",
+    "lat": 33.9743589,
+    "lon": 71.4438254,
+    "osm_id": 4679730891,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mujahid pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.4446151,
+    "lon": 73.0992083,
+    "osm_id": 4690600789,
+    "osm_type": "node"
+  },
+  {
+    "name": "Abrar Surgery",
+    "category": "Hospital",
+    "lat": 33.6021195,
+    "lon": 73.0317435,
+    "osm_id": 4692624592,
+    "osm_type": "node"
+  },
+  {
+    "name": "PAEC General Hospital",
+    "category": "Hospital",
+    "lat": 33.6522249,
+    "lon": 73.0158687,
+    "osm_id": 4715980289,
+    "osm_type": "node"
+  },
+  {
+    "name": "Care and Cure pharmacy and mart",
+    "category": "Pharmacy",
+    "lat": 33.9729247,
+    "lon": 71.4793552,
+    "osm_id": 4718263492,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0633\u06cc\u0646\u0679 \u062c\u0648\u0632\u0641 \u06c1\u0627\u0633\u067e\u06cc\u0633",
+    "category": "Hospital",
+    "lat": 33.6152537,
+    "lon": 73.0265796,
+    "osm_id": 4720409791,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kanwar Saeed Hospital",
+    "category": "Hospital",
+    "lat": 32.6252233,
+    "lon": 73.9670895,
+    "osm_id": 4721551389,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kanwar Saeed Hospital",
+    "category": "Hospital",
+    "lat": 32.6888498,
+    "lon": 73.7674331,
+    "osm_id": 4721551390,
+    "osm_type": "node"
+  },
+  {
+    "name": "Prime medicine",
+    "category": "Pharmacy",
+    "lat": 32.5840735,
+    "lon": 74.0720996,
+    "osm_id": 4723560589,
+    "osm_type": "node"
+  },
+  {
+    "name": "Insaf Clinic",
+    "category": "Clinic",
+    "lat": 34.6438391,
+    "lon": 73.0688054,
+    "osm_id": 4730073290,
+    "osm_type": "node"
+  },
+  {
+    "name": "medhelp chemist",
+    "category": "Pharmacy",
+    "lat": 33.69503,
+    "lon": 73.0142582,
+    "osm_id": 4732506421,
+    "osm_type": "node"
+  },
+  {
+    "name": "Prime medicine",
+    "category": "Pharmacy",
+    "lat": 32.5840245,
+    "lon": 74.0720537,
+    "osm_id": 4736481223,
+    "osm_type": "node"
+  },
+  {
+    "name": "Faisal Hospital",
+    "category": "Hospital",
+    "lat": 31.4159616,
+    "lon": 73.1020506,
+    "osm_id": 4739080643,
+    "osm_type": "node"
+  },
+  {
+    "name": "Faisal Hospital",
+    "category": "Hospital",
+    "lat": 31.4158475,
+    "lon": 73.1019231,
+    "osm_id": 4739080644,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctors hospital",
+    "category": "Hospital",
+    "lat": 32.5952988,
+    "lon": 74.0790345,
+    "osm_id": 4741034024,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctors hospital",
+    "category": "Hospital",
+    "lat": 32.5846691,
+    "lon": 74.0763675,
+    "osm_id": 4741034025,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alshifa family hospital",
+    "category": "Hospital",
+    "lat": 32.4308901,
+    "lon": 73.5820277,
+    "osm_id": 4744465823,
+    "osm_type": "node"
+  },
+  {
+    "name": "Naseer clinic",
+    "category": "Clinic",
+    "lat": 32.296929,
+    "lon": 73.5008895,
+    "osm_id": 4744588821,
+    "osm_type": "node"
+  },
+  {
+    "name": "Noor Fatima hospital",
+    "category": "Hospital",
+    "lat": 32.6260726,
+    "lon": 73.7241004,
+    "osm_id": 4746430625,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0627\u0644\u0641\u06cc\u0632\u0627\u0646 \u0633\u0631\u062c\u06cc\u06a9\u0644 \u06c1\u0633\u067e\u062a\u0627\u0644",
+    "category": "Hospital",
+    "lat": 32.6414647,
+    "lon": 73.7303067,
+    "osm_id": 4746467121,
+    "osm_type": "node"
+  },
+  {
+    "name": "Amir Javid medical complex",
+    "category": "Hospital",
+    "lat": 32.8080575,
+    "lon": 73.8691758,
+    "osm_id": 4746478625,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khalil hospital",
+    "category": "Hospital",
+    "lat": 32.6115893,
+    "lon": 73.6900759,
+    "osm_id": 4746623121,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rasheed Medical Store",
+    "category": "Pharmacy",
+    "lat": 32.2869603,
+    "lon": 71.3657709,
+    "osm_id": 4753219656,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rehmat children hospital",
+    "category": "Hospital",
+    "lat": 32.6900527,
+    "lon": 73.9641862,
+    "osm_id": 4755788822,
+    "osm_type": "node"
+  },
+  {
+    "name": "Eman Pharmacy",
+    "category": "Clinic",
+    "lat": 32.4619052,
+    "lon": 73.824926,
+    "osm_id": 4768959626,
+    "osm_type": "node"
+  },
+  {
+    "name": "Liaqat Medical Store",
+    "category": "Clinic",
+    "lat": 32.488547,
+    "lon": 73.6561639,
+    "osm_id": 4778845921,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rescue 1122",
+    "category": "Hospital",
+    "lat": 32.9752205,
+    "lon": 73.6870826,
+    "osm_id": 4780400904,
+    "osm_type": "node"
+  },
+  {
+    "name": "al muslim pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6850003,
+    "lon": 73.0429764,
+    "osm_id": 4783119127,
+    "osm_type": "node"
+  },
+  {
+    "name": "J. A. TANOLI Residence",
+    "category": "Clinic",
+    "lat": 33.5846404,
+    "lon": 73.0918658,
+    "osm_id": 4785084521,
+    "osm_type": "node"
+  },
+  {
+    "name": "Emaan Clinic",
+    "category": "Clinic",
+    "lat": 33.6280326,
+    "lon": 73.0966195,
+    "osm_id": 4786631410,
+    "osm_type": "node"
+  },
+  {
+    "name": "khalid pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6849474,
+    "lon": 73.0428914,
+    "osm_id": 4790230621,
+    "osm_type": "node"
+  },
+  {
+    "name": "Prime Care Hospital",
+    "category": "Hospital",
+    "lat": 31.4270802,
+    "lon": 73.1273911,
+    "osm_id": 4793485622,
+    "osm_type": "node"
+  },
+  {
+    "name": "Orthpedic and surgical complex",
+    "category": "Hospital",
+    "lat": 31.8193213,
+    "lon": 70.9123198,
+    "osm_id": 4794842222,
+    "osm_type": "node"
+  },
+  {
+    "name": "THQ Hospital Shabqadar",
+    "category": "Hospital",
+    "lat": 34.2157671,
+    "lon": 71.548633,
+    "osm_id": 4807311321,
+    "osm_type": "node"
+  },
+  {
+    "name": "Animal Hospital",
+    "category": "Hospital",
+    "lat": 34.1525592,
+    "lon": 71.7441833,
+    "osm_id": 4807311323,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gulraiz medical store",
+    "category": "Pharmacy",
+    "lat": 31.8344464,
+    "lon": 71.4367919,
+    "osm_id": 4809592424,
+    "osm_type": "node"
+  },
+  {
+    "name": "Maj Gen Mazhar Ishaq Eye  Clanic",
+    "category": "Optometrist",
+    "lat": 33.584631,
+    "lon": 73.0628553,
+    "osm_id": 4815753822,
+    "osm_type": "node"
+  },
+  {
+    "name": "Cheema Hospital",
+    "category": "Hospital",
+    "lat": 32.5797918,
+    "lon": 73.4809733,
+    "osm_id": 4822962021,
+    "osm_type": "node"
+  },
+  {
+    "name": "Clinic",
+    "category": "Pharmacy",
+    "lat": 31.4372533,
+    "lon": 73.0498328,
+    "osm_id": 4844724671,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Shifa Medical Complex",
+    "category": "Hospital",
+    "lat": 33.43546,
+    "lon": 72.0205931,
+    "osm_id": 4850154723,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Rahman Ghai House",
+    "category": "Hospital",
+    "lat": 34.4375934,
+    "lon": 72.0678726,
+    "osm_id": 4860169411,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Ghufran Hijama Centre",
+    "category": "Clinic",
+    "lat": 33.5996076,
+    "lon": 73.1273287,
+    "osm_id": 4863150921,
+    "osm_type": "node"
+  },
+  {
+    "name": "RHC 67 ML",
+    "category": "Hospital",
+    "lat": 31.3968324,
+    "lon": 71.2271947,
+    "osm_id": 4869419226,
+    "osm_type": "node"
+  },
+  {
+    "name": "Truworth Drug store",
+    "category": "Pharmacy",
+    "lat": 33.7166075,
+    "lon": 73.0842635,
+    "osm_id": 4874973780,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al-Rehman Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.6686625,
+    "lon": 72.9968373,
+    "osm_id": 4880197902,
+    "osm_type": "node"
+  },
+  {
+    "name": "Maryam Hospital and Diagnostic Center",
+    "category": "Hospital",
+    "lat": 33.6677207,
+    "lon": 72.9981512,
+    "osm_id": 4880197909,
+    "osm_type": "node"
+  },
+  {
+    "name": "FGD - G-10/3, Dispensary",
+    "category": "Pharmacy",
+    "lat": 33.6836701,
+    "lon": 73.0135267,
+    "osm_id": 4887841036,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Ain International Specialist Eye Hospital",
+    "category": "Hospital",
+    "lat": 33.6863031,
+    "lon": 73.0208068,
+    "osm_id": 4889677808,
+    "osm_type": "node"
+  },
+  {
+    "name": "K R L General Hospital",
+    "category": "Hospital",
+    "lat": 33.6776437,
+    "lon": 73.0318287,
+    "osm_id": 4889677811,
+    "osm_type": "node"
+  },
+  {
+    "name": "My Chemist",
+    "category": "Pharmacy",
+    "lat": 33.6846171,
+    "lon": 73.0417726,
+    "osm_id": 4889681829,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Taliya's Clinic",
+    "category": "Clinic",
+    "lat": 33.689503,
+    "lon": 73.0400877,
+    "osm_id": 4889744126,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pioneer Labs &  Clinic for Pets",
+    "category": "Pharmacy",
+    "lat": 33.6396635,
+    "lon": 73.0745146,
+    "osm_id": 4898664821,
+    "osm_type": "node"
+  },
+  {
+    "name": "National Institute for Handicapped",
+    "category": "Hospital",
+    "lat": 33.6960409,
+    "lon": 73.0412787,
+    "osm_id": 4899052823,
+    "osm_type": "node"
+  },
+  {
+    "name": "National Institute of Rehabilitation Medicine",
+    "category": "Hospital",
+    "lat": 33.6963265,
+    "lon": 73.0419063,
+    "osm_id": 4899052824,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ali Homeopathic Clinic",
+    "category": "Clinic",
+    "lat": 33.6549354,
+    "lon": 73.08188,
+    "osm_id": 4899250509,
+    "osm_type": "node"
+  },
+  {
+    "name": "Urgent Medical Diagnostics Centre",
+    "category": "Hospital",
+    "lat": 33.6418166,
+    "lon": 73.0782873,
+    "osm_id": 4899252258,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gulf Medical Centre",
+    "category": "Hospital",
+    "lat": 33.6353124,
+    "lon": 73.076541,
+    "osm_id": 4899417042,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ahmad Medical Complex",
+    "category": "Hospital",
+    "lat": 33.6338782,
+    "lon": 73.0769578,
+    "osm_id": 4899417047,
+    "osm_type": "node"
+  },
+  {
+    "name": "Citi Lab",
+    "category": "Pharmacy",
+    "lat": 33.6278652,
+    "lon": 73.0701392,
+    "osm_id": 4901403880,
+    "osm_type": "node"
+  },
+  {
+    "name": "APPLE PHARMACY",
+    "category": "Pharmacy",
+    "lat": 33.6267021,
+    "lon": 73.0694116,
+    "osm_id": 4901403882,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shakir Hospital",
+    "category": "Hospital",
+    "lat": 31.7120191,
+    "lon": 73.9939411,
+    "osm_id": 4910585820,
+    "osm_type": "node"
+  },
+  {
+    "name": "Punjab Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.7119378,
+    "lon": 73.9832372,
+    "osm_id": 4910707089,
+    "osm_type": "node"
+  },
+  {
+    "name": "Yousaf Qurashi Hospital",
+    "category": "Hospital",
+    "lat": 31.7117509,
+    "lon": 73.982994,
+    "osm_id": 4910707092,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bilal Lab",
+    "category": "Pharmacy",
+    "lat": 31.7114752,
+    "lon": 73.9796454,
+    "osm_id": 4910707100,
+    "osm_type": "node"
+  },
+  {
+    "name": "Punjab Hospital",
+    "category": "Hospital",
+    "lat": 31.7135651,
+    "lon": 73.9753077,
+    "osm_id": 4910707104,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khadija Poly Clinic",
+    "category": "Clinic",
+    "lat": 31.712367,
+    "lon": 73.9688819,
+    "osm_id": 4910707108,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sairah Surgical Hospital",
+    "category": "Hospital",
+    "lat": 31.7190746,
+    "lon": 73.9526994,
+    "osm_id": 4910707120,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Shifa Hospital",
+    "category": "Hospital",
+    "lat": 31.7140729,
+    "lon": 73.9962744,
+    "osm_id": 4910850598,
+    "osm_type": "node"
+  },
+  {
+    "name": "Yousaf Siddiqui Hospital",
+    "category": "Hospital",
+    "lat": 31.7141029,
+    "lon": 73.9965529,
+    "osm_id": 4910850599,
+    "osm_type": "node"
+  },
+  {
+    "name": "Allaha Hoo Medicen Company",
+    "category": "Pharmacy",
+    "lat": 31.7137391,
+    "lon": 73.9961881,
+    "osm_id": 4910850600,
+    "osm_type": "node"
+  },
+  {
+    "name": "DLO SKP",
+    "category": "Hospital",
+    "lat": 31.7137592,
+    "lon": 73.9980907,
+    "osm_id": 4910850601,
+    "osm_type": "node"
+  },
+  {
+    "name": "Abida Clinic",
+    "category": "Clinic",
+    "lat": 31.722998,
+    "lon": 73.9969822,
+    "osm_id": 4910850604,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fauji Foundation Dispensary",
+    "category": "Hospital",
+    "lat": 31.7095796,
+    "lon": 74.0003817,
+    "osm_id": 4912198461,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sultan Hospital",
+    "category": "Hospital",
+    "lat": 31.7038671,
+    "lon": 74.0165627,
+    "osm_id": 4912198476,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mukhtar Memorial Hospital",
+    "category": "Hospital",
+    "lat": 31.7025666,
+    "lon": 74.0194207,
+    "osm_id": 4912198477,
+    "osm_type": "node"
+  },
+  {
+    "name": "New Social Security Hospital",
+    "category": "Hospital",
+    "lat": 31.7092073,
+    "lon": 73.9958523,
+    "osm_id": 4912198481,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ashraf General Hospital",
+    "category": "Hospital",
+    "lat": 31.7058076,
+    "lon": 73.9951436,
+    "osm_id": 4912198482,
+    "osm_type": "node"
+  },
+  {
+    "name": "Site for AlHamd Hospital",
+    "category": "Hospital",
+    "lat": 31.8207061,
+    "lon": 73.9211983,
+    "osm_id": 4935296521,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kashmir pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6393226,
+    "lon": 73.0579976,
+    "osm_id": 4942253043,
+    "osm_type": "node"
+  },
+  {
+    "name": "Eidhi",
+    "category": "Hospital",
+    "lat": 33.6354707,
+    "lon": 73.0661308,
+    "osm_id": 4942271323,
+    "osm_type": "node"
+  },
+  {
+    "name": "Chemist",
+    "category": "Pharmacy",
+    "lat": 33.6398376,
+    "lon": 73.0593055,
+    "osm_id": 4942272724,
+    "osm_type": "node"
+  },
+  {
+    "name": "D-Watson",
+    "category": "Pharmacy",
+    "lat": 33.6375234,
+    "lon": 73.0631946,
+    "osm_id": 4942272821,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen chemist",
+    "category": "Pharmacy",
+    "lat": 33.6370475,
+    "lon": 73.0630724,
+    "osm_id": 4942272822,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctor Tariq Ghani clinic",
+    "category": "Clinic",
+    "lat": 33.632542,
+    "lon": 73.0594565,
+    "osm_id": 4942273023,
+    "osm_type": "node"
+  },
+  {
+    "name": "Federal Government Dispensary(FGD)- P Block",
+    "category": "Hospital",
+    "lat": 33.7350867,
+    "lon": 73.0937061,
+    "osm_id": 4943934765,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Private Hospital",
+    "category": "Hospital",
+    "lat": 33.7263874,
+    "lon": 73.0882827,
+    "osm_id": 4954380782,
+    "osm_type": "node"
+  },
+  {
+    "name": "Nayab Labs & Diagnostic Centre",
+    "category": "Pharmacy",
+    "lat": 33.7224539,
+    "lon": 73.0820408,
+    "osm_id": 4954642830,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hadi Jor Clinic",
+    "category": "Clinic",
+    "lat": 33.7224927,
+    "lon": 73.0821087,
+    "osm_id": 4954642831,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kulsum International Hospital",
+    "category": "Hospital",
+    "lat": 33.7180912,
+    "lon": 73.0727516,
+    "osm_id": 4954775564,
+    "osm_type": "node"
+  },
+  {
+    "name": "Haider Clinic",
+    "category": "Clinic",
+    "lat": 33.7188404,
+    "lon": 73.0941091,
+    "osm_id": 4956663343,
+    "osm_type": "node"
+  },
+  {
+    "name": "site for Alhamd Hospital",
+    "category": "Hospital",
+    "lat": 31.8205754,
+    "lon": 73.9213914,
+    "osm_id": 4957438621,
+    "osm_type": "node"
+  },
+  {
+    "name": "AlHamd hospital",
+    "category": "Hospital",
+    "lat": 31.8205695,
+    "lon": 73.9216989,
+    "osm_id": 4957438821,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen Chemist",
+    "category": "Pharmacy",
+    "lat": 33.683332,
+    "lon": 72.9888393,
+    "osm_id": 4958092906,
+    "osm_type": "node"
+  },
+  {
+    "name": "Life Care international Hospital",
+    "category": "Hospital",
+    "lat": 33.676802,
+    "lon": 73.0153103,
+    "osm_id": 4958569728,
+    "osm_type": "node"
+  },
+  {
+    "name": "IHS - Hospital for Children",
+    "category": "Hospital",
+    "lat": 33.6862496,
+    "lon": 73.0056544,
+    "osm_id": 4961843228,
+    "osm_type": "node"
+  },
+  {
+    "name": "OGDCL Medical Centre",
+    "category": "Hospital",
+    "lat": 33.7129575,
+    "lon": 73.0375979,
+    "osm_id": 4963936784,
+    "osm_type": "node"
+  },
+  {
+    "name": "Chohan Eye Hospital",
+    "category": "Hospital",
+    "lat": 33.7090707,
+    "lon": 73.0503778,
+    "osm_id": 4963977785,
+    "osm_type": "node"
+  },
+  {
+    "name": "PNS Hafeez - Naval Hospital",
+    "category": "Hospital",
+    "lat": 33.7198918,
+    "lon": 73.0343455,
+    "osm_id": 4964168702,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0633\u0648\u0627\u062a \u06c1\u0633\u067e\u062a\u0627\u0644",
+    "category": "Hospital",
+    "lat": 34.7527448,
+    "lon": 72.3556253,
+    "osm_id": 4964214533,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0646\u06af \u06c1\u0633\u067e\u062a\u0627\u0644",
+    "category": "Hospital",
+    "lat": 34.7539167,
+    "lon": 72.3554069,
+    "osm_id": 4964219317,
+    "osm_type": "node"
+  },
+  {
+    "name": "MEDICSi",
+    "category": "Hospital",
+    "lat": 33.7144555,
+    "lon": 73.0635591,
+    "osm_id": 4964226920,
+    "osm_type": "node"
+  },
+  {
+    "name": "D.Watson Chemist",
+    "category": "Pharmacy",
+    "lat": 33.7088753,
+    "lon": 73.0555289,
+    "osm_id": 4966256871,
+    "osm_type": "node"
+  },
+  {
+    "name": "Citi Lab",
+    "category": "Pharmacy",
+    "lat": 33.7092472,
+    "lon": 73.0567891,
+    "osm_id": 4966256875,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaukat Khanum Laboratory Collection Centre",
+    "category": "Pharmacy",
+    "lat": 33.7098416,
+    "lon": 73.0579085,
+    "osm_id": 4966256877,
+    "osm_type": "node"
+  },
+  {
+    "name": "Beewell Hospital",
+    "category": "Hospital",
+    "lat": 33.7100275,
+    "lon": 73.0582647,
+    "osm_id": 4966256881,
+    "osm_type": "node"
+  },
+  {
+    "name": "Federal Government Dispensar",
+    "category": "Pharmacy",
+    "lat": 33.7117683,
+    "lon": 73.0704198,
+    "osm_id": 4966290314,
+    "osm_type": "node"
+  },
+  {
+    "name": "Minahil Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.7054526,
+    "lon": 73.0681151,
+    "osm_id": 4966360761,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen Chemist",
+    "category": "Pharmacy",
+    "lat": 33.6992541,
+    "lon": 73.0487727,
+    "osm_id": 4967673499,
+    "osm_type": "node"
+  },
+  {
+    "name": "Waheed Chemist And Optics",
+    "category": "Pharmacy",
+    "lat": 33.6991657,
+    "lon": 73.0485887,
+    "osm_id": 4967673500,
+    "osm_type": "node"
+  },
+  {
+    "name": "Postal Dispensary",
+    "category": "Pharmacy",
+    "lat": 33.6930909,
+    "lon": 73.0570095,
+    "osm_id": 4967739862,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Noor Muhammad Medical Centre",
+    "category": "Clinic",
+    "lat": 34.5872231,
+    "lon": 72.4490736,
+    "osm_id": 4988266210,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sufyar Dental Clinic",
+    "category": "Dentist",
+    "lat": 34.5883958,
+    "lon": 72.4499372,
+    "osm_id": 4988266212,
+    "osm_type": "node"
+  },
+  {
+    "name": "Nisar Pharmacy",
+    "category": "Pharmacy",
+    "lat": 34.5864835,
+    "lon": 72.4492862,
+    "osm_id": 4989820032,
+    "osm_type": "node"
+  },
+  {
+    "name": "The Medicos",
+    "category": "Pharmacy",
+    "lat": 34.5980638,
+    "lon": 72.4525879,
+    "osm_id": 4989822322,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr.  Zia ul Haq MBBS Karam abad",
+    "category": "Clinic",
+    "lat": 33.6015683,
+    "lon": 72.9791653,
+    "osm_id": 4996056821,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ Hospital",
+    "category": "Hospital",
+    "lat": 31.8226017,
+    "lon": 70.9097766,
+    "osm_id": 5030321223,
+    "osm_type": "node"
+  },
+  {
+    "name": "hashim medical store",
+    "category": "Pharmacy",
+    "lat": 34.7791279,
+    "lon": 73.5238647,
+    "osm_id": 5030321922,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al-Amin Chemist",
+    "category": "Pharmacy",
+    "lat": 33.6685086,
+    "lon": 72.9969804,
+    "osm_id": 5034028423,
+    "osm_type": "node"
+  },
+  {
+    "name": "Agency Head Quarter Hospital Khar",
+    "category": "Hospital",
+    "lat": 34.7240234,
+    "lon": 71.5039611,
+    "osm_id": 5037950421,
+    "osm_type": "node"
+  },
+  {
+    "name": "Amanat Eye hospital",
+    "category": "Hospital",
+    "lat": 33.7221706,
+    "lon": 73.063908,
+    "osm_id": 5091739723,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medix Plus",
+    "category": "Pharmacy",
+    "lat": 33.5652284,
+    "lon": 73.1523104,
+    "osm_id": 5106849121,
+    "osm_type": "node"
+  },
+  {
+    "name": "Allama Iqbal International Hospital",
+    "category": "Hospital",
+    "lat": 32.80411,
+    "lon": 73.8705247,
+    "osm_id": 5109126724,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Latif Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.53075,
+    "lon": 73.1606153,
+    "osm_id": 5117530798,
+    "osm_type": "node"
+  },
+  {
+    "name": "Basic Health Unit Arbora",
+    "category": "Hospital",
+    "lat": 34.4588888,
+    "lon": 73.0565289,
+    "osm_id": 5130357522,
+    "osm_type": "node"
+  },
+  {
+    "name": "Muhammadi Homoeopathic Clinic & Hijama Center",
+    "category": "Clinic",
+    "lat": 33.5870767,
+    "lon": 71.4391015,
+    "osm_id": 5133026898,
+    "osm_type": "node"
+  },
+  {
+    "name": "Z Dental Studio",
+    "category": "Dentist",
+    "lat": 33.7316919,
+    "lon": 73.0792102,
+    "osm_id": 5138797829,
+    "osm_type": "node"
+  },
+  {
+    "name": "Clinic Dr. Obaid Anwar",
+    "category": "Clinic",
+    "lat": 31.4122532,
+    "lon": 73.1040687,
+    "osm_id": 5152203826,
+    "osm_type": "node"
+  },
+  {
+    "name": "Riphah International Dental Hospital University",
+    "category": "Hospital",
+    "lat": 33.6524304,
+    "lon": 72.9584212,
+    "osm_id": 5152915622,
+    "osm_type": "node"
+  },
+  {
+    "name": "Reliance Hospital",
+    "category": "Hospital",
+    "lat": 33.5503077,
+    "lon": 73.1256281,
+    "osm_id": 5165252847,
+    "osm_type": "node"
+  },
+  {
+    "name": "Allied Hospital",
+    "category": "Hospital",
+    "lat": 31.4492173,
+    "lon": 73.081478,
+    "osm_id": 5169625525,
+    "osm_type": "node"
+  },
+  {
+    "name": "Maj Gen Salman Ali Clinic",
+    "category": "Clinic",
+    "lat": 33.5969941,
+    "lon": 73.0412225,
+    "osm_id": 5183619921,
+    "osm_type": "node"
+  },
+  {
+    "name": "Agha Khan Laboratory Blue Area",
+    "category": "Clinic",
+    "lat": 33.7117407,
+    "lon": 73.062044,
+    "osm_id": 5183626221,
+    "osm_type": "node"
+  },
+  {
+    "name": "Umar Hospital",
+    "category": "Hospital",
+    "lat": 31.4352488,
+    "lon": 73.0805041,
+    "osm_id": 5193820226,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0645\u062c\u0627\u06c1\u062f \u0641\u0627\u0631\u0645\u06cc\u0633\u06cc",
+    "category": "Pharmacy",
+    "lat": 31.4232416,
+    "lon": 73.1189725,
+    "osm_id": 5194296828,
+    "osm_type": "node"
+  },
+  {
+    "name": "Care Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.4213021,
+    "lon": 73.1174926,
+    "osm_id": 5200099928,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dar Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.4086109,
+    "lon": 73.0977122,
+    "osm_id": 5200100331,
+    "osm_type": "node"
+  },
+  {
+    "name": "Global Medical Complex",
+    "category": "Hospital",
+    "lat": 31.4190989,
+    "lon": 73.1146579,
+    "osm_id": 5208202328,
+    "osm_type": "node"
+  },
+  {
+    "name": "Chaudary Medical Store",
+    "category": "Pharmacy",
+    "lat": 31.4150262,
+    "lon": 73.1072615,
+    "osm_id": 5208501033,
+    "osm_type": "node"
+  },
+  {
+    "name": "medical store",
+    "category": "Pharmacy",
+    "lat": 33.5914857,
+    "lon": 71.4258151,
+    "osm_id": 5212708837,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaukat Khanum Laboratory",
+    "category": "Pharmacy",
+    "lat": 31.4214123,
+    "lon": 73.1175977,
+    "osm_id": 5236020323,
+    "osm_type": "node"
+  },
+  {
+    "name": "Boots Pharmacy Grocery Cosmetics",
+    "category": "Pharmacy",
+    "lat": 33.6246231,
+    "lon": 72.9724163,
+    "osm_id": 5251807394,
+    "osm_type": "node"
+  },
+  {
+    "name": "KKT Orthopedic Spine Center",
+    "category": "Hospital",
+    "lat": 33.6245387,
+    "lon": 72.9726232,
+    "osm_id": 5251807396,
+    "osm_type": "node"
+  },
+  {
+    "name": "Office District Officer Health III",
+    "category": "Hospital",
+    "lat": 31.4159626,
+    "lon": 73.072343,
+    "osm_id": 5254139614,
+    "osm_type": "node"
+  },
+  {
+    "name": "Noor Samand Hospital",
+    "category": "Hospital",
+    "lat": 31.3740542,
+    "lon": 73.0363349,
+    "osm_id": 5254213574,
+    "osm_type": "node"
+  },
+  {
+    "name": "Elahi General Hospital",
+    "category": "Hospital",
+    "lat": 31.3926757,
+    "lon": 73.0732128,
+    "osm_id": 5254213582,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dogar Hospital",
+    "category": "Hospital",
+    "lat": 31.3922954,
+    "lon": 73.0735774,
+    "osm_id": 5254213584,
+    "osm_type": "node"
+  },
+  {
+    "name": "Jazzam Ghar",
+    "category": "Hospital",
+    "lat": 31.3709972,
+    "lon": 72.9464285,
+    "osm_id": 5254213589,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rahman Hospital",
+    "category": "Hospital",
+    "lat": 31.3931886,
+    "lon": 72.9705493,
+    "osm_id": 5254213592,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gorey & Gorey Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.41896,
+    "lon": 73.0795163,
+    "osm_id": 5255258603,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0627\u0642\u0628\u0627\u0644 \u06c1\u0633\u067e\u062a\u0627\u0644",
+    "category": "Hospital",
+    "lat": 31.418174,
+    "lon": 73.0738318,
+    "osm_id": 5255258610,
+    "osm_type": "node"
+  },
+  {
+    "name": "Saahil Hospital",
+    "category": "Hospital",
+    "lat": 31.4461876,
+    "lon": 73.0890791,
+    "osm_id": 5255258615,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mian Muhammad Trust Hospital",
+    "category": "Hospital",
+    "lat": 31.4253379,
+    "lon": 73.0922967,
+    "osm_id": 5255390618,
+    "osm_type": "node"
+  },
+  {
+    "name": "Anmol Hospital",
+    "category": "Hospital",
+    "lat": 31.4078674,
+    "lon": 73.0595974,
+    "osm_id": 5255617521,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sughra Trust Hospital",
+    "category": "Hospital",
+    "lat": 31.4076451,
+    "lon": 73.0628572,
+    "osm_id": 5255617524,
+    "osm_type": "node"
+  },
+  {
+    "name": "Punjab Social Security Hospital",
+    "category": "Hospital",
+    "lat": 31.41954,
+    "lon": 73.1158963,
+    "osm_id": 5255617528,
+    "osm_type": "node"
+  },
+  {
+    "name": "Makki Hospital",
+    "category": "Hospital",
+    "lat": 31.4113163,
+    "lon": 73.1118116,
+    "osm_id": 5255617544,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aziz Clinic",
+    "category": "Clinic",
+    "lat": 31.415292,
+    "lon": 73.1087899,
+    "osm_id": 5255617545,
+    "osm_type": "node"
+  },
+  {
+    "name": "Maqsooda Zia Hospital",
+    "category": "Hospital",
+    "lat": 31.4088921,
+    "lon": 73.0973496,
+    "osm_id": 5255873671,
+    "osm_type": "node"
+  },
+  {
+    "name": "Yaseen Memorial Hospital",
+    "category": "Hospital",
+    "lat": 31.422788,
+    "lon": 73.0648396,
+    "osm_id": 5259239733,
+    "osm_type": "node"
+  },
+  {
+    "name": "National Hospital",
+    "category": "Hospital",
+    "lat": 31.4200586,
+    "lon": 73.0621142,
+    "osm_id": 5259239742,
+    "osm_type": "node"
+  },
+  {
+    "name": "Chiniot General Hospital",
+    "category": "Hospital",
+    "lat": 31.4176509,
+    "lon": 73.0649379,
+    "osm_id": 5259239765,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0627\u0644\u0631\u062d\u0645\u0670\u0646 \u06c1\u0633\u067e\u062a\u0627\u0644",
+    "category": "Hospital",
+    "lat": 31.4180777,
+    "lon": 73.0644002,
+    "osm_id": 5259239766,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaukat Khanum Laboratory Collection Centre",
+    "category": "Clinic",
+    "lat": 31.4084638,
+    "lon": 73.110627,
+    "osm_id": 5259596727,
+    "osm_type": "node"
+  },
+  {
+    "name": "Muhammad Hospital",
+    "category": "Hospital",
+    "lat": 31.4472583,
+    "lon": 73.0763456,
+    "osm_id": 5259596733,
+    "osm_type": "node"
+  },
+  {
+    "name": "National Laboratory",
+    "category": "Clinic",
+    "lat": 31.4470286,
+    "lon": 73.0799619,
+    "osm_id": 5259596738,
+    "osm_type": "node"
+  },
+  {
+    "name": "Clinix Pharmacy",
+    "category": "Clinic",
+    "lat": 31.4457232,
+    "lon": 73.0805446,
+    "osm_id": 5259596739,
+    "osm_type": "node"
+  },
+  {
+    "name": "Madina Chemis",
+    "category": "Pharmacy",
+    "lat": 31.4464595,
+    "lon": 73.0802168,
+    "osm_id": 5259596740,
+    "osm_type": "node"
+  },
+  {
+    "name": "Siddique Orthopaedic & Rehabilitation Complex",
+    "category": "Hospital",
+    "lat": 31.4463383,
+    "lon": 73.0802892,
+    "osm_id": 5259596741,
+    "osm_type": "node"
+  },
+  {
+    "name": "Punjab Institute of Nuclear Medicine",
+    "category": "Hospital",
+    "lat": 31.4500299,
+    "lon": 73.0831993,
+    "osm_id": 5259596744,
+    "osm_type": "node"
+  },
+  {
+    "name": "Maqsooda Zia Executive Clinics Hospital",
+    "category": "Hospital",
+    "lat": 31.4501677,
+    "lon": 73.0859736,
+    "osm_id": 5259596752,
+    "osm_type": "node"
+  },
+  {
+    "name": "Government Veterinary Hospital Chak No 220 RB Faisalabad",
+    "category": "Hospital",
+    "lat": 31.418063,
+    "lon": 73.0406177,
+    "osm_id": 5259596759,
+    "osm_type": "node"
+  },
+  {
+    "name": "Railway Hospital",
+    "category": "Hospital",
+    "lat": 33.6191432,
+    "lon": 73.0340847,
+    "osm_id": 5259747058,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ghufran Skin Clinic",
+    "category": "Clinic",
+    "lat": 31.4115957,
+    "lon": 73.0434504,
+    "osm_id": 5259798405,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shifa Internation Hospital",
+    "category": "Hospital",
+    "lat": 31.4042909,
+    "lon": 73.1155608,
+    "osm_id": 5259931206,
+    "osm_type": "node"
+  },
+  {
+    "name": "National Cupping Association Of Pakistan",
+    "category": "Clinic",
+    "lat": 31.4012603,
+    "lon": 73.1144427,
+    "osm_id": 5259931218,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr.Shagufta Zaheer Maternity Clinic",
+    "category": "Hospital",
+    "lat": 31.4026052,
+    "lon": 73.1123236,
+    "osm_id": 5259931219,
+    "osm_type": "node"
+  },
+  {
+    "name": "Skin Laser",
+    "category": "Clinic",
+    "lat": 31.4037066,
+    "lon": 73.1119228,
+    "osm_id": 5259932322,
+    "osm_type": "node"
+  },
+  {
+    "name": "Saad Surgimed Hospital",
+    "category": "Hospital",
+    "lat": 31.4030194,
+    "lon": 73.1041586,
+    "osm_id": 5259932329,
+    "osm_type": "node"
+  },
+  {
+    "name": "Akhter Medical Center",
+    "category": "Clinic",
+    "lat": 31.3960444,
+    "lon": 73.1022934,
+    "osm_id": 5259932336,
+    "osm_type": "node"
+  },
+  {
+    "name": "Akhtar Memorial Hospital",
+    "category": "Hospital",
+    "lat": 31.7043847,
+    "lon": 74.017258,
+    "osm_id": 5259958809,
+    "osm_type": "node"
+  },
+  {
+    "name": "Omer Hospital",
+    "category": "Hospital",
+    "lat": 31.4339972,
+    "lon": 73.0927874,
+    "osm_id": 5260083598,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctors Specialist Centre",
+    "category": "Hospital",
+    "lat": 31.4195775,
+    "lon": 73.104252,
+    "osm_id": 5263913083,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aziz Fatima Hospital",
+    "category": "Hospital",
+    "lat": 31.4432116,
+    "lon": 73.0990829,
+    "osm_id": 5263913084,
+    "osm_type": "node"
+  },
+  {
+    "name": "Independent University Hospital",
+    "category": "Hospital",
+    "lat": 31.4420136,
+    "lon": 73.0256753,
+    "osm_id": 5263913085,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mujahid Hospital Medical Complex",
+    "category": "Hospital",
+    "lat": 31.4201747,
+    "lon": 73.1221338,
+    "osm_id": 5263913086,
+    "osm_type": "node"
+  },
+  {
+    "name": "Asghar General Hospital",
+    "category": "Hospital",
+    "lat": 31.4203019,
+    "lon": 73.0926401,
+    "osm_id": 5263913089,
+    "osm_type": "node"
+  },
+  {
+    "name": "Liver Center",
+    "category": "Hospital",
+    "lat": 31.4205146,
+    "lon": 73.0931274,
+    "osm_id": 5263913090,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0627\u0631\u0688\u06cc\u06a9 \u0633\u0646\u0679\u0631",
+    "category": "Hospital",
+    "lat": 31.4199755,
+    "lon": 73.0938123,
+    "osm_id": 5263913091,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medicare Hospital",
+    "category": "Hospital",
+    "lat": 31.4213288,
+    "lon": 73.0929432,
+    "osm_id": 5263913094,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Amin Hospital",
+    "category": "Hospital",
+    "lat": 31.4471953,
+    "lon": 73.0975185,
+    "osm_id": 5263913096,
+    "osm_type": "node"
+  },
+  {
+    "name": "Darul Sehat Trust Hospital",
+    "category": "Hospital",
+    "lat": 31.4826741,
+    "lon": 73.0793325,
+    "osm_id": 5263913097,
+    "osm_type": "node"
+  },
+  {
+    "name": "Jinnah Hospital",
+    "category": "Hospital",
+    "lat": 31.403694,
+    "lon": 73.1299724,
+    "osm_id": 5263913101,
+    "osm_type": "node"
+  },
+  {
+    "name": "Haleema Medicare Hospital",
+    "category": "Hospital",
+    "lat": 31.4228851,
+    "lon": 73.0578657,
+    "osm_id": 5263913110,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al-Madina Hospital",
+    "category": "Hospital",
+    "lat": 31.4004856,
+    "lon": 73.1325914,
+    "osm_id": 5263913113,
+    "osm_type": "node"
+  },
+  {
+    "name": "Syeda Khatoon-e-Jannat Hospital",
+    "category": "Hospital",
+    "lat": 31.3811832,
+    "lon": 73.1229873,
+    "osm_id": 5263913115,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rehman Hospital",
+    "category": "Hospital",
+    "lat": 31.3838148,
+    "lon": 73.0818394,
+    "osm_id": 5263913116,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tahir Hospital",
+    "category": "Hospital",
+    "lat": 31.4262768,
+    "lon": 73.0350866,
+    "osm_id": 5263913117,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aqsa Trust Hospital",
+    "category": "Hospital",
+    "lat": 31.4004359,
+    "lon": 73.1003622,
+    "osm_id": 5263913119,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ali Sher Trust Hospital",
+    "category": "Hospital",
+    "lat": 31.4038407,
+    "lon": 73.1357297,
+    "osm_id": 5263913120,
+    "osm_type": "node"
+  },
+  {
+    "name": "Adam Hospital",
+    "category": "Hospital",
+    "lat": 31.4041074,
+    "lon": 73.1353689,
+    "osm_id": 5263913721,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mother Care Hospital",
+    "category": "Hospital",
+    "lat": 31.4445925,
+    "lon": 73.0989989,
+    "osm_id": 5263913727,
+    "osm_type": "node"
+  },
+  {
+    "name": "Care Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.444812,
+    "lon": 73.0989006,
+    "osm_id": 5263913728,
+    "osm_type": "node"
+  },
+  {
+    "name": "Government General Hospital",
+    "category": "Hospital",
+    "lat": 31.4418746,
+    "lon": 73.0455823,
+    "osm_id": 5263913733,
+    "osm_type": "node"
+  },
+  {
+    "name": "FESCO Hospital",
+    "category": "Hospital",
+    "lat": 31.4265879,
+    "lon": 73.1147406,
+    "osm_id": 5263913738,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ilyas General Hospital and research centre",
+    "category": "Clinic",
+    "lat": 33.9954783,
+    "lon": 71.4374908,
+    "osm_id": 5264090221,
+    "osm_type": "node"
+  },
+  {
+    "name": "The women's Hospital",
+    "category": "Hospital",
+    "lat": 33.9954599,
+    "lon": 71.4379705,
+    "osm_id": 5265251421,
+    "osm_type": "node"
+  },
+  {
+    "name": "Chiniot General Hospital",
+    "category": "Hospital",
+    "lat": 31.465108,
+    "lon": 73.0816851,
+    "osm_id": 5265379121,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rathore Hospital",
+    "category": "Hospital",
+    "lat": 31.462121,
+    "lon": 73.0813124,
+    "osm_id": 5265379130,
+    "osm_type": "node"
+  },
+  {
+    "name": "THQ Hospital Chak Jhumra",
+    "category": "Hospital",
+    "lat": 31.5658206,
+    "lon": 73.1885528,
+    "osm_id": 5265379134,
+    "osm_type": "node"
+  },
+  {
+    "name": "Muaz Hospital",
+    "category": "Hospital",
+    "lat": 31.4311148,
+    "lon": 73.0559161,
+    "osm_id": 5265379137,
+    "osm_type": "node"
+  },
+  {
+    "name": "Q A Awan Hospital",
+    "category": "Hospital",
+    "lat": 31.3942788,
+    "lon": 73.09307,
+    "osm_id": 5265379171,
+    "osm_type": "node"
+  },
+  {
+    "name": "Javed Eye Centre",
+    "category": "Clinic",
+    "lat": 31.4346881,
+    "lon": 73.0811657,
+    "osm_id": 5265764838,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rabia Trust Hospital",
+    "category": "Hospital",
+    "lat": 31.4040592,
+    "lon": 73.0996024,
+    "osm_id": 5265764839,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fatima Maternity Hospital",
+    "category": "Hospital",
+    "lat": 31.4061222,
+    "lon": 73.1012726,
+    "osm_id": 5265764840,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Shahid Ahmed Heera Clinic",
+    "category": "Clinic",
+    "lat": 31.4056039,
+    "lon": 73.1008893,
+    "osm_id": 5265764848,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fauji Foundation Hospital Faisalabad",
+    "category": "Hospital",
+    "lat": 31.4054073,
+    "lon": 73.1010878,
+    "osm_id": 5265764849,
+    "osm_type": "node"
+  },
+  {
+    "name": "AUSTRALIAN CONCEPT INFERTILITY MEDICAL CENTER",
+    "category": "Clinic",
+    "lat": 31.4055979,
+    "lon": 73.101955,
+    "osm_id": 5265764850,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fatima Eye Clinic",
+    "category": "Clinic",
+    "lat": 31.4068026,
+    "lon": 73.100378,
+    "osm_id": 5265764851,
+    "osm_type": "node"
+  },
+  {
+    "name": "Insan Welfare Medical Care Center",
+    "category": "Hospital",
+    "lat": 31.4306096,
+    "lon": 73.1149828,
+    "osm_id": 5265764852,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fozia Mother Care",
+    "category": "Hospital",
+    "lat": 31.4302572,
+    "lon": 73.1146271,
+    "osm_id": 5265764853,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hameed Medicare",
+    "category": "Hospital",
+    "lat": 31.3846431,
+    "lon": 73.0918721,
+    "osm_id": 5265764855,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctor's Clinic",
+    "category": "Clinic",
+    "lat": 31.3798184,
+    "lon": 73.0868137,
+    "osm_id": 5265764856,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06cc\u0627\u0633\u06cc\u0646 \u0645\u06cc\u0645\u0648\u0631\u06cc\u0644",
+    "category": "Hospital",
+    "lat": 31.4217259,
+    "lon": 73.0608141,
+    "osm_id": 5267804912,
+    "osm_type": "node"
+  },
+  {
+    "name": "City Medical Complex",
+    "category": "Hospital",
+    "lat": 31.4526993,
+    "lon": 73.1165091,
+    "osm_id": 5267806222,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Mansoor Hospital",
+    "category": "Hospital",
+    "lat": 31.4502945,
+    "lon": 73.1117929,
+    "osm_id": 5267806228,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rehman Free Dialysis Center",
+    "category": "Hospital",
+    "lat": 31.4344595,
+    "lon": 73.1284221,
+    "osm_id": 5267806240,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zohra Medical Center Dr Waseem",
+    "category": "Hospital",
+    "lat": 31.4072224,
+    "lon": 73.0776796,
+    "osm_id": 5267806276,
+    "osm_type": "node"
+  },
+  {
+    "name": "United Hospital",
+    "category": "Hospital",
+    "lat": 31.4387684,
+    "lon": 73.1376357,
+    "osm_id": 5267889391,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheeratauiq Clinic",
+    "category": "Clinic",
+    "lat": 31.4830828,
+    "lon": 73.2363994,
+    "osm_id": 5271733859,
+    "osm_type": "node"
+  },
+  {
+    "name": "AL Mumtaz Hospital Farooq Town",
+    "category": "Hospital",
+    "lat": 31.371626,
+    "lon": 73.0822948,
+    "osm_id": 5271733862,
+    "osm_type": "node"
+  },
+  {
+    "name": "Govt General Hospital",
+    "category": "Hospital",
+    "lat": 31.3925229,
+    "lon": 73.1012781,
+    "osm_id": 5271733886,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctors Plaza Diagnostic Centre",
+    "category": "Hospital",
+    "lat": 31.4040391,
+    "lon": 73.103956,
+    "osm_id": 5271956159,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ali Hospital",
+    "category": "Hospital",
+    "lat": 31.3721469,
+    "lon": 73.0394275,
+    "osm_id": 5273202173,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU 222 RB Dr. A.Sattar Gill",
+    "category": "Hospital",
+    "lat": 31.3779525,
+    "lon": 73.0574228,
+    "osm_id": 5273202175,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fazil Hospital",
+    "category": "Hospital",
+    "lat": 31.3146344,
+    "lon": 73.0245751,
+    "osm_id": 5273202207,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tahir Medical Centre",
+    "category": "Hospital",
+    "lat": 31.316907,
+    "lon": 73.0273487,
+    "osm_id": 5273202209,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Pharmacy",
+    "category": "Clinic",
+    "lat": 31.4340425,
+    "lon": 73.0868878,
+    "osm_id": 5273603388,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaukat Khanum Laboratory Collection Centre",
+    "category": "Clinic",
+    "lat": 31.4341208,
+    "lon": 73.0847954,
+    "osm_id": 5273603396,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mian Muhammad Trust Hospital",
+    "category": "Hospital",
+    "lat": 31.425891,
+    "lon": 73.0924585,
+    "osm_id": 5273603417,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aman hospital",
+    "category": "Hospital",
+    "lat": 34.002047,
+    "lon": 71.5585967,
+    "osm_id": 5275615025,
+    "osm_type": "node"
+  },
+  {
+    "name": "Care Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.4055515,
+    "lon": 73.1228354,
+    "osm_id": 5277671515,
+    "osm_type": "node"
+  },
+  {
+    "name": "Azam Majeed Medical Complex",
+    "category": "Hospital",
+    "lat": 31.4210746,
+    "lon": 73.1205021,
+    "osm_id": 5277800118,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Amin Clinic",
+    "category": "Clinic",
+    "lat": 31.5088224,
+    "lon": 73.109373,
+    "osm_id": 5279568791,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ali Hospital",
+    "category": "Hospital",
+    "lat": 31.506717,
+    "lon": 73.1094576,
+    "osm_id": 5279568798,
+    "osm_type": "node"
+  },
+  {
+    "name": "Civil Aviation Medical Center",
+    "category": "Clinic",
+    "lat": 33.5593285,
+    "lon": 72.8431763,
+    "osm_id": 5282197196,
+    "osm_type": "node"
+  },
+  {
+    "name": "Capital Diagnostic Center",
+    "category": "Clinic",
+    "lat": 33.6950023,
+    "lon": 73.0515555,
+    "osm_id": 5284838223,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Saadia Khan Clinic",
+    "category": "Clinic",
+    "lat": 31.4454642,
+    "lon": 73.1417056,
+    "osm_id": 5287521834,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mujahid Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.4416632,
+    "lon": 73.134317,
+    "osm_id": 5287521840,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0639\u0644\u06cc \u0632\u06cc\u0628 \u0641\u0627\u0624\u0646\u0688\u06cc\u0634\u0646",
+    "category": "Blood_Donation",
+    "lat": 31.4174802,
+    "lon": 73.1221585,
+    "osm_id": 5287521858,
+    "osm_type": "node"
+  },
+  {
+    "name": "Qatar Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.4547019,
+    "lon": 73.1615051,
+    "osm_id": 5289729121,
+    "osm_type": "node"
+  },
+  {
+    "name": "MI Room",
+    "category": "Hospital",
+    "lat": 34.0567249,
+    "lon": 71.9902968,
+    "osm_id": 5293768021,
+    "osm_type": "node"
+  },
+  {
+    "name": "city lab",
+    "category": "Pharmacy",
+    "lat": 33.6290729,
+    "lon": 73.069768,
+    "osm_id": 5301302321,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mercy Teaching Hospital",
+    "category": "Hospital",
+    "lat": 34.0073522,
+    "lon": 71.5234501,
+    "osm_id": 5302612921,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ Hospital Btk",
+    "category": "Hospital",
+    "lat": 34.6120271,
+    "lon": 71.959769,
+    "osm_id": 5312407027,
+    "osm_type": "node"
+  },
+  {
+    "name": "SAJID MEDICAL STORE",
+    "category": "Pharmacy",
+    "lat": 34.5817723,
+    "lon": 71.9336372,
+    "osm_id": 5312436429,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ Hospital Btk",
+    "category": "Hospital",
+    "lat": 34.6109397,
+    "lon": 71.9579149,
+    "osm_id": 5312465421,
+    "osm_type": "node"
+  },
+  {
+    "name": "Time's Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.9989466,
+    "lon": 71.4948582,
+    "osm_id": 5329973540,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rokhan University and hospital",
+    "category": "Hospital",
+    "lat": 34.4387154,
+    "lon": 70.439272,
+    "osm_id": 5356117636,
+    "osm_type": "node"
+  },
+  {
+    "name": "Jalalabad medical complex",
+    "category": "Hospital",
+    "lat": 34.4362732,
+    "lon": 70.4356671,
+    "osm_id": 5356128482,
+    "osm_type": "node"
+  },
+  {
+    "name": "Agha Khan Laboratory Collection Point",
+    "category": "Clinic",
+    "lat": 34.0109492,
+    "lon": 71.5725392,
+    "osm_id": 5369612521,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shokat Memorial Hospital",
+    "category": "Hospital",
+    "lat": 33.7915203,
+    "lon": 72.7226783,
+    "osm_id": 5401621522,
+    "osm_type": "node"
+  },
+  {
+    "name": "Amna Skin Care and Hair Transplant",
+    "category": "Clinic",
+    "lat": 33.7853984,
+    "lon": 72.7244456,
+    "osm_id": 5416875311,
+    "osm_type": "node"
+  },
+  {
+    "name": "Basic Health Unit Ganichatra",
+    "category": "Hospital",
+    "lat": 34.2506383,
+    "lon": 72.6577455,
+    "osm_id": 5432783322,
+    "osm_type": "node"
+  },
+  {
+    "name": "Health Services Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6455474,
+    "lon": 73.0922834,
+    "osm_id": 5436199902,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pak Red Crescent Medical and Dental College",
+    "category": "Hospital",
+    "lat": 31.2463109,
+    "lon": 74.006988,
+    "osm_id": 5453851921,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0633\u0631\u06a9\u0627\u0631\u06cc \u06c1\u0633\u067e\u062a\u0627\u0644",
+    "category": "Hospital",
+    "lat": 32.3099296,
+    "lon": 73.1599851,
+    "osm_id": 5506465266,
+    "osm_type": "node"
+  },
+  {
+    "name": "Saaem Surgical & Maternity Home",
+    "category": "Hospital",
+    "lat": 32.5706441,
+    "lon": 74.076323,
+    "osm_id": 5514787426,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen Chemist",
+    "category": "Pharmacy",
+    "lat": 33.669264,
+    "lon": 73.0002249,
+    "osm_id": 5518884868,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0628\u0646\u06cc\u0627\u062f\u06cc \u0645\u0631\u06a9\u0632 \u0635\u062d\u062a",
+    "category": "Hospital",
+    "lat": 33.0249329,
+    "lon": 73.6099491,
+    "osm_id": 5533146521,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr.Bilal Dar",
+    "category": "Clinic",
+    "lat": 32.592861,
+    "lon": 74.0754387,
+    "osm_id": 5538342521,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Bilal Dar",
+    "category": "Clinic",
+    "lat": 32.5928594,
+    "lon": 74.0754502,
+    "osm_id": 5538342621,
+    "osm_type": "node"
+  },
+  {
+    "name": "Speech Therapy STCICLD",
+    "category": "Clinic",
+    "lat": 33.635038,
+    "lon": 73.0715097,
+    "osm_id": 5568817324,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u062d\u06a9\u06cc\u0645 \u06a9\u0627\u0644\u06cc \u0631\u06cc\u062d\u0627\u0646",
+    "category": "Clinic",
+    "lat": 31.0173276,
+    "lon": 73.9702637,
+    "osm_id": 5577732136,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Diagnostics Center",
+    "category": "Hospital",
+    "lat": 33.6685704,
+    "lon": 72.9971978,
+    "osm_id": 5595279927,
+    "osm_type": "node"
+  },
+  {
+    "name": "OT Complex CMH",
+    "category": "Hospital",
+    "lat": 33.5788323,
+    "lon": 73.0467102,
+    "osm_id": 5617897022,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Medical Wing",
+    "category": "Clinic",
+    "lat": 33.6102975,
+    "lon": 73.0855158,
+    "osm_id": 5617899521,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fatima Hospital",
+    "category": "Hospital",
+    "lat": 33.7886202,
+    "lon": 72.7255649,
+    "osm_id": 5629331922,
+    "osm_type": "node"
+  },
+  {
+    "name": "khawaja Arshad Hospital",
+    "category": "Hospital",
+    "lat": 32.0801685,
+    "lon": 72.693563,
+    "osm_id": 5693436421,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rabia International Hospital",
+    "category": "Hospital",
+    "lat": 32.0823616,
+    "lon": 72.6947164,
+    "osm_id": 5693436422,
+    "osm_type": "node"
+  },
+  {
+    "name": "R.H.C. Regi",
+    "category": "Hospital",
+    "lat": 34.0392832,
+    "lon": 71.4655498,
+    "osm_id": 5708148422,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU DAFFAR",
+    "category": "Hospital",
+    "lat": 32.4210844,
+    "lon": 73.220692,
+    "osm_id": 5737045489,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zeeshan Medical Centre",
+    "category": "Clinic",
+    "lat": 34.1915199,
+    "lon": 72.0475934,
+    "osm_id": 5750492721,
+    "osm_type": "node"
+  },
+  {
+    "name": "Civil Hospital Teri",
+    "category": "Hospital",
+    "lat": 33.2956939,
+    "lon": 71.0985329,
+    "osm_id": 5832288081,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Fahad House",
+    "category": "Clinic",
+    "lat": 31.4773646,
+    "lon": 73.1371603,
+    "osm_id": 5860847203,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zahoor Khan Medical Store",
+    "category": "Clinic",
+    "lat": 33.2965021,
+    "lon": 71.0980776,
+    "osm_id": 5894172586,
+    "osm_type": "node"
+  },
+  {
+    "name": "Naseeb Clinical Laboratory Teri, KPK, Pakistan",
+    "category": "Clinic",
+    "lat": 33.2961461,
+    "lon": 71.0983016,
+    "osm_id": 5894173085,
+    "osm_type": "node"
+  },
+  {
+    "name": "HMC, Peshawar, Kidney Operation Theater.",
+    "category": "Hospital",
+    "lat": 33.9916441,
+    "lon": 71.4468171,
+    "osm_id": 5894173086,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ayan Clinic",
+    "category": "Clinic",
+    "lat": 34.0001258,
+    "lon": 71.4955987,
+    "osm_id": 5948635885,
+    "osm_type": "node"
+  },
+  {
+    "name": "Prof Dr. Aslam Chaudhry ENT Specilist",
+    "category": "Clinic",
+    "lat": 33.6386926,
+    "lon": 73.0632605,
+    "osm_id": 5979229385,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctor Khaliq Raheem Medical Centre",
+    "category": "Clinic",
+    "lat": 33.7410171,
+    "lon": 73.1776675,
+    "osm_id": 5979229386,
+    "osm_type": "node"
+  },
+  {
+    "name": "Iqballudin Dental Clinic",
+    "category": "Dentist",
+    "lat": 35.8536524,
+    "lon": 71.7887478,
+    "osm_id": 6007217648,
+    "osm_type": "node"
+  },
+  {
+    "name": "Homeopathic dr Azim Sha",
+    "category": "Clinic",
+    "lat": 34.8073635,
+    "lon": 72.4388282,
+    "osm_id": 6063178886,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ Hospital",
+    "category": "Hospital",
+    "lat": 32.5823441,
+    "lon": 73.4909516,
+    "osm_id": 6083412678,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hamza Eye Hospital",
+    "category": "Clinic",
+    "lat": 31.5696789,
+    "lon": 72.6480942,
+    "osm_id": 6155004385,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ Hospital Jhang Sadar",
+    "category": "Hospital",
+    "lat": 31.2632597,
+    "lon": 72.3332446,
+    "osm_id": 6155086487,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaheen Chemist",
+    "category": "Pharmacy",
+    "lat": 33.7089655,
+    "lon": 73.0554701,
+    "osm_id": 6178448886,
+    "osm_type": "node"
+  },
+  {
+    "name": "Abid Hospital",
+    "category": "Hospital",
+    "lat": 33.7191069,
+    "lon": 73.0755159,
+    "osm_id": 6178526685,
+    "osm_type": "node"
+  },
+  {
+    "name": "Anwar Capital Hospital Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6453905,
+    "lon": 72.9643448,
+    "osm_id": 6178544585,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medical Store",
+    "category": "Pharmacy",
+    "lat": 31.2777132,
+    "lon": 72.3216842,
+    "osm_id": 6182657493,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medical Store",
+    "category": "Pharmacy",
+    "lat": 31.2636008,
+    "lon": 72.3331614,
+    "osm_id": 6182717597,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medical Store",
+    "category": "Pharmacy",
+    "lat": 31.2635512,
+    "lon": 72.3334058,
+    "osm_id": 6182717598,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gondal Diagnostic Laboratory",
+    "category": "Clinic",
+    "lat": 31.2642363,
+    "lon": 72.3297995,
+    "osm_id": 6182717600,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gyane Hospital",
+    "category": "Hospital",
+    "lat": 31.2762668,
+    "lon": 72.3220651,
+    "osm_id": 6182717601,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0688\u0627\u06a9\u0679\u0631 \u06a9\u0644\u06cc\u0646\u06a9",
+    "category": "Hospital",
+    "lat": 31.2672544,
+    "lon": 72.322231,
+    "osm_id": 6182717603,
+    "osm_type": "node"
+  },
+  {
+    "name": "Clinics and Diagnostics Hospital",
+    "category": "Hospital",
+    "lat": 33.645756,
+    "lon": 72.9637335,
+    "osm_id": 6186225788,
+    "osm_type": "node"
+  },
+  {
+    "name": "Salfi House",
+    "category": "Clinic",
+    "lat": 33.5631047,
+    "lon": 73.1419481,
+    "osm_id": 6186304588,
+    "osm_type": "node"
+  },
+  {
+    "name": "D\u2019Intel Dental Practice",
+    "category": "Dentist",
+    "lat": 33.7216895,
+    "lon": 73.0701043,
+    "osm_id": 6197345385,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ali Hospital",
+    "category": "Hospital",
+    "lat": 33.6794571,
+    "lon": 73.0333924,
+    "osm_id": 6199004686,
+    "osm_type": "node"
+  },
+  {
+    "name": "Healer\u2019s Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6754692,
+    "lon": 73.013833,
+    "osm_id": 6208198786,
+    "osm_type": "node"
+  },
+  {
+    "name": "TM Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6760172,
+    "lon": 73.0144411,
+    "osm_id": 6208198887,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medicin Square",
+    "category": "Pharmacy",
+    "lat": 33.6757188,
+    "lon": 73.01392,
+    "osm_id": 6208198888,
+    "osm_type": "node"
+  },
+  {
+    "name": "Latif Health Centre",
+    "category": "Hospital",
+    "lat": 33.6764623,
+    "lon": 73.0156937,
+    "osm_id": 6208206588,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Seema Ansari",
+    "category": "Clinic",
+    "lat": 33.6754658,
+    "lon": 73.0154374,
+    "osm_id": 6208726886,
+    "osm_type": "node"
+  },
+  {
+    "name": "Capital Institute of Health Sciences (CIHS)",
+    "category": "Hospital",
+    "lat": 33.6731737,
+    "lon": 73.0040255,
+    "osm_id": 6219159985,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Shahid\u2019s Clinic",
+    "category": "Clinic",
+    "lat": 33.655552,
+    "lon": 72.9633589,
+    "osm_id": 6237656989,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hope Clinic",
+    "category": "Clinic",
+    "lat": 31.4457376,
+    "lon": 73.0990967,
+    "osm_id": 6242901385,
+    "osm_type": "node"
+  },
+  {
+    "name": "Base MI Room",
+    "category": "Hospital",
+    "lat": 33.993523,
+    "lon": 71.5232521,
+    "osm_id": 6260489785,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0646\u0648\u0631\u06cc \u06c1\u0633\u067e\u062a\u0627\u0644 \u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f",
+    "category": "Hospital",
+    "lat": 33.6990693,
+    "lon": 73.052962,
+    "osm_id": 6265094288,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Hanif Malik",
+    "category": "Clinic",
+    "lat": 32.4994015,
+    "lon": 72.9851551,
+    "osm_id": 6268112585,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fountain house farooqa abad",
+    "category": "Hospital",
+    "lat": 31.7591918,
+    "lon": 73.8050424,
+    "osm_id": 6312882187,
+    "osm_type": "node"
+  },
+  {
+    "name": "New Trauma Center DHQ",
+    "category": "Hospital",
+    "lat": 32.5780637,
+    "lon": 71.5424885,
+    "osm_id": 6338688185,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khyber Medical Centre,Peshawar",
+    "category": "Clinic",
+    "lat": 34.0048054,
+    "lon": 71.559758,
+    "osm_id": 6341638800,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shezad medical store",
+    "category": "Clinic",
+    "lat": 31.4210777,
+    "lon": 73.0787037,
+    "osm_id": 6344941785,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Yousan Paracha",
+    "category": "Clinic",
+    "lat": 34.0033995,
+    "lon": 71.5601626,
+    "osm_id": 6360170323,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Younas Paracha",
+    "category": "Clinic",
+    "lat": 34.0042971,
+    "lon": 71.5595024,
+    "osm_id": 6360193100,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Haj.Siraj Mh & sons Khatna Clinic",
+    "category": "Hospital",
+    "lat": 34.0086696,
+    "lon": 71.5826667,
+    "osm_id": 6370499888,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khali Khan Clinic",
+    "category": "Clinic",
+    "lat": 34.1960567,
+    "lon": 71.6614687,
+    "osm_id": 6376532499,
+    "osm_type": "node"
+  },
+  {
+    "name": "MMC",
+    "category": "Hospital",
+    "lat": 34.0331084,
+    "lon": 71.599578,
+    "osm_id": 6385698386,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mian Garrhi Kohat ( \u060c \u0645\u0633\u062c\u062f\u060c \u0645\u06cc\u0627\u06ba \u06af\u0691\u06be\u06cc  )",
+    "category": "Clinic",
+    "lat": 33.6100431,
+    "lon": 71.3668042,
+    "osm_id": 6400303089,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shakoor Ustad, Makori",
+    "category": "Clinic",
+    "lat": 33.2987528,
+    "lon": 71.2030349,
+    "osm_id": 6400307585,
+    "osm_type": "node"
+  },
+  {
+    "name": "Pakistan Plaza",
+    "category": "Clinic",
+    "lat": 34.0357803,
+    "lon": 71.5798332,
+    "osm_id": 6406302189,
+    "osm_type": "node"
+  },
+  {
+    "name": "KIC Kashmir Institute of Cardiology",
+    "category": "Hospital",
+    "lat": 33.1470422,
+    "lon": 73.7423422,
+    "osm_id": 6408007785,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr.Samad Hemopathic Clinic",
+    "category": "Clinic",
+    "lat": 34.1956528,
+    "lon": 71.9958934,
+    "osm_id": 6416453485,
+    "osm_type": "node"
+  },
+  {
+    "name": "Health & Wellness",
+    "category": "Pharmacy",
+    "lat": 33.6364419,
+    "lon": 73.0626239,
+    "osm_id": 6431224745,
+    "osm_type": "node"
+  },
+  {
+    "name": "Clinic and Dignostic Centre",
+    "category": "Hospital",
+    "lat": 33.6456706,
+    "lon": 72.9638728,
+    "osm_id": 6432256681,
+    "osm_type": "node"
+  },
+  {
+    "name": "Iqbal Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6439991,
+    "lon": 72.9587939,
+    "osm_id": 6432380589,
+    "osm_type": "node"
+  },
+  {
+    "name": "Anwer Capital Hospital",
+    "category": "Hospital",
+    "lat": 33.6452961,
+    "lon": 72.9641192,
+    "osm_id": 6432414579,
+    "osm_type": "node"
+  },
+  {
+    "name": "Nasir Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6452554,
+    "lon": 72.9634726,
+    "osm_id": 6432452500,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shaukat Khanum Collection Centre",
+    "category": "Clinic",
+    "lat": 33.9940421,
+    "lon": 71.4517991,
+    "osm_id": 6450683494,
+    "osm_type": "node"
+  },
+  {
+    "name": "City Medical laboratory",
+    "category": "Laboratory",
+    "lat": 33.9940907,
+    "lon": 71.4519008,
+    "osm_id": 6450693686,
+    "osm_type": "node"
+  },
+  {
+    "name": "Vaccine Care",
+    "category": "Clinic",
+    "lat": 33.9940726,
+    "lon": 71.4518335,
+    "osm_id": 6450693687,
+    "osm_type": "node"
+  },
+  {
+    "name": "excel labs",
+    "category": "Clinic",
+    "lat": 33.9940095,
+    "lon": 71.4519612,
+    "osm_id": 6450693688,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Mohammad Zaib",
+    "category": "Clinic",
+    "lat": 34.2214556,
+    "lon": 71.5663778,
+    "osm_id": 6459076385,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rooghantoon THQ",
+    "category": "Hospital",
+    "lat": 34.8300242,
+    "lon": 73.0645808,
+    "osm_id": 6459953754,
+    "osm_type": "node"
+  },
+  {
+    "name": "Surgical Centre Islamabad",
+    "category": "Hospital",
+    "lat": 33.7149444,
+    "lon": 73.0333152,
+    "osm_id": 6521223343,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sahara Hospital",
+    "category": "Hospital",
+    "lat": 35.2027027,
+    "lon": 71.8774673,
+    "osm_id": 6534025095,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Dil Raj",
+    "category": "Clinic",
+    "lat": 34.5060867,
+    "lon": 72.4600681,
+    "osm_id": 6536727726,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU Biari",
+    "category": "Centre",
+    "lat": 34.8176808,
+    "lon": 73.0946682,
+    "osm_id": 6562011511,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr.Farman's Clinic",
+    "category": "Clinic",
+    "lat": 34.2756299,
+    "lon": 72.1473921,
+    "osm_id": 6563488585,
+    "osm_type": "node"
+  },
+  {
+    "name": "Abdali Clinic",
+    "category": "Clinic",
+    "lat": 31.3811375,
+    "lon": 73.0776554,
+    "osm_id": 6571241389,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU Batkol",
+    "category": "Yes",
+    "lat": 34.8095218,
+    "lon": 72.9671111,
+    "osm_id": 6577452561,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU Jumbera",
+    "category": "Yes",
+    "lat": 34.8503456,
+    "lon": 72.9821143,
+    "osm_id": 6577567850,
+    "osm_type": "node"
+  },
+  {
+    "name": "RHC Rashang",
+    "category": "Yes",
+    "lat": 34.8178544,
+    "lon": 73.1201398,
+    "osm_id": 6624907286,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zayneb Hospital",
+    "category": "Hospital",
+    "lat": 33.5418933,
+    "lon": 73.1553234,
+    "osm_id": 6658591445,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aziz Hospital",
+    "category": "Hospital",
+    "lat": 33.5414502,
+    "lon": 73.1495837,
+    "osm_id": 6658591446,
+    "osm_type": "node"
+  },
+  {
+    "name": "City Hospital",
+    "category": "Hospital",
+    "lat": 32.9286551,
+    "lon": 72.4167533,
+    "osm_id": 6662693554,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ahmad Medical Store",
+    "category": "Pharmacy",
+    "lat": 34.6810306,
+    "lon": 72.2255008,
+    "osm_id": 6665864789,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hakeem Molvi Wali Ullah",
+    "category": "Hospital",
+    "lat": 34.6800828,
+    "lon": 72.7469762,
+    "osm_id": 6738167885,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tehsil Headquarters Hospital",
+    "category": "Hospital",
+    "lat": 33.2691891,
+    "lon": 71.1844444,
+    "osm_id": 6742078788,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Bakhtzada",
+    "category": "Clinic",
+    "lat": 34.620268,
+    "lon": 71.8115842,
+    "osm_id": 6819087290,
+    "osm_type": "node"
+  },
+  {
+    "name": "civil",
+    "category": "Hospital",
+    "lat": 32.057643,
+    "lon": 72.7028817,
+    "osm_id": 6861926085,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. bakhtzada",
+    "category": "Clinic",
+    "lat": 34.6203502,
+    "lon": 71.8114428,
+    "osm_id": 6867245685,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHQ SARGODAH",
+    "category": "Hospital",
+    "lat": 32.0817884,
+    "lon": 72.6629115,
+    "osm_id": 6872788686,
+    "osm_type": "node"
+  },
+  {
+    "name": "Emergency unit of hosp.",
+    "category": "Hospital",
+    "lat": 32.0801952,
+    "lon": 72.6637972,
+    "osm_id": 6873691485,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ajab Din Falij Dam Wala",
+    "category": "Clinic",
+    "lat": 33.1154256,
+    "lon": 70.928661,
+    "osm_id": 6904833487,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rafsan Neuro Rehabilitation Centre",
+    "category": "Hospital",
+    "lat": 33.9902768,
+    "lon": 71.5368514,
+    "osm_id": 6926824286,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sardar Begum Dental Hospital",
+    "category": "Hospital",
+    "lat": 33.9925182,
+    "lon": 71.4809989,
+    "osm_id": 6953240885,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dar-ul-Hikmat Hospital",
+    "category": "Hospital",
+    "lat": 31.6688647,
+    "lon": 73.2769497,
+    "osm_id": 6977672998,
+    "osm_type": "node"
+  },
+  {
+    "name": "Officers Family Ward CMH Rawalpindi",
+    "category": "Hospital",
+    "lat": 33.5777397,
+    "lon": 73.0471312,
+    "osm_id": 7015066185,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shezad medical store",
+    "category": "Clinic",
+    "lat": 31.418987,
+    "lon": 73.077446,
+    "osm_id": 7020599786,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Haneef-u-llah",
+    "category": "Clinic",
+    "lat": 34.6161935,
+    "lon": 71.8246803,
+    "osm_id": 7039265485,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sahibzada Medical Centre",
+    "category": "Hospital",
+    "lat": 33.988398,
+    "lon": 71.4915957,
+    "osm_id": 7051227285,
+    "osm_type": "node"
+  },
+  {
+    "name": "District Head Q",
+    "category": "Hospital",
+    "lat": 34.1914888,
+    "lon": 72.0458214,
+    "osm_id": 7105268185,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sky pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6047728,
+    "lon": 73.0085042,
+    "osm_id": 7124277786,
+    "osm_type": "node"
+  },
+  {
+    "name": "PHC Bijhama",
+    "category": "Centre",
+    "lat": 34.1631653,
+    "lon": 74.0913614,
+    "osm_id": 7140654436,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u062f\u0646\u062f\u0627\u0646 \u0627\u0645\u06cc\u062f \u06cc\u0627\u0633\u06cc\u0631",
+    "category": "Dentist",
+    "lat": 33.6325331,
+    "lon": 69.2308811,
+    "osm_id": 7183733137,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u06a9\u0627\u0645\u0631\u0627\u0646",
+    "category": "Clinic",
+    "lat": 33.6136652,
+    "lon": 69.2304675,
+    "osm_id": 7183733138,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u062f\u0646\u062f\u0627\u0646 \u0633\u06cc\u062d\u0627\u0646",
+    "category": "Dentist",
+    "lat": 33.5948617,
+    "lon": 69.2291145,
+    "osm_id": 7183733139,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u062a\u0634\u062e\u0635\u06cc\u0647 \u0647\u0645\u062a",
+    "category": "Clinic",
+    "lat": 33.5977056,
+    "lon": 69.2291742,
+    "osm_id": 7183733140,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u062f\u0646\u062f\u0627\u0646 \u0645\u0633\u0639\u0648\u062f\u06cc",
+    "category": "Dentist",
+    "lat": 33.5973413,
+    "lon": 69.2292456,
+    "osm_id": 7183733141,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0634\u062e\u0635\u06cc \u0646\u0628\u06cc \u0634\u0645\u0633",
+    "category": "Clinic",
+    "lat": 33.60133,
+    "lon": 69.2291633,
+    "osm_id": 7183733142,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0645\u0639\u0627\u0644\u062c\u0648\u06cc \u063a\u0627\u0632\u06cc \u0627\u0645\u0627\u0646 \u0627\u0644\u0644\u0647 \u062e\u0627\u0646",
+    "category": "Clinic",
+    "lat": 33.6297366,
+    "lon": 69.2303209,
+    "osm_id": 7183733143,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0645\u0639\u0627\u0644\u062c\u0648\u06cc \u0627\u0628\u0627\u0633\u06cc\u0646",
+    "category": "Clinic",
+    "lat": 33.6312604,
+    "lon": 69.2306769,
+    "osm_id": 7183733144,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0645\u062d\u0645\u062f\u06cc",
+    "category": "Clinic",
+    "lat": 33.6255553,
+    "lon": 69.2298098,
+    "osm_id": 7183733145,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u062a\u0634\u062e\u0635\u06cc\u0647 \u0627\u06a9\u0633\u0631\u06cc",
+    "category": "Clinic",
+    "lat": 33.5997612,
+    "lon": 69.226394,
+    "osm_id": 7183733146,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0634\u062e\u0635\u06cc \u0627\u0644\u062a\u0631\u0627\u0633\u0648\u0646\u062f \u062f\u0627\u06a9\u062a\u0631 \u062e\u0627\u0644\u062f\u062f\u0648\u0633\u062a",
+    "category": "Clinic",
+    "lat": 33.6005273,
+    "lon": 69.2253996,
+    "osm_id": 7183733147,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0635\u062d\u062a",
+    "category": "Clinic",
+    "lat": 33.5967069,
+    "lon": 69.2160042,
+    "osm_id": 7183733155,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0633\u062d\u0631\u0634\u0641\u0627",
+    "category": "Clinic",
+    "lat": 33.597884,
+    "lon": 69.2292104,
+    "osm_id": 7183733159,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627\u062e\u0627\u0646\u0647 \u0645\u0644\u06a9\u06cc",
+    "category": "Hospital",
+    "lat": 33.5985331,
+    "lon": 69.225555,
+    "osm_id": 7183733160,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627\u062e\u0627\u0646\u0647 \u0639\u0633\u06a9\u0631\u06cc",
+    "category": "Hospital",
+    "lat": 33.5950769,
+    "lon": 69.2270182,
+    "osm_id": 7183733161,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0635\u062d\u062a",
+    "category": "Laboratory",
+    "lat": 33.598468,
+    "lon": 69.226497,
+    "osm_id": 7183733162,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0647\u06cc\u0648\u0627\u062f",
+    "category": "Laboratory",
+    "lat": 33.602305,
+    "lon": 69.2237034,
+    "osm_id": 7183733163,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0644\u0645\u0631",
+    "category": "Laboratory",
+    "lat": 33.6000655,
+    "lon": 69.2267405,
+    "osm_id": 7183733164,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627\u062e\u0627\u0646\u0647 \u0647\u06cc\u0648\u0627\u062f \u0641\u06cc\u0636\u06cc",
+    "category": "Hospital",
+    "lat": 33.5945039,
+    "lon": 69.2285349,
+    "osm_id": 7183733165,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627\u062e\u0627\u0646\u0647 \u0645\u0639\u0627\u0644\u062c\u0648\u06cc \u0631\u062d\u0645\u0646",
+    "category": "Hospital",
+    "lat": 33.6302278,
+    "lon": 69.2303706,
+    "osm_id": 7183733166,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627\u062e\u0627\u0646\u0647 \u062d\u0648\u0632\u0648\u06cc \u067e\u06a9\u062a\u0628\u0627",
+    "category": "Hospital",
+    "lat": 33.6308143,
+    "lon": 69.2323949,
+    "osm_id": 7183733167,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627\u062e\u0627\u0646\u0647 \u0645\u0639\u062a\u0627\u062f\u06cc\u0646",
+    "category": "Hospital",
+    "lat": 33.6249604,
+    "lon": 69.2276852,
+    "osm_id": 7183733168,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627\u062e\u0627\u0646\u0647 \u0645\u0639\u0627\u0644\u062c\u0648\u06cc \u06a9\u06cc\u0645\u0632\u0634\u0641\u0627",
+    "category": "Hospital",
+    "lat": 33.6228978,
+    "lon": 69.2294759,
+    "osm_id": 7183733169,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627\u062e\u0627\u0646\u0647 \u062d\u06cc\u0627\u062a \u0627\u0644\u0644\u0647 \u062e\u0627\u0644\u0642\u06cc\u0627\u0631",
+    "category": "Hospital",
+    "lat": 33.624541,
+    "lon": 69.2276017,
+    "osm_id": 7183733170,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0639\u0644\u06cc\u0632\u06cc",
+    "category": "Laboratory",
+    "lat": 33.5968517,
+    "lon": 69.2305293,
+    "osm_id": 7183733171,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0642\u0627\u0633\u0645\u06cc",
+    "category": "Laboratory",
+    "lat": 33.6305323,
+    "lon": 69.2306431,
+    "osm_id": 7183733172,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0645\u0639\u0627\u0644\u062c\u0648\u06cc \u0633\u06cc\u0641",
+    "category": "Clinic",
+    "lat": 33.5988101,
+    "lon": 69.2262566,
+    "osm_id": 7183733173,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0645\u0639\u0627\u0644\u062c\u0648\u06cc \u062f\u0646\u062f\u0627\u0646",
+    "category": "Dentist",
+    "lat": 33.5977954,
+    "lon": 69.2265553,
+    "osm_id": 7183733174,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u062f\u0646\u062f\u0627\u0646 \u062d\u06cc\u0627\u062a",
+    "category": "Dentist",
+    "lat": 33.5990155,
+    "lon": 69.226352,
+    "osm_id": 7183733175,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0648\u0637\u0646",
+    "category": "Laboratory",
+    "lat": 33.6031819,
+    "lon": 69.2293775,
+    "osm_id": 7183733176,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0633\u06cc\u0646\u0627",
+    "category": "Laboratory",
+    "lat": 33.5979946,
+    "lon": 69.2285329,
+    "osm_id": 7183733177,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0627\u0644\u0634\u0641\u0627",
+    "category": "Laboratory",
+    "lat": 33.6014025,
+    "lon": 69.2269583,
+    "osm_id": 7183733178,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u06a9\u0645\u067e\u0644\u06a9\u0633",
+    "category": "Laboratory",
+    "lat": 33.630435,
+    "lon": 69.2305496,
+    "osm_id": 7183733179,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0646\u0648\u06cc\u062f\u0627\u0644\u0644\u0647",
+    "category": "Laboratory",
+    "lat": 33.6297827,
+    "lon": 69.230786,
+    "osm_id": 7183733180,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0644\u0627\u0628\u0631\u0627\u062a\u0648\u0627\u0631 \u0637\u0628\u06cc \u0646\u0648\u06cc \u067e\u06a9\u062a\u06cc\u0627",
+    "category": "Laboratory",
+    "lat": 33.630138,
+    "lon": 69.2308017,
+    "osm_id": 7183733181,
+    "osm_type": "node"
+  },
+  {
+    "name": "Professor Doctor Naima Uthman",
+    "category": "Clinic",
+    "lat": 33.9759582,
+    "lon": 71.4688942,
+    "osm_id": 7184052785,
+    "osm_type": "node"
+  },
+  {
+    "name": "Twin City Diagnostics",
+    "category": "Hospital",
+    "lat": 33.640755,
+    "lon": 73.0788445,
+    "osm_id": 7230243994,
+    "osm_type": "node"
+  },
+  {
+    "name": "District Headquarter Hospital",
+    "category": "Hospital",
+    "lat": 35.2024782,
+    "lon": 71.8787637,
+    "osm_id": 7231518379,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rahmat Noor Clinic",
+    "category": "Hospital",
+    "lat": 33.5983726,
+    "lon": 73.0462166,
+    "osm_id": 7284590738,
+    "osm_type": "node"
+  },
+  {
+    "name": "HBS General Hospital",
+    "category": "Hospital",
+    "lat": 33.6448002,
+    "lon": 73.1726511,
+    "osm_id": 7417878942,
+    "osm_type": "node"
+  },
+  {
+    "name": "Care Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.5729255,
+    "lon": 73.4821972,
+    "osm_id": 7528878435,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mufti Mehmood Memorial Hospital",
+    "category": "Hospital",
+    "lat": 31.8182692,
+    "lon": 70.8245069,
+    "osm_id": 7643882194,
+    "osm_type": "node"
+  },
+  {
+    "name": "New Dera Pharmacy",
+    "category": "Pharmacy",
+    "lat": 31.81826,
+    "lon": 70.8234389,
+    "osm_id": 7643882202,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dinar Cancer Hospital",
+    "category": "Hospital",
+    "lat": 31.814827,
+    "lon": 70.8264369,
+    "osm_id": 7643882211,
+    "osm_type": "node"
+  },
+  {
+    "name": "Primary Health Centre",
+    "category": "Centre",
+    "lat": 34.3615593,
+    "lon": 73.8347965,
+    "osm_id": 7668544078,
+    "osm_type": "node"
+  },
+  {
+    "name": "Govt. Hospital Hafthrada",
+    "category": "Hospital",
+    "lat": 34.4508037,
+    "lon": 74.0770902,
+    "osm_id": 7668544086,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sub District Hospital",
+    "category": "Hospital",
+    "lat": 34.0780092,
+    "lon": 74.0568786,
+    "osm_id": 7668544152,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sub District Hospital",
+    "category": "Hospital",
+    "lat": 34.395847,
+    "lon": 73.86296,
+    "osm_id": 7668544161,
+    "osm_type": "node"
+  },
+  {
+    "name": "TB Hospital",
+    "category": "Hospital",
+    "lat": 33.7721615,
+    "lon": 74.0966586,
+    "osm_id": 7669142113,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Owais Sadeeq Clinic",
+    "category": "Clinic",
+    "lat": 33.7708785,
+    "lon": 74.098307,
+    "osm_id": 7669142137,
+    "osm_type": "node"
+  },
+  {
+    "name": "Major General (Retired) Dr. Mohammad Naeem Khan Neuro-Physician",
+    "category": "Clinic",
+    "lat": 33.605765,
+    "lon": 73.0187797,
+    "osm_id": 7722844785,
+    "osm_type": "node"
+  },
+  {
+    "name": "Community Health Center",
+    "category": "Doctor",
+    "lat": 35.0080831,
+    "lon": 72.8894446,
+    "osm_id": 7756464534,
+    "osm_type": "node"
+  },
+  {
+    "name": "Kandow BHU",
+    "category": "Doctor,_Pharmacy",
+    "lat": 34.989827,
+    "lon": 72.8957327,
+    "osm_id": 7793120913,
+    "osm_type": "node"
+  },
+  {
+    "name": "Talha homeopathic clinic",
+    "category": "Clinic",
+    "lat": 31.4838154,
+    "lon": 73.0473019,
+    "osm_id": 7848528885,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0646\u0648\u06cc \u0645\u06a9\u0631\u0648\u06cc\u0627\u0646 \u062f\u0631\u0645\u0644\u062a\u0648\u0646",
+    "category": "Pharmacy",
+    "lat": 34.5269485,
+    "lon": 69.208102,
+    "osm_id": 7883048338,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0646\u0639\u0627\u0646 \u062f\u0631\u0645\u0644\u062a\u0648\u0646",
+    "category": "Pharmacy",
+    "lat": 34.5270333,
+    "lon": 69.2082629,
+    "osm_id": 7883103330,
+    "osm_type": "node"
+  },
+  {
+    "name": "PRCS Dabgari Gate Branch",
+    "category": "Ngo",
+    "lat": 34.0049143,
+    "lon": 71.559557,
+    "osm_id": 8005478363,
+    "osm_type": "node"
+  },
+  {
+    "name": "susral",
+    "category": "Clinic",
+    "lat": 33.5250327,
+    "lon": 73.1616276,
+    "osm_id": 8063291085,
+    "osm_type": "node"
+  },
+  {
+    "name": "neuro & trumma center",
+    "category": "Hospital",
+    "lat": 32.5822834,
+    "lon": 74.0605311,
+    "osm_id": 8091481451,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zeeshan Chemist",
+    "category": "Pharmacy",
+    "lat": 33.6043491,
+    "lon": 73.075796,
+    "osm_id": 8093809419,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fida Hassan Mamu",
+    "category": "Clinic",
+    "lat": 34.0524102,
+    "lon": 72.690516,
+    "osm_id": 8147476551,
+    "osm_type": "node"
+  },
+  {
+    "name": "SubCentre, Batgran",
+    "category": "Centre",
+    "lat": 34.0477642,
+    "lon": 74.0568031,
+    "osm_id": 8185961426,
+    "osm_type": "node"
+  },
+  {
+    "name": "SubCentre, Sukhdar",
+    "category": "Centre",
+    "lat": 34.0372605,
+    "lon": 74.0452518,
+    "osm_id": 8185964903,
+    "osm_type": "node"
+  },
+  {
+    "name": "SubCentre, Zamboor Pattan",
+    "category": "Centre",
+    "lat": 34.137074,
+    "lon": 74.0694853,
+    "osm_id": 8185969038,
+    "osm_type": "node"
+  },
+  {
+    "name": "SubCentre, Thajal",
+    "category": "Centre",
+    "lat": 34.0567291,
+    "lon": 74.0698638,
+    "osm_id": 8185970998,
+    "osm_type": "node"
+  },
+  {
+    "name": "SubCentre, Nalai",
+    "category": "Centre",
+    "lat": 34.1384199,
+    "lon": 73.9751225,
+    "osm_id": 8185980103,
+    "osm_type": "node"
+  },
+  {
+    "name": "SubCentre, Basgran",
+    "category": "Centre",
+    "lat": 34.0881089,
+    "lon": 74.0248711,
+    "osm_id": 8186004371,
+    "osm_type": "node"
+  },
+  {
+    "name": "SubCentre, Balkote",
+    "category": "Centre",
+    "lat": 34.0557905,
+    "lon": 74.0749332,
+    "osm_id": 8186564328,
+    "osm_type": "node"
+  },
+  {
+    "name": "SubCentre, Charunda",
+    "category": "Centre",
+    "lat": 34.0416335,
+    "lon": 74.0642596,
+    "osm_id": 8189447395,
+    "osm_type": "node"
+  },
+  {
+    "name": "Asia kidney hospital",
+    "category": "Hospital",
+    "lat": 33.5596878,
+    "lon": 73.0875818,
+    "osm_id": 8266905517,
+    "osm_type": "node"
+  },
+  {
+    "name": "Makka Eye Hospital",
+    "category": "Hospital",
+    "lat": 34.1897462,
+    "lon": 72.0325957,
+    "osm_id": 8280575121,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hospital",
+    "category": "Hospital",
+    "lat": 34.0138313,
+    "lon": 71.9881648,
+    "osm_id": 8280575221,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sheikh Kalai Hospital",
+    "category": "Hospital",
+    "lat": 34.1201893,
+    "lon": 71.6753171,
+    "osm_id": 8280575421,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ahmad Hospital",
+    "category": "Hospital",
+    "lat": 34.9397782,
+    "lon": 72.4276567,
+    "osm_id": 8280844218,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mardan Medical Centre Dentistry Department",
+    "category": "Hospital",
+    "lat": 34.1515668,
+    "lon": 72.033631,
+    "osm_id": 8383489317,
+    "osm_type": "node"
+  },
+  {
+    "name": "Haji Muhammad Bashir \u0645\u0637\u0628 \u06c1\u0688\u06cc \u062c\u0648\u0691",
+    "category": "Clinic",
+    "lat": 33.6290183,
+    "lon": 73.0675033,
+    "osm_id": 8383739517,
+    "osm_type": "node"
+  },
+  {
+    "name": "SAFA AL-MADINA CLINIC",
+    "category": "Clinic",
+    "lat": 32.2826254,
+    "lon": 72.296504,
+    "osm_id": 8420026618,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627 \u0645\u06cc\u0688\u06cc\u06a9\u0644 \u0645\u0631\u0643\u0632",
+    "category": "Clinic",
+    "lat": 34.0033461,
+    "lon": 71.5608233,
+    "osm_id": 8424760924,
+    "osm_type": "node"
+  },
+  {
+    "name": "DA RUL SHIFA HOSPITAL",
+    "category": "Hospital",
+    "lat": 32.5778042,
+    "lon": 73.4801853,
+    "osm_id": 8479229217,
+    "osm_type": "node"
+  },
+  {
+    "name": "Swati Pharmacy & Cosmatics",
+    "category": "Pharmacy",
+    "lat": 33.5982203,
+    "lon": 72.9934468,
+    "osm_id": 8484018637,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khan Lab",
+    "category": "Laboratory",
+    "lat": 32.0970926,
+    "lon": 72.6772892,
+    "osm_id": 8533715358,
+    "osm_type": "node"
+  },
+  {
+    "name": "IBAD Medicose Gunjai",
+    "category": "Pharmacy",
+    "lat": 34.3045295,
+    "lon": 71.913691,
+    "osm_id": 8576948997,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr Fazal Laser Eye Center",
+    "category": "Clinic",
+    "lat": 32.0905337,
+    "lon": 72.6690969,
+    "osm_id": 8598317609,
+    "osm_type": "node"
+  },
+  {
+    "name": "LRBT Chiniot - Free Eye Hospital",
+    "category": "Hospital",
+    "lat": 31.7191689,
+    "lon": 72.9781974,
+    "osm_id": 8604993570,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mardan Children Hospital",
+    "category": "Hospital",
+    "lat": 34.1916901,
+    "lon": 72.0485264,
+    "osm_id": 8624885418,
+    "osm_type": "node"
+  },
+  {
+    "name": "Valley Clinic",
+    "category": "Clinic",
+    "lat": 32.5736217,
+    "lon": 72.1581201,
+    "osm_id": 8779703766,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sami Diagnostic Center",
+    "category": "Clinic",
+    "lat": 32.282658,
+    "lon": 72.2802656,
+    "osm_id": 8786923828,
+    "osm_type": "node"
+  },
+  {
+    "name": "Robina Shaheen Hospital",
+    "category": "Hospital",
+    "lat": 32.2910819,
+    "lon": 72.2723688,
+    "osm_id": 8786923829,
+    "osm_type": "node"
+  },
+  {
+    "name": "Muhammad Hospital",
+    "category": "Hospital",
+    "lat": 32.2874013,
+    "lon": 72.2710756,
+    "osm_id": 8786923831,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shan Clinic Dr Sajjad",
+    "category": "Clinic",
+    "lat": 32.2824182,
+    "lon": 72.2802467,
+    "osm_id": 8786923832,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aoun Hospital",
+    "category": "Hospital",
+    "lat": 32.288146,
+    "lon": 72.271399,
+    "osm_id": 8786923833,
+    "osm_type": "node"
+  },
+  {
+    "name": "Afzal Children Clinic and Maternity Home",
+    "category": "Clinic",
+    "lat": 32.5750768,
+    "lon": 72.1584304,
+    "osm_id": 8788187730,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bhatti Hospital",
+    "category": "Hospital",
+    "lat": 32.2946419,
+    "lon": 72.3357495,
+    "osm_id": 8831148413,
+    "osm_type": "node"
+  },
+  {
+    "name": "Malik Lab",
+    "category": "Laboratory",
+    "lat": 32.5722773,
+    "lon": 72.1560168,
+    "osm_id": 8837809564,
+    "osm_type": "node"
+  },
+  {
+    "name": "Max Health Hospital",
+    "category": "Hospital",
+    "lat": 33.6976835,
+    "lon": 73.0491988,
+    "osm_id": 8841662156,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0679\u06cc \u0627\u06cc\u0686 \u06a9\u06cc\u0648 \u06c1\u0633\u067e\u062a\u0627\u0644 \u062a\u0646\u06af\u06cc",
+    "category": "Hospital",
+    "lat": 34.2932111,
+    "lon": 71.6641412,
+    "osm_id": 8856369160,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU Meragai , Chinar Bagh",
+    "category": "Hospital",
+    "lat": 34.7070068,
+    "lon": 72.455002,
+    "osm_id": 8867366614,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0679\u06cc \u0627\u06cc\u0686 \u06a9\u06cc\u0648 \u06c1\u0633\u067e\u062a\u0627\u0644 \u0645\u0644\u06a9\u0648\u0627\u0644",
+    "category": "Hospital",
+    "lat": 32.5589279,
+    "lon": 73.2358895,
+    "osm_id": 8870572338,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fatima Tuz Zahra Mother &Child Hospital",
+    "category": "Hospital",
+    "lat": 33.377886,
+    "lon": 72.8463813,
+    "osm_id": 8904646422,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0645\u0639\u0627\u0644\u062c\u0648\u06cc \u0648 \u0632\u0627\u06cc\u0634\u06af\u0627\u0647 \u0645\u0647\u0631",
+    "category": "Clinic",
+    "lat": 34.5550907,
+    "lon": 69.2093387,
+    "osm_id": 8964560284,
+    "osm_type": "node"
+  },
+  {
+    "name": "General Block Hospital",
+    "category": "Hospital",
+    "lat": 33.3636827,
+    "lon": 72.8788879,
+    "osm_id": 8976467291,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Psychiatric Clinic & Rehabilitation Center",
+    "category": "Psychotherapist",
+    "lat": 33.6639608,
+    "lon": 73.1540999,
+    "osm_id": 9021803672,
+    "osm_type": "node"
+  },
+  {
+    "name": "Saydon Pharmaceutical Co., Pvt Ltd",
+    "category": "Alternative",
+    "lat": 33.9821014,
+    "lon": 71.4260941,
+    "osm_id": 9104563087,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medicon Pharmaceutical Pvt. Ltd.",
+    "category": "Alternative",
+    "lat": 33.9948544,
+    "lon": 71.4208733,
+    "osm_id": 9111074187,
+    "osm_type": "node"
+  },
+  {
+    "name": "Polyfine  Pharmaceutical company",
+    "category": "Alternative",
+    "lat": 33.9777069,
+    "lon": 71.4245834,
+    "osm_id": 9111258551,
+    "osm_type": "node"
+  },
+  {
+    "name": "Stanley Pharmaceutical Pvt. Ltd.",
+    "category": "Alternative",
+    "lat": 33.980999,
+    "lon": 71.422081,
+    "osm_id": 9111287973,
+    "osm_type": "node"
+  },
+  {
+    "name": "Z-Jans Pharmaceuticals",
+    "category": "Alternative",
+    "lat": 33.9942436,
+    "lon": 71.4302063,
+    "osm_id": 9111547559,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU ABAZAI",
+    "category": "Hospital",
+    "lat": 34.3246721,
+    "lon": 71.5912913,
+    "osm_id": 9183319282,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sheikh Yaseen Medical Centre",
+    "category": "Clinic",
+    "lat": 34.1921706,
+    "lon": 72.0438772,
+    "osm_id": 9297674018,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u062f\u0631\u0645\u0627\u0646 \u067e\u0648\u0644\u06cc \u06a9\u0644\u06cc\u0646\u06a9",
+    "category": "Clinic",
+    "lat": 34.507776,
+    "lon": 69.2372361,
+    "osm_id": 9319490042,
+    "osm_type": "node"
+  },
+  {
+    "name": "Eye Specialist Clinic",
+    "category": "Clinic",
+    "lat": 34.1962711,
+    "lon": 73.2359997,
+    "osm_id": 9366586081,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hospital Jatri Kohna",
+    "category": "Hospital",
+    "lat": 31.6886906,
+    "lon": 73.7337439,
+    "osm_id": 9395860649,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0628\u0634\u06cc\u0631 \u0635\u0627\u0641\u06cc \u06a9\u0644\u06cc\u0646\u06cc\u06a9",
+    "category": "Clinic",
+    "lat": 34.6304879,
+    "lon": 70.1952474,
+    "osm_id": 9400453023,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mohi-ud-Din Islamic Medical College, Mirpur, AJK.",
+    "category": "Hospital",
+    "lat": 33.1084201,
+    "lon": 73.7092116,
+    "osm_id": 9403234116,
+    "osm_type": "node"
+  },
+  {
+    "name": "UK TB Test Center MIRPUR , UAN : 0346 1929 404",
+    "category": "Yes",
+    "lat": 33.1455722,
+    "lon": 73.7411066,
+    "osm_id": 9404792537,
+    "osm_type": "node"
+  },
+  {
+    "name": "Accident & Emergency Department",
+    "category": "Hospital",
+    "lat": 33.1491834,
+    "lon": 73.7416197,
+    "osm_id": 9407839866,
+    "osm_type": "node"
+  },
+  {
+    "name": "CIVIL HOSPITAL KOTLA ARAB ALI KHAN",
+    "category": "Hospital",
+    "lat": 32.8485189,
+    "lon": 74.082019,
+    "osm_id": 9492772891,
+    "osm_type": "node"
+  },
+  {
+    "name": "Taha Medical & Diagnostic Center",
+    "category": "Hospital",
+    "lat": 34.7914852,
+    "lon": 72.9303315,
+    "osm_id": 9498650778,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0634\u0641\u0627\u0621 \u06c1\u06cc\u0644\u062a\u06be \u06a9\u0626\u06cc\u0631 \u06c1\u0633\u067e\u062a\u0627\u0644",
+    "category": "Hospital",
+    "lat": 33.6917797,
+    "lon": 72.944307,
+    "osm_id": 9501618144,
+    "osm_type": "node"
+  },
+  {
+    "name": "Manal Medical & Dental Clinic",
+    "category": "Clinic",
+    "lat": 34.2868694,
+    "lon": 72.1642119,
+    "osm_id": 9505868313,
+    "osm_type": "node"
+  },
+  {
+    "name": "civil govt hospital",
+    "category": "Hospital",
+    "lat": 32.9739257,
+    "lon": 74.080699,
+    "osm_id": 9519075399,
+    "osm_type": "node"
+  },
+  {
+    "name": "CIVIL HOSPITAL",
+    "category": "Hospital",
+    "lat": 32.974281,
+    "lon": 74.0819986,
+    "osm_id": 9526079351,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shifa Hospital",
+    "category": "Hospital",
+    "lat": 32.5853069,
+    "lon": 74.0764713,
+    "osm_id": 9530602072,
+    "osm_type": "node"
+  },
+  {
+    "name": "City Hospital",
+    "category": "Hospital",
+    "lat": 32.5851105,
+    "lon": 74.0765131,
+    "osm_id": 9530602073,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mushtaq Baig Shaheed Medical Clinic",
+    "category": "Clinic",
+    "lat": 33.6230109,
+    "lon": 72.9645556,
+    "osm_id": 9534110317,
+    "osm_type": "node"
+  },
+  {
+    "name": "Riasat Hospital",
+    "category": "Hospital",
+    "lat": 33.1492724,
+    "lon": 73.7139092,
+    "osm_id": 9547938041,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ehsan Medical Complex",
+    "category": "Hospital",
+    "lat": 33.1476886,
+    "lon": 73.7101709,
+    "osm_id": 9547947778,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr.Hameed ur Rehman Cardiologist\u2019s Clinic",
+    "category": "Clinic",
+    "lat": 34.1910581,
+    "lon": 72.0303437,
+    "osm_id": 9610802717,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Syed Ashfaq Ali Psychiatrist\u2019s Clinic",
+    "category": "Clinic",
+    "lat": 34.1923143,
+    "lon": 72.0438788,
+    "osm_id": 9610802817,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sikandar Medical Infirmary",
+    "category": "Hospital",
+    "lat": 34.9280306,
+    "lon": 72.4118395,
+    "osm_id": 9727629256,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU KESU",
+    "category": "Clinic",
+    "lat": 35.6287072,
+    "lon": 71.7932685,
+    "osm_id": 9912988219,
+    "osm_type": "node"
+  },
+  {
+    "name": "Najeeb Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.650484,
+    "lon": 72.9718291,
+    "osm_id": 9925726786,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Diagnostics Clinic",
+    "category": "Laboratory",
+    "lat": 33.6453414,
+    "lon": 72.9635642,
+    "osm_id": 9941338277,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Naeem Hameed Cardiologist",
+    "category": "Clinic",
+    "lat": 31.4175296,
+    "lon": 73.1043627,
+    "osm_id": 9952504117,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06a9\u0644\u06cc\u0646\u06cc\u06a9 \u0627\u0631\u062a\u0648\u067e\u062f\u06cc \u0641\u06cc\u0636\u06cc",
+    "category": "Clinic",
+    "lat": 34.4355029,
+    "lon": 70.4372772,
+    "osm_id": 10081953715,
+    "osm_type": "node"
+  },
+  {
+    "name": "Family Diagnostic and Digital Xray center Mianwali",
+    "category": "Hospital",
+    "lat": 32.5772865,
+    "lon": 71.5437215,
+    "osm_id": 10209424928,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sher Shah Sulaimankhel (Eye Specialist)",
+    "category": "Clinic",
+    "lat": 33.5865812,
+    "lon": 71.4424995,
+    "osm_id": 10250742010,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU Kacha Pakha",
+    "category": "Yes",
+    "lat": 33.6028505,
+    "lon": 71.2715533,
+    "osm_id": 10251403089,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hakeem Mahboob Hussian",
+    "category": "Clinic",
+    "lat": 32.9243934,
+    "lon": 72.4051967,
+    "osm_id": 10264362142,
+    "osm_type": "node"
+  },
+  {
+    "name": "Citi clinic",
+    "category": "Clinic",
+    "lat": 32.9932909,
+    "lon": 73.6602633,
+    "osm_id": 10312923504,
+    "osm_type": "node"
+  },
+  {
+    "name": "Aslam medical store Dadyal",
+    "category": "Pharmacy",
+    "lat": 33.3438771,
+    "lon": 73.6915994,
+    "osm_id": 10539238560,
+    "osm_type": "node"
+  },
+  {
+    "name": "Chowhan Medicine and Pharmacy & Mart",
+    "category": "Pharmacy",
+    "lat": 32.9926037,
+    "lon": 73.6592565,
+    "osm_id": 10554624345,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dia Scient Medical Complex",
+    "category": "Hospital",
+    "lat": 31.4432093,
+    "lon": 73.1007696,
+    "osm_id": 10747761252,
+    "osm_type": "node"
+  },
+  {
+    "name": "Askary Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.9319895,
+    "lon": 72.8356681,
+    "osm_id": 10753456010,
+    "osm_type": "node"
+  },
+  {
+    "name": "B&S Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6584431,
+    "lon": 72.8560532,
+    "osm_id": 10763758031,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Pharma",
+    "category": "Pharmacy",
+    "lat": 33.6585124,
+    "lon": 72.8559934,
+    "osm_id": 10763758164,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dentist Niazi",
+    "category": "Dentist",
+    "lat": 33.7309694,
+    "lon": 73.0638096,
+    "osm_id": 10777530835,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Shifa Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.5721158,
+    "lon": 72.1570622,
+    "osm_id": 10971525206,
+    "osm_type": "node"
+  },
+  {
+    "name": "Makki Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.5722449,
+    "lon": 72.1566214,
+    "osm_id": 10980301673,
+    "osm_type": "node"
+  },
+  {
+    "name": "Arif Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.5722351,
+    "lon": 72.1566724,
+    "osm_id": 10980305403,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rahat Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.5722948,
+    "lon": 72.1564355,
+    "osm_id": 10980318116,
+    "osm_type": "node"
+  },
+  {
+    "name": "Madni Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.5722869,
+    "lon": 72.1564736,
+    "osm_id": 10980324883,
+    "osm_type": "node"
+  },
+  {
+    "name": "Dr. Mulazim Hospital",
+    "category": "Clinic",
+    "lat": 32.7821775,
+    "lon": 71.780609,
+    "osm_id": 11008138413,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.5724665,
+    "lon": 72.1556694,
+    "osm_id": 11020129427,
+    "osm_type": "node"
+  },
+  {
+    "name": "Anjum Polyclinic",
+    "category": "Clinic",
+    "lat": 32.5722239,
+    "lon": 72.1565046,
+    "osm_id": 11020134020,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zaheer Medical Store",
+    "category": "Pharmacy",
+    "lat": 32.5723669,
+    "lon": 72.1561896,
+    "osm_id": 11020134328,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Rehman Medical Laboratary",
+    "category": "Laboratory",
+    "lat": 32.5723461,
+    "lon": 72.1562587,
+    "osm_id": 11020141824,
+    "osm_type": "node"
+  },
+  {
+    "name": "Asad Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.5724142,
+    "lon": 72.1559888,
+    "osm_id": 11020141825,
+    "osm_type": "node"
+  },
+  {
+    "name": "Akram Medical Store",
+    "category": "Pharmacy",
+    "lat": 32.5723859,
+    "lon": 72.1561323,
+    "osm_id": 11020144656,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0646\u0648\u06cc \u06a9\u0648\u062b\u0631 \u062f\u0631\u0645\u0644\u062a\u0648\u0646",
+    "category": "Pharmacy",
+    "lat": 33.3376376,
+    "lon": 69.9152488,
+    "osm_id": 11028595725,
+    "osm_type": "node"
+  },
+  {
+    "name": "Care First Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.5731752,
+    "lon": 72.1525274,
+    "osm_id": 11049191030,
+    "osm_type": "node"
+  },
+  {
+    "name": "Health Care Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6248116,
+    "lon": 73.1599745,
+    "osm_id": 11052958159,
+    "osm_type": "node"
+  },
+  {
+    "name": "Testing Hospital Ismail",
+    "category": "Hospital",
+    "lat": 33.7040908,
+    "lon": 73.056917,
+    "osm_id": 11068308487,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zaheer Sunny Pharmacy",
+    "category": "Pharmacy",
+    "lat": 32.2962099,
+    "lon": 72.346338,
+    "osm_id": 11157642666,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Specialists Clinic F-8 Markaz",
+    "category": "Hospital",
+    "lat": 33.711174,
+    "lon": 73.0417786,
+    "osm_id": 11185339209,
+    "osm_type": "node"
+  },
+  {
+    "name": "Prime Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.6161371,
+    "lon": 73.1375852,
+    "osm_id": 11207571137,
+    "osm_type": "node"
+  },
+  {
+    "name": "Advanced International Hospital G-8 Markaz",
+    "category": "Hospital",
+    "lat": 33.6963846,
+    "lon": 73.0502887,
+    "osm_id": 11217189672,
+    "osm_type": "node"
+  },
+  {
+    "name": "PAF Hospital, Unit 2 Parking",
+    "category": "Hospital",
+    "lat": 33.7075986,
+    "lon": 73.0148593,
+    "osm_id": 11268713199,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shahid Medical Center",
+    "category": "Clinic",
+    "lat": 33.9940589,
+    "lon": 71.45069,
+    "osm_id": 11276937705,
+    "osm_type": "node"
+  },
+  {
+    "name": "Al Khidmat Clinic",
+    "category": "Clinic",
+    "lat": 32.821943,
+    "lon": 73.9582594,
+    "osm_id": 11329039112,
+    "osm_type": "node"
+  },
+  {
+    "name": "Govt Hospital Harnia Wala",
+    "category": "Hospital",
+    "lat": 33.2359563,
+    "lon": 72.6707028,
+    "osm_id": 11411763449,
+    "osm_type": "node"
+  },
+  {
+    "name": "Govt Hospital Dak Ismail Khel",
+    "category": "Hospital",
+    "lat": 33.856448,
+    "lon": 71.807122,
+    "osm_id": 11433543870,
+    "osm_type": "node"
+  },
+  {
+    "name": "Qazi Hussain Ahmed Medical Complex",
+    "category": "Hospital",
+    "lat": 34.0139551,
+    "lon": 71.9903827,
+    "osm_id": 11434275884,
+    "osm_type": "node"
+  },
+  {
+    "name": "Saint Raphael Hospital",
+    "category": "Hospital",
+    "lat": 31.4154162,
+    "lon": 73.0887015,
+    "osm_id": 11496582269,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u06af\u0648\u0631\u0646\u0645\u0646\u0679 \u0631\u0648\u0631\u0644 \u06c1\u06cc\u0644\u062a\u06be \u0688\u0633\u067e\u0646\u0633\u0631\u06cc \u0639\u0644\u06cc \u0622\u0628\u0627\u062f",
+    "category": "Hospital",
+    "lat": 32.0984088,
+    "lon": 73.5307603,
+    "osm_id": 11506526287,
+    "osm_type": "node"
+  },
+  {
+    "name": "AT Skin & Aesthetic Clinic",
+    "category": "Hospital",
+    "lat": 33.5214526,
+    "lon": 73.0916469,
+    "osm_id": 11655758860,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shifa College of Dentistry",
+    "category": "Hospital",
+    "lat": 33.6500194,
+    "lon": 73.0956311,
+    "osm_id": 11669193623,
+    "osm_type": "node"
+  },
+  {
+    "name": "Jaffar Hospital",
+    "category": "Hospital",
+    "lat": 33.5438513,
+    "lon": 72.5303991,
+    "osm_id": 11671702263,
+    "osm_type": "node"
+  },
+  {
+    "name": "AKBAR ABAD-BASIC HEALTH UNIT",
+    "category": "Hospital",
+    "lat": 34.1821383,
+    "lon": 71.8818063,
+    "osm_id": 11690425245,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0628\u0646\u06cc\u0627\u062f\u06cc \u0645\u0631\u06a9\u0632 \u0635\u062d\u062a \u0633\u0646\u062f\u06be\u0648\u0627\u06ba \u062a\u0627\u0631\u0691",
+    "category": "Hospital",
+    "lat": 32.0632643,
+    "lon": 73.5301643,
+    "osm_id": 11750585770,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hakim KAZMI",
+    "category": "Hospital",
+    "lat": 33.578359,
+    "lon": 73.1470029,
+    "osm_id": 11835524869,
+    "osm_type": "node"
+  },
+  {
+    "name": "D Watson Medicine",
+    "category": "Pharmacy",
+    "lat": 33.5311546,
+    "lon": 73.1600509,
+    "osm_id": 11835847176,
+    "osm_type": "node"
+  },
+  {
+    "name": "Medicure Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.5311955,
+    "lon": 73.1579644,
+    "osm_id": 11836573851,
+    "osm_type": "node"
+  },
+  {
+    "name": "Excel Labs",
+    "category": "Laboratory",
+    "lat": 33.5311701,
+    "lon": 73.1584745,
+    "osm_id": 11836574230,
+    "osm_type": "node"
+  },
+  {
+    "name": "Basic Health Unit Zarinabad",
+    "category": "Hospital",
+    "lat": 34.145918,
+    "lon": 71.816229,
+    "osm_id": 11896681159,
+    "osm_type": "node"
+  },
+  {
+    "name": "Basic Health Unit Utmanzai",
+    "category": "Hospital",
+    "lat": 34.1925063,
+    "lon": 71.7612244,
+    "osm_id": 11896681160,
+    "osm_type": "node"
+  },
+  {
+    "name": "UMERZAI BASIC HEALTH UNIT",
+    "category": "Hospital",
+    "lat": 34.2438289,
+    "lon": 71.7259668,
+    "osm_id": 11896681161,
+    "osm_type": "node"
+  },
+  {
+    "name": "TURANGZAI BHU",
+    "category": "Hospital",
+    "lat": 34.2177802,
+    "lon": 71.75258,
+    "osm_id": 11896681162,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU Tarnab",
+    "category": "Hospital",
+    "lat": 34.2193681,
+    "lon": 71.685651,
+    "osm_id": 11896681163,
+    "osm_type": "node"
+  },
+  {
+    "name": "SHERPAO-RURAL HEALTH CENTER",
+    "category": "Hospital",
+    "lat": 34.2631288,
+    "lon": 71.707724,
+    "osm_id": 11896681164,
+    "osm_type": "node"
+  },
+  {
+    "name": "SHEKHABAD BHU",
+    "category": "Hospital",
+    "lat": 34.2199752,
+    "lon": 71.8531528,
+    "osm_id": 11896681165,
+    "osm_type": "node"
+  },
+  {
+    "name": "SHEIKHO-BASIC HEALTH UNIT",
+    "category": "Hospital",
+    "lat": 34.1701306,
+    "lon": 71.8533974,
+    "osm_id": 11896681166,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shekho BHU",
+    "category": "Hospital",
+    "lat": 34.1568251,
+    "lon": 71.8415957,
+    "osm_id": 11896681167,
+    "osm_type": "node"
+  },
+  {
+    "name": "AGRA-BASIC HEALTH UNIT",
+    "category": "Hospital",
+    "lat": 34.1220521,
+    "lon": 71.6797227,
+    "osm_id": 11898061541,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU Akhundari",
+    "category": "Hospital",
+    "lat": 34.2690675,
+    "lon": 71.7603163,
+    "osm_id": 11898061543,
+    "osm_type": "node"
+  },
+  {
+    "name": "BAGHI BAKHTIAR-BASIC HEALTH UNIT",
+    "category": "Hospital",
+    "lat": 34.2565305,
+    "lon": 71.7661549,
+    "osm_id": 11898061544,
+    "osm_type": "node"
+  },
+  {
+    "name": "BHU Daulat Pura",
+    "category": "Hospital",
+    "lat": 34.1713538,
+    "lon": 71.6684764,
+    "osm_id": 11898061545,
+    "osm_type": "node"
+  },
+  {
+    "name": "DHAKI-BASIC HEALTH UNIT",
+    "category": "Hospital",
+    "lat": 34.3072803,
+    "lon": 71.7678194,
+    "osm_id": 11898061546,
+    "osm_type": "node"
+  },
+  {
+    "name": "DOSERRA-BASIC HEALTH UNIT",
+    "category": "Hospital",
+    "lat": 34.1341531,
+    "lon": 71.8808329,
+    "osm_id": 11898061547,
+    "osm_type": "node"
+  },
+  {
+    "name": "GUL ABAD BHU",
+    "category": "Hospital",
+    "lat": 34.1471652,
+    "lon": 71.6782693,
+    "osm_id": 11898061548,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hasan Zai\tBHU",
+    "category": "Hospital",
+    "lat": 34.2707477,
+    "lon": 71.6036552,
+    "osm_id": 11898061549,
+    "osm_type": "node"
+  },
+  {
+    "name": "Fouji foundation hospital",
+    "category": "Hospital",
+    "lat": 32.9615719,
+    "lon": 73.7009506,
+    "osm_id": 11959779492,
+    "osm_type": "node"
+  },
+  {
+    "name": "Gondal hospital",
+    "category": "Hospital",
+    "lat": 32.9719509,
+    "lon": 73.6882123,
+    "osm_id": 11959787320,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ghazi Clinic",
+    "category": "Clinic",
+    "lat": 33.5076059,
+    "lon": 73.0447003,
+    "osm_id": 12014280627,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0627\u0642\u0628\u0627\u0644 \u0645\u06cc\u0688\u06cc\u06a9\u0644 \u0627\u06cc\u0646\u0688 \u0633\u0631\u062c\u06cc\u06a9\u0644 \u06a9\u0645\u0644\u06cc\u06a9\u0633",
+    "category": "Hospital",
+    "lat": 32.5720168,
+    "lon": 72.1582674,
+    "osm_id": 12053401364,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0686\u063a\u062a\u0627\u0626\u06cc \u0644\u06cc\u0628",
+    "category": "Laboratory",
+    "lat": 32.5720369,
+    "lon": 72.1582039,
+    "osm_id": 12053401368,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mega Medical Complex",
+    "category": "Hospital",
+    "lat": 33.5972995,
+    "lon": 73.0468936,
+    "osm_id": 12056081581,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0411\u0443\u043d\u0433\u043e\u04b3\u0438 \u0441\u0430\u043b\u043e\u043c\u0430\u0442\u0438\u0438 \u0434\u0435\u04b3\u0430\u0438 \u041c\u0443\u043b\u0432\u043e\u04b7",
+    "category": "Clinic",
+    "lat": 36.8902405,
+    "lon": 71.5235359,
+    "osm_id": 12084736256,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0411\u0435\u043c\u043e\u0440\u0445\u043e\u043d\u0430\u0438 \u043c\u0430\u0440\u043a\u0430\u0437\u0438\u0438 \u043d\u043e\u04b3\u0438\u044f\u0438 \u0418\u0448\u043a\u0430\u0448\u0438\u043c \u0431\u0430 \u043d\u043e\u043c\u0438 \u0411\u043e\u0440\u0430\u043a\u043e\u0432 \u0421\u0443\u043b\u0442\u043e\u043d\u0430\u043b\u04e3",
+    "category": "Hospital",
+    "lat": 36.7241967,
+    "lon": 71.6109471,
+    "osm_id": 12084960436,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0425\u0443\u0448\u0440\u0443\u0437-95",
+    "category": "Pharmacy",
+    "lat": 36.7230545,
+    "lon": 71.6149514,
+    "osm_id": 12084960458,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u041c\u0430\u0440\u043a\u0430\u0437\u0438 \u0441\u0430\u043b\u043e\u043c\u0430\u0442\u0438 \u0434\u0435\u04b3\u043e\u0442\u0438 \u041d\u0430\u043c\u0430\u0434\u0433\u04ef\u0442",
+    "category": "Clinic",
+    "lat": 36.6822628,
+    "lon": 71.7704469,
+    "osm_id": 12086737861,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0411\u0443\u043d\u0433\u043e\u04b3\u0438 \u0441\u0430\u043b\u043e\u043c\u0430\u0442\u0438\u0438 \u0434\u0435\u04b3\u0430\u0438 \u0414\u0430\u0440\u0448\u0430\u0439",
+    "category": "Clinic",
+    "lat": 36.7999368,
+    "lon": 72.0004744,
+    "osm_id": 12086946058,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alam Hospital",
+    "category": "Hospital",
+    "lat": 33.6300435,
+    "lon": 73.1189166,
+    "osm_id": 12143774524,
+    "osm_type": "node"
+  },
+  {
+    "name": "Madina Medical Store",
+    "category": "Pharmacy",
+    "lat": 33.9746837,
+    "lon": 71.4287802,
+    "osm_id": 12176181357,
+    "osm_type": "node"
+  },
+  {
+    "name": "EasyMart 1",
+    "category": "Pharmacy",
+    "lat": 33.9749607,
+    "lon": 71.4293699,
+    "osm_id": 12176223485,
+    "osm_type": "node"
+  },
+  {
+    "name": "Green Medicos & Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.9747066,
+    "lon": 71.4292882,
+    "osm_id": 12176231918,
+    "osm_type": "node"
+  },
+  {
+    "name": "Irfan Hospital Peshawar Center",
+    "category": "Hospital",
+    "lat": 33.9751027,
+    "lon": 71.4292689,
+    "osm_id": 12176279605,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rehman Medial Institute",
+    "category": "Hospital",
+    "lat": 33.9931319,
+    "lon": 71.4359667,
+    "osm_id": 12176304844,
+    "osm_type": "node"
+  },
+  {
+    "name": "Peshawar Institute of Cardiology",
+    "category": "Hospital",
+    "lat": 33.9885356,
+    "lon": 71.4366772,
+    "osm_id": 12176304845,
+    "osm_type": "node"
+  },
+  {
+    "name": "Peshawar General Hosptial",
+    "category": "Hospital",
+    "lat": 33.9930551,
+    "lon": 71.438724,
+    "osm_id": 12176430221,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sugar Hospital",
+    "category": "Hospital",
+    "lat": 33.9896195,
+    "lon": 71.4359588,
+    "osm_id": 12176432847,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mahboob Medical Institute",
+    "category": "Hospital",
+    "lat": 33.989723,
+    "lon": 71.4355428,
+    "osm_id": 12176477141,
+    "osm_type": "node"
+  },
+  {
+    "name": "Shinwari Pharmacy, Phase 5",
+    "category": "Pharmacy",
+    "lat": 33.992919,
+    "lon": 71.4347317,
+    "osm_id": 12176537628,
+    "osm_type": "node"
+  },
+  {
+    "name": "Mohammad Medical Complex",
+    "category": "Hospital",
+    "lat": 33.9893999,
+    "lon": 71.4339548,
+    "osm_id": 12176549406,
+    "osm_type": "node"
+  },
+  {
+    "name": "Umar Pharmacy",
+    "category": "Pharmacy",
+    "lat": 33.9895667,
+    "lon": 71.4339536,
+    "osm_id": 12176549407,
+    "osm_type": "node"
+  },
+  {
+    "name": "new gujjar khan medical store",
+    "category": "Hospital",
+    "lat": 33.6520132,
+    "lon": 73.1954238,
+    "osm_id": 12215025180,
+    "osm_type": "node"
+  },
+  {
+    "name": "IIUI MEDICAL CENTRE",
+    "category": "Hospital",
+    "lat": 33.6621889,
+    "lon": 73.021572,
+    "osm_id": 12229985624,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Diagnostic Centre (IDC), Abbottabad",
+    "category": "Clinic",
+    "lat": 34.1997866,
+    "lon": 73.2380795,
+    "osm_id": 12241134976,
+    "osm_type": "node"
+  },
+  {
+    "name": "Civil Dispensary Gulbahar",
+    "category": "Clinic",
+    "lat": 34.0108886,
+    "lon": 71.5969117,
+    "osm_id": 12357239871,
+    "osm_type": "node"
+  },
+  {
+    "name": "Civil Dispensary Gulbahar",
+    "category": "Clinic",
+    "lat": 34.0108337,
+    "lon": 71.5969315,
+    "osm_id": 12357276825,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0645\u0631\u0643\u0632 \u0627\u0628\u0646 \u0633\u064a\u0646\u0627 \u0644\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u062a\u0623\u0647\u064a\u0644",
+    "category": "Clinic",
+    "lat": 34.5472472,
+    "lon": 69.2560208,
+    "osm_id": 12369296040,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ghulam mehdi memorial hospital GMMH",
+    "category": "Hospital",
+    "lat": 33.6643883,
+    "lon": 72.8610327,
+    "osm_id": 12384969502,
+    "osm_type": "node"
+  },
+  {
+    "name": "Doctor Aslam",
+    "category": "Pharmacy",
+    "lat": 32.7107687,
+    "lon": 73.960699,
+    "osm_id": 12437222301,
+    "osm_type": "node"
+  },
+  {
+    "name": "Khyber Eye Foundation Hospital, Gulbahar",
+    "category": "Hospital",
+    "lat": 34.0099945,
+    "lon": 71.610672,
+    "osm_id": 12448048670,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alshifa Hospital Bagh",
+    "category": "Hospital",
+    "lat": 33.9809388,
+    "lon": 73.7754462,
+    "osm_id": 12459792945,
+    "osm_type": "node"
+  },
+  {
+    "name": "talal house",
+    "category": "Alternative",
+    "lat": 32.7912501,
+    "lon": 74.063671,
+    "osm_id": 12697715701,
+    "osm_type": "node"
+  },
+  {
+    "name": "ayesha ilyas",
+    "category": "Alternative",
+    "lat": 32.7748252,
+    "lon": 73.9865454,
+    "osm_id": 12717770522,
+    "osm_type": "node"
+  },
+  {
+    "name": "gujrat hospital",
+    "category": "Hospital",
+    "lat": 32.5683848,
+    "lon": 74.0726191,
+    "osm_id": 12717783944,
+    "osm_type": "node"
+  },
+  {
+    "name": "talihome",
+    "category": "Alternative",
+    "lat": 32.7912293,
+    "lon": 74.0635239,
+    "osm_id": 12739415844,
+    "osm_type": "node"
+  },
+  {
+    "name": "Elaaj International Hospital Islamabad",
+    "category": "Hospital",
+    "lat": 33.630284,
+    "lon": 73.1149925,
+    "osm_id": 12754325901,
+    "osm_type": "node"
+  },
+  {
+    "name": "Health International Hospital",
+    "category": "Hospital",
+    "lat": 33.6327853,
+    "lon": 73.1130521,
+    "osm_id": 12754336401,
+    "osm_type": "node"
+  },
+  {
+    "name": "Islamabad Diagnostic Centre Sanam Chowk Branch",
+    "category": "Laboratory",
+    "lat": 33.632799,
+    "lon": 73.1267905,
+    "osm_id": 12756505501,
+    "osm_type": "node"
+  },
+  {
+    "name": "noor generar hospital",
+    "category": "Hospital",
+    "lat": 33.6689967,
+    "lon": 73.0004123,
+    "osm_id": 12844548570,
+    "osm_type": "node"
+  },
+  {
+    "name": "Haidery dawakhana",
+    "category": "Pharmacy",
+    "lat": 32.0245504,
+    "lon": 72.6103032,
+    "osm_id": 13197715730,
+    "osm_type": "node"
+  },
+  {
+    "name": "Ali clinic",
+    "category": "Clinic",
+    "lat": 32.0885048,
+    "lon": 72.6587179,
+    "osm_id": 13200231728,
+    "osm_type": "node"
+  },
+  {
+    "name": "Govt dispensary",
+    "category": "Pharmacy",
+    "lat": 32.0250442,
+    "lon": 72.6115263,
+    "osm_id": 13200553830,
+    "osm_type": "node"
+  },
+  {
+    "name": "standard care hospital",
+    "category": "Hospital",
+    "lat": 33.5504519,
+    "lon": 73.1256581,
+    "osm_id": 13233399419,
+    "osm_type": "node"
+  },
+  {
+    "name": "IDC",
+    "category": "Hospital",
+    "lat": 33.5979608,
+    "lon": 73.04565,
+    "osm_id": 13240932685,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0646\u0635\u0631 \u0641\u0627\u0631\u0645\u0633\u06cc",
+    "category": "Pharmacy",
+    "lat": 34.5549061,
+    "lon": 69.3603773,
+    "osm_id": 13310000801,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rural Health Center (RHC), Miana Gondal",
+    "category": "Hospital",
+    "lat": 32.3787284,
+    "lon": 73.1507125,
+    "osm_id": 13317070594,
+    "osm_type": "node"
+  },
+  {
+    "name": "SHAREEF HOSPITAL",
+    "category": "Hospital",
+    "lat": 31.3379789,
+    "lon": 73.4283824,
+    "osm_id": 13321769436,
+    "osm_type": "node"
+  },
+  {
+    "name": "Surgical and Aesthetic Clinic",
+    "category": "Clinic",
+    "lat": 33.7208767,
+    "lon": 73.0562762,
+    "osm_id": 13358961526,
+    "osm_type": "node"
+  },
+  {
+    "name": "Moeens Cosmetics",
+    "category": "Clinic",
+    "lat": 33.7209486,
+    "lon": 73.0564328,
+    "osm_id": 13358961530,
+    "osm_type": "node"
+  },
+  {
+    "name": "Clinic",
+    "category": "Clinic",
+    "lat": 33.562143,
+    "lon": 73.1183405,
+    "osm_id": 13433015401,
+    "osm_type": "node"
+  },
+  {
+    "name": "BLDX home",
+    "category": "Hospital",
+    "lat": 31.6315882,
+    "lon": 73.5882868,
+    "osm_id": 13534391482,
+    "osm_type": "node"
+  },
+  {
+    "name": "AFIP Lboratory CMH Rawalpindi",
+    "category": "Hospital",
+    "lat": 33.5798719,
+    "lon": 73.0459138,
+    "osm_id": 13539488601,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hamid Curative Clinic",
+    "category": "Clinic",
+    "lat": 33.3821681,
+    "lon": 70.0874998,
+    "osm_id": 13597390826,
+    "osm_type": "node"
+  },
+  {
+    "name": "Hayat Medical Hospital",
+    "category": "Hospital",
+    "lat": 34.5437941,
+    "lon": 69.255681,
+    "osm_id": 13624663050,
+    "osm_type": "node"
+  },
+  {
+    "name": "Everest Dental and Aesthetics Lounge",
+    "category": "Dentist",
+    "lat": 33.6923207,
+    "lon": 72.8316394,
+    "osm_id": 13625545467,
+    "osm_type": "node"
+  },
+  {
+    "name": "MNHC (Maryam Nawaz Health Clinic",
+    "category": "Hospital",
+    "lat": 33.3414226,
+    "lon": 73.4999855,
+    "osm_id": 13625871628,
+    "osm_type": "node"
+  },
+  {
+    "name": "Alii House",
+    "category": "Hospital",
+    "lat": 31.5167779,
+    "lon": 71.1723184,
+    "osm_id": 13691886968,
+    "osm_type": "node"
+  },
+  {
+    "name": "MIDCITY PHARMACY",
+    "category": "Pharmacy",
+    "lat": 31.4332131,
+    "lon": 73.111375,
+    "osm_id": 13696007909,
+    "osm_type": "node"
+  },
+  {
+    "name": "MUJAHID PHARMACY",
+    "category": "Pharmacy",
+    "lat": 31.4307983,
+    "lon": 73.112966,
+    "osm_id": 13696007915,
+    "osm_type": "node"
+  },
+  {
+    "name": "BUTT PHARMACY",
+    "category": "Pharmacy",
+    "lat": 31.4314232,
+    "lon": 73.1131416,
+    "osm_id": 13696007918,
+    "osm_type": "node"
+  },
+  {
+    "name": "MUJAHID PHARMACY",
+    "category": "Pharmacy",
+    "lat": 31.4320235,
+    "lon": 73.1125011,
+    "osm_id": 13696007921,
+    "osm_type": "node"
+  },
+  {
+    "name": "FAMILY CLINIC",
+    "category": "Clinic",
+    "lat": 31.4336525,
+    "lon": 73.1143712,
+    "osm_id": 13696007929,
+    "osm_type": "node"
+  },
+  {
+    "name": "Bahria Town OPD Complex",
+    "category": "Hospital",
+    "lat": 33.5417626,
+    "lon": 73.1085159,
+    "osm_id": 13715619790,
+    "osm_type": "node"
+  },
+  {
+    "name": "Spring North Hospital",
+    "category": "Yes",
+    "lat": 33.5218018,
+    "lon": 73.0880755,
+    "osm_id": 13722641657,
+    "osm_type": "node"
+  },
+  {
+    "name": "Sabir Dental Clinic",
+    "category": "Dentist",
+    "lat": 33.8966871,
+    "lon": 70.0966192,
+    "osm_id": 13754491514,
+    "osm_type": "node"
+  },
+  {
+    "name": "\u0628\u0686\u0648\u06ba \u06a9\u0627 \u0648\u0627\u0631\u0688",
+    "category": "Clinic",
+    "lat": 34.3738465,
+    "lon": 73.4670065,
+    "osm_id": 13793863458,
+    "osm_type": "node"
+  },
+  {
+    "name": "Tanveer Rehabilitation Center physiotherapy chiropractic",
+    "category": "Rehabilitation",
+    "lat": 33.7560591,
+    "lon": 72.7580552,
+    "osm_id": 13805399497,
+    "osm_type": "node"
+  },
+  {
+    "name": "Rural Health Center",
+    "category": "Hospital",
+    "lat": 31.7259631,
+    "lon": 73.1092228,
+    "osm_id": 13872536886,
+    "osm_type": "node"
+  },
+  {
+    "name": "Zainab General Hospital",
+    "category": "Hospital",
+    "lat": 31.4489495,
+    "lon": 73.0970756,
+    "osm_id": 13993317840,
+    "osm_type": "node"
+  },
+  {
+    "name": "Transform Plastic Surgery Clinic",
+    "category": "Clinic",
+    "lat": 33.9984023,
+    "lon": 71.4668131,
+    "osm_id": 14022377069,
+    "osm_type": "node"
+  }
+]

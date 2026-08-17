@@ -1,0 +1,12 @@
+class_value,label,area_km2,pct_area
+10,Tree cover,18251.66,18.05
+20,Shrubland,13141.38,13.0
+30,Grassland,20898.41,20.67
+40,Cropland,12944.96,12.8
+50,Built-up,2043.25,2.02
+60,Bare / sparse vegetation,25101.84,24.82
+70,Snow and ice,4506.0,4.46
+80,Permanent water bodies,892.23,0.88
+90,Herbaceous wetland,1.14,0.0
+95,Mangroves,0.0,0.0
+100,Moss and lichen,3338.98,3.3

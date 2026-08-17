@@ -1,0 +1,36 @@
+district,merged_facility_count,govt_institutions_official,difference,note
+Abbottabad,203,114,89,Merged count includes private facilities not in Dev Stats' government-only tally
+Bajaur,4,28,-24,Dev Stats shows more government institutions than our merged source data captured
+Bannu,19,217,-198,Dev Stats shows more government institutions than our merged source data captured
+Battagram,9,45,-36,Dev Stats shows more government institutions than our merged source data captured
+Buner,21,38,-17,Dev Stats shows more government institutions than our merged source data captured
+Charsadda,57,61,-4,Dev Stats shows more government institutions than our merged source data captured
+Dera Ismail Khan,31,107,-76,Dev Stats shows more government institutions than our merged source data captured
+Hangu,1,28,-27,Dev Stats shows more government institutions than our merged source data captured
+Haripur,55,71,-16,Dev Stats shows more government institutions than our merged source data captured
+Karak,7,38,-31,Dev Stats shows more government institutions than our merged source data captured
+Khyber,3,53,-50,Dev Stats shows more government institutions than our merged source data captured
+Kohat,48,60,-12,Dev Stats shows more government institutions than our merged source data captured
+Kolai Palas Kohistan,0,11,-11,Dev Stats shows more government institutions than our merged source data captured
+Kurram,5,79,-74,Dev Stats shows more government institutions than our merged source data captured
+Lakki Marwat,0,63,-63,Dev Stats shows more government institutions than our merged source data captured
+Lower Chitral,4,41,-37,Dev Stats shows more government institutions than our merged source data captured
+Lower Dir,27,75,-48,Dev Stats shows more government institutions than our merged source data captured
+Lower Kohistan,3,12,-9,Dev Stats shows more government institutions than our merged source data captured
+Malakand,31,44,-13,Dev Stats shows more government institutions than our merged source data captured
+Mansehra,44,138,-94,Dev Stats shows more government institutions than our merged source data captured
+Mardan,122,86,36,Merged count includes private facilities not in Dev Stats' government-only tally
+Mohmand,0,52,-52,Dev Stats shows more government institutions than our merged source data captured
+North Waziristan,0,288,-288,Dev Stats shows more government institutions than our merged source data captured
+Nowshera,44,58,-14,Dev Stats shows more government institutions than our merged source data captured
+Orakzai,0,66,-66,Dev Stats shows more government institutions than our merged source data captured
+Peshawar,663,129,534,Merged count includes private facilities not in Dev Stats' government-only tally
+Shangla,4,39,-35,Dev Stats shows more government institutions than our merged source data captured
+South Waziristan,0,78,-78,Dev Stats shows more government institutions than our merged source data captured
+Swabi,46,66,-20,Dev Stats shows more government institutions than our merged source data captured
+Swat,98,81,17,Merged count includes private facilities not in Dev Stats' government-only tally
+Tank,2,83,-81,Dev Stats shows more government institutions than our merged source data captured
+Torghar,0,13,-13,Dev Stats shows more government institutions than our merged source data captured
+Upper Chitral,5,30,-25,Dev Stats shows more government institutions than our merged source data captured
+Upper Dir,7,57,-50,Dev Stats shows more government institutions than our merged source data captured
+Upper Kohistan,0,21,-21,Dev Stats shows more government institutions than our merged source data captured

@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
+*.egg-info/
+venv/
+.venv/
+
+# Large regenerable geospatial rasters - GitHub hard-blocks files over
+# 100MB. Regenerate with:
+#   python scripts/15_fetch_dem.py
+#   python scripts/23_fetch_landcover.py
+# See README.md "Fetching the DEM and land-cover rasters" for details.
+gis/KP_DEM.tif
+gis/KP_DEM.tif.aux.xml
+gis/_dem_mosaic_tmp.tif
+gis/KP_LandCover.tif
+gis/KP_LandCover.tif.aux.xml
+gis/_landcover_mosaic_tmp.tif
+
+# Full-KP OSM road network - 200MB+, exceeds GitHub's 100MB file limit.
+# Regenerate with:
+#   python scripts/06_fetch_roads_osm.py
+data/raw/osm_roads.json
+data/raw/*.rar
+
+# This project's own bundled, private PostgreSQL data directory
+# (scripts/lib/local_db.py) - pure runtime state, created automatically
+# on first app startup. Never a system-wide PostgreSQL install.
+data/pgdata/

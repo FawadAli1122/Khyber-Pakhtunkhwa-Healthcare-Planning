@@ -1,0 +1,36 @@
+district,accessibility_min,centroid_shift_km,point_source
+Abbottabad,10.4,4.17,built_up_weighted
+Bajaur,13.54,1.21,built_up_weighted
+Bannu,5.29,4.81,built_up_weighted
+Battagram,65.46,13.01,built_up_weighted
+Buner,9.16,3.85,built_up_weighted
+Charsadda,5.5,2.02,built_up_weighted
+Lower Chitral,27.73,13.29,built_up_weighted
+Upper Chitral,42.3,26.27,built_up_weighted
+Dera Ismail Khan,22.66,21.87,built_up_weighted
+Hangu,21.88,3.32,built_up_weighted
+Haripur,7.09,4.56,built_up_weighted
+Karak,27.4,8.87,built_up_weighted
+Khyber,10.43,21.72,built_up_weighted
+Kohat,8.44,8.23,built_up_weighted
+Lower Kohistan,37.75,9.96,built_up_weighted
+Upper Kohistan,183.16,7.0,built_up_weighted
+Kolai Palas Kohistan,87.02,24.34,built_up_weighted
+Kurram,20.74,13.56,built_up_weighted
+Lakki Marwat,48.37,1.21,built_up_weighted
+Lower Dir,7.12,2.45,built_up_weighted
+Malakand,18.97,2.93,built_up_weighted
+Mansehra,17.38,33.79,built_up_weighted
+Mardan,9.01,6.95,built_up_weighted
+Mohmand,49.91,0.58,built_up_weighted
+North Waziristan,58.3,20.42,built_up_weighted
+Nowshera,5.19,7.51,built_up_weighted
+Orakzai,84.9,3.65,built_up_weighted
+Peshawar,0.73,8.7,built_up_weighted
+Shangla,55.82,4.16,built_up_weighted
+South Waziristan,24.94,8.01,built_up_weighted
+Swabi,9.84,4.04,built_up_weighted
+Swat,36.98,42.74,built_up_weighted
+Tank,42.49,10.6,built_up_weighted
+Torghar,60.97,1.91,built_up_weighted
+Upper Dir,60.73,22.95,built_up_weighted
