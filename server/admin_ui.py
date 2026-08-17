@@ -15,6 +15,18 @@ DISPLAY_NAMES = {
     "groq": "Groq",
 }
 
+# Shown on every admin-panel page (setup, login, the panel itself) so
+# anyone viewing this portfolio's admin surface can see who built it and
+# how to get in touch - injected right before </body> on each page,
+# never editable/removable from the UI itself.
+ATTRIBUTION_HTML = (
+    '<p style="margin-top:2rem;padding-top:1rem;border-top:1px solid var(--line);'
+    'font-size:0.8rem;color:var(--muted);text-align:center">'
+    "Built by Engr. Fawad Ali &middot; "
+    '<a href="mailto:fawadali1234567@gmail.com" style="color:inherit">'
+    "fawadali1234567@gmail.com</a></p>"
+)
+
 ADMIN_CSS = r"""
 :root {
   color-scheme: light;
@@ -1234,6 +1246,7 @@ def render_setup_page(error=None):
   <button type="submit" class="primary">Set Password</button>
 </form>
 </div>
+{ATTRIBUTION_HTML}
 </body>
 </html>
 """
@@ -1258,6 +1271,7 @@ def render_login_page(error=None):
   <button type="submit" class="primary">Log In</button>
 </form>
 </div>
+{ATTRIBUTION_HTML}
 </body>
 </html>
 """
@@ -1452,6 +1466,7 @@ def render_admin_panel(statuses):
 <p style="margin-top:1.5rem"><button type="button" class="secondary" id="logout-btn">Log Out</button></p>
 </div>
 <script>{ADMIN_JS}</script>
+{ATTRIBUTION_HTML}
 </body>
 </html>
 """

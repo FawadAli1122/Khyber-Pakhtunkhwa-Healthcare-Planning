@@ -1408,6 +1408,7 @@ Built with an open-data GIS + AI pipeline (shapely, pyshp, scikit-learn, matplot
 accompanying QGIS project (<code>gis/KP_Healthcare_Plan.qgz</code>, including the Copernicus GLO-30 elevation
 layer) and shapefiles in <code>gis/</code> for the full spatial dataset.
 This report and its underlying shapefiles are a planning aid, not an official government publication.
+<p style="margin-top:0.75rem">Built by Engr. Fawad Ali &middot; <a href="mailto:fawadali1234567@gmail.com" style="color:inherit">fawadali1234567@gmail.com</a></p>
 </footer>
 </main>
 <script type="application/json" id="dashboard-data">{json.dumps(dashboard_payload)}</script>

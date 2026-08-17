@@ -65,6 +65,8 @@ async def test_start_command_authorized_sends_help(monkeypatch):
     await telegram_bot.start_command(update, _make_context())
     update.message.reply_text.assert_awaited_once()
     assert "/report" in update.message.reply_text.call_args[0][0]
+    assert "Engr. Fawad Ali" in update.message.reply_text.call_args[0][0]
+    assert "fawadali1234567@gmail.com" in update.message.reply_text.call_args[0][0]
 
 
 @pytest.mark.asyncio

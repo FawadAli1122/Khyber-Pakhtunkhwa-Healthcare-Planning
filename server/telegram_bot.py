@@ -50,7 +50,8 @@ HELP_TEXT = (
     "/override - apply a new pipeline data override\n"
     "/tables [name] - list tables, or show a table's rows; /newtable, /addrow <table> - manage custom data tables\n"
     "/dbconnect, /dbtables, /dbpreview <table>, /dbingest <table> - database ingestion\n"
-    "/localtables, /localview <table>, /localedit <table> <row#> - browse/edit the bundled database directly"
+    "/localtables, /localview <table>, /localedit <table> <row#> - browse/edit the bundled database directly\n\n"
+    "Built by Engr. Fawad Ali - fawadali1234567@gmail.com"
 )
 
 _application = None
